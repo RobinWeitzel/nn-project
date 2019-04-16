@@ -16,7 +16,7 @@ Two players each have 16 pieces which start on their respective side of the boar
 The goal is to checkmate the opponents king.
 For a more detailed explanation of the pieces and the rules I refer to the excellent tutorial by [chess.com](https://www.chess.com/learn-how-to-play-chess).  
 
-### one-hot-encoding each position
+### One-hot-encoding each position
 A 8x8 grid makes the possible number of positions sound fairly small.  
 Why not just assign a unique id to each board state?  
 Unfortunately, doing quick napkin math reveals the number of possible combinations to be impossibly high.  
@@ -24,13 +24,22 @@ Unfortunately, doing quick napkin math reveals the number of possible combinatio
 Assuming every piece can reach every position (which is not true but we are just making an estimate) this means we have 64 positions per piece.
 The 16 pieces of a player can therefore make up $ 64^16 $ board states.  
 Admittedly not all of the 16 pieces of a player are unique (in fact only two are). So lets take only a third of this number as our actual result.  
-Now we still have to account for the other player resulting in $ \frac{64^16}{3}^2 = 6.9745575e+56 $ possible board states.  
+Now we still have to account for the other player resulting in $ \frac{64^{16}}{3}^2 = 6.97e+56 $ possible board states.  
 Looking at literature, our quick estimate is fairly close to what other came up with [[1]](https://content.iospress.com/articles/icga-journal/icg19-3-05).
+So one-hot-encoding is a no-go.
 
+### Algebraic chess notation
+![chess board](https://en.wikipedia.org/wiki/Algebraic_notation_(chess)#/media/File:SCD_algebraic_notation.svg "Chess board")
+Looking at a chess board you may notice the letters underneath each column and the numbers next to each row.  
+These can be used to reference each square forming the basis for most human chess notations.  
 
+The most widely used one is the "algebraic chess notation".  
+First used by Philipp Stamma in his 1937 published "The Noble Game Of Chess" [[2]](https://books.google.de/books?id=IxpZAAAAYAAJ&printsec=frontcover&hl=de&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false) it has become the standard for most modern chess tournaments.  
+A move is described by combining the initials of the piece and the destination square (i.e. Be5 = bishop to e5).  
+I once again refer you to [chess.com](https://www.chess.com/article/view/chess-notation#algebraic-notation) if you want to learn more about this notation.
 
+For us, even the basics make it clear that this notation is not suitable for this project.  
+To generate a useful caption the computer needs to know not just the last move but also the position of all other pieces.  
+In the algebraic notation, this information can only be gained by playing out all previous moves making it useless to capture just a snapshot of the board state.
+This also hold true for other variant such as the [ICCF numeric notation](https://en.wikipedia.org/wiki/ICCF_numeric_notation) which is used for some international tournaments.
 
-Even though the history of chess can be traced back almost 1500 years [[1]](https://books.google.ee/books?hl=de&lr=&id=aSqGDwAAQBAJ&oi=fnd&pg=PT7&dq=history+of+chess&ots=x_9vaKPgJE&sig=q7xzT_kkhWjbAuixHv4ZvEzzGik&redir_esc=y#v=onepage&q=history%20of%20chess&f=false), the notation we use today has only been around for a few hundred years.  
-First used by Philipp Stamma in his 1937 published "The Noble Game Of Chess" [[2]](https://books.google.de/books?id=IxpZAAAAYAAJ&printsec=frontcover&hl=de&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false), the "algebraic chess notation" has become the standard for all modern chess tournaments.  
-
-A chess board is made up 
