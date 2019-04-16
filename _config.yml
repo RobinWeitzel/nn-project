@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-title: Neural Networks Project - Explainable Chess
+title: Explainable Chess
 # Short description of your site
 description: >- # this means to ignore newlines until "baseurl:"
   In this blog I describe my efforts to train neural networks to explain chess moves.
