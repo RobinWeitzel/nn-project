@@ -47,7 +47,11 @@ This also hold true for most other human-readable notations (i.e. [ICCF numeric 
 One notable exception os the Forsyth-Edwards notation.  
 It captures the board state in a single line.  
 For example, the starting position would look as follows:
-    rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+
+~~~
+rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+~~~
+
 However, if we pass thi notation into a neural network we have to translate each letter into a number.
 Furthermore, the network would need to understand the notation as part of its training making the whole process more complex.
 Thus I decided against using this method even though it is very concise.
