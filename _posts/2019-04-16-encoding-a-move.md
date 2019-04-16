@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Encoding a Move"
+date:   2019-04-16 10:54:00 +0200
+mathjax: true
+categories: project
+---
+When training a computer to describe chess moves, we first need to tell the computer what move is on board.  
+The easiest solution is to simply take a picture of the board state before and after a move and let the neural network train on this.  
+Yet forcing the computer to interpret an image made up of thousands (possibly millions) of pixels just to gleam the position of 32 figures on an 8x8 board seems overkill.  
+Instead, let's have a look both at more compact methods to save a board state.
+
+### The basics
+A modern chess board consist of 64 chequered squares arranged in a 8x8 grid.
+Two players each have 16 pieces which start on their respective side of the board.
+The goal is to checkmate the opponents king.
+For a more detailed explanation of the pieces and the rules I refer to the excellent tutorial by [chess.com](https://www.chess.com/learn-how-to-play-chess).  
+
+### one-hot-encoding each position
+A 8x8 grid makes the possible number of positions sound fairly small.  
+Why not just assign a unique id to each board state?  
+Unfortunately, doing quick napkin math reveals the number of possible combinations to be impossibly high.  
+
+Assuming every piece can reach every position (which is not true but we are just making an estimate) this means we have 64 positions per piece.
+The 16 pieces of a player can therefore make up $ 64^16 $ board states.  
+Admittedly not all of the 16 pieces of a player are unique (in fact only two are). So lets take only a third of this number as our actual result.  
+Now we still have to account for the other player resulting in $ \frac{64^16}{3}^2 = 6.9745575e+56 $ possible board states.  
+Looking at literature, our quick estimate is fairly close to what other came up with [[1]](https://content.iospress.com/articles/icga-journal/icg19-3-05).
+
+
+
+
+Even though the history of chess can be traced back almost 1500 years [[1]](https://books.google.ee/books?hl=de&lr=&id=aSqGDwAAQBAJ&oi=fnd&pg=PT7&dq=history+of+chess&ots=x_9vaKPgJE&sig=q7xzT_kkhWjbAuixHv4ZvEzzGik&redir_esc=y#v=onepage&q=history%20of%20chess&f=false), the notation we use today has only been around for a few hundred years.  
+First used by Philipp Stamma in his 1937 published "The Noble Game Of Chess" [[2]](https://books.google.de/books?id=IxpZAAAAYAAJ&printsec=frontcover&hl=de&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false), the "algebraic chess notation" has become the standard for all modern chess tournaments.  
+
+A chess board is made up 
