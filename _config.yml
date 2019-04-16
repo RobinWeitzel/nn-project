@@ -16,7 +16,7 @@
 title: Neural Networks Project - Explainable Chess
 email: robin.weitzel.rw@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  In this blog I describe my efford to train neural networks to explain chess moves.
+  In this blog I describe my efforts to train neural networks to explain chess moves.
   The focus is largely on how to best encode a chess position/move.
 baseurl: "/nn-project" # the subpath of your site, e.g. /blog
 url: "https://robinweitzel.github.io" # the base hostname & protocol for your site, e.g. http://example.com
