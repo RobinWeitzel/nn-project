@@ -1,19 +1,9 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 # --- General options --- #
+
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+
+# If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 title: Neural Networks Project - Explainable Chess
 # Short description of your site
 description: >- # this means to ignore newlines until "baseurl:"
@@ -22,11 +12,11 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/nn-project" # the subpath of your site, e.g. /blog
 url: "https://robinweitzel.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-
 # --- Navigation bar options --- #
+
 # List of links in the navigation bar
 navbar-links:
-  About: "about"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -35,7 +25,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "/img/avatar-icon.png"
+avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -76,7 +66,9 @@ author:
 social-network-links:
   rss: true
   email: "robin.weitzel.rw@gmail.com"
+#  facebook: daattali
   github: RobinWeitzel
+#  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -90,6 +82,17 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
+
+# Select which share links to show in posts
+share-links-active:
+  twitter: false
+  facebook: false
+  google: false
+  linkedin: false
+
+# How to display the link to the website in the footer
+# Remove this if you don't want a link in the footer
+# url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -122,6 +125,15 @@ social-network-links:
 # fb_comment_id: ""
 
 # Staticman support
+#staticman:
+#  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
+#  branch     : # eg. "master" If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+#  endpoint   : # URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
+#  reCaptcha:
+#    # reCaptcha for Staticman (OPTIONAL)
+#    # If you use reCaptcha, you must also set these parameters in staticman.yml
+#    siteKey  : # Use your own site key, you need to apply for one on Google
+#    secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
 
 # --- Misc --- #
 
@@ -139,7 +151,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-#timezone: "America/Vancouver"
+timezone: "Europe/Tallinn"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
