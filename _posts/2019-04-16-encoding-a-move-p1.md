@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Encoding a Move"
+title:  "Encoding a Move - Part 1"
 date:   2019-04-16 10:54:00 +0200
 mathjax: true
-categories: project
+tags: project encoding
 ---
 When training a computer to describe chess moves, we first need to tell the computer what move is on board.  
 The easiest solution is to simply take a picture of the board state before and after a move and let the neural network train on this.  
@@ -29,7 +29,7 @@ Looking at literature, our quick estimate is fairly close to what other came up 
 So one-hot-encoding is a no-go.
 
 ### Algebraic chess notation
-![chess board]({{site.baseurl}}/img/SCD_algebraic_notation.svg.png "Chess board")
+![chess board](../img/SCD_algebraic_notation.svg.png "Chess board").
 Looking at a chess board you may notice the letters underneath each column and the numbers next to each row.  
 These can be used to reference each square forming the basis for most human chess notations.  
 
@@ -38,8 +38,19 @@ First used by Philipp Stamma in his 1937 published "The Noble Game Of Chess" [[2
 A move is described by combining the initials of the piece and the destination square (i.e. Be5 = bishop to e5).  
 I once again refer you to [chess.com](https://www.chess.com/article/view/chess-notation#algebraic-notation) if you want to learn more about this notation.
 
-For us, even the basics make it clear that this notation is not suitable for this project.  
+For us, even the basics make it clear that this notation is not suitable for our project.  
 To generate a useful caption the computer needs to know not just the last move but also the position of all other pieces.  
-In the algebraic notation, this information can only be gained by playing out all previous moves making it useless to capture just a snapshot of the board state.
-This also hold true for other variant such as the [ICCF numeric notation](https://en.wikipedia.org/wiki/ICCF_numeric_notation) which is used for some international tournaments.
+In the algebraic notation, this information can only be gained by playing out all previous moves making it useless to capture just a snapshot of the board state.  
+
+### Forsyth-Edwards notation
+This also hold true for most other human-readable notations (i.e. [ICCF numeric notation](https://en.wikipedia.org/wiki/ICCF_numeric_notation), [descriptive notation](https://en.wikipedia.org/wiki/Descriptive_notation)).  
+One notable exception os the Forsyth-Edwards notation.  
+It captures the board state in a single line.  
+For example, the starting position would look as follows:
+    rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+However, if we pass thi notation into a neural network we have to translate each letter into a number.
+Furthermore, the network would need to understand the notation as part of its training making the whole process more complex.
+Thus I decided against using this method even though it is very concise.
+
+In the next post I will look at notations that are not human-readable but better suited for a computer.  
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "First Post"
 date:   2019-04-15 17:21:00 +0200
-categories: project
+tags: project
 ---
 The goal of my first post is threefold:
 * outline the aim of this project
