@@ -29,7 +29,7 @@ Looking at literature, our quick estimate is fairly close to what other came up 
 So one-hot-encoding is a no-go.
 
 ### Algebraic chess notation
-![chess board](../img/SCD_algebraic_notation.svg.png "Chess board").
+![chess board](../img/SCD_algebraic_notation.svg.png "Chess board")
 Looking at a chess board you may notice the letters underneath each column and the numbers next to each row.
 These can be used to reference each square forming the basis for most human chess notations.
 
