@@ -31,4 +31,4 @@ Lastly, I will evaluate the results from the model.
 
 ### Possible Challenges
 * Finding enough usable data sets
-* Generating captions that make sense (both grammatically and chess related)
+* Generating captions that make sense (both grammatically and chess related)  
