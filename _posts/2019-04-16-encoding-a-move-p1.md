@@ -24,7 +24,7 @@ Unfortunately, doing quick napkin math reveals the number of possible combinatio
 Assuming every piece can reach every position (which is not true but we are just making an estimate) this means we have 64 positions per piece.
 The 16 pieces of a player can therefore make up $ 64^16 $ board states.
 Admittedly not all of the 16 pieces of a player are unique (in fact only two are). So lets take only a third of this number as our actual result.
-Now we still have to account for the other player resulting in $ \frac{64^{16}}{3}^2 = 6.97e+56 $ possible board states.
+Now we still have to account for the other player resulting in $ \frac{64^{16}}{3}^2 = 6.97 * 10^{56} $ possible board states.
 Looking at literature, our quick estimate is fairly close to what other came up with [[1]](https://content.iospress.com/articles/icga-journal/icg19-3-05).
 So one-hot-encoding is a no-go.
 
