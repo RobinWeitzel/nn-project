@@ -21,16 +21,19 @@ in theory, a neural network can understand any notation but the more complex the
 In the previous chapter I said the chess board is made up of 8x8 chequered squares.
 This sounds like a matrix, why not represent the board as one?
 Something like this where the number stands for a certain piece and $ i_11 $ maps to the top left of the board:
+
 $$ \begin{bmatrix} -5 & -2 & -3 & -7 & -9 & -3 & -2 & -5 \\ -1 & -1 & -1 & -1 & -1 & -1 & -1 & -1 \\ 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\ 1 & 1 & 1 & 1 & 1 & 1 & 1 & 1 \\ 5 & 2 & 3 & 7 & 9 & 3 & 2 & 5 \end{bmatrix} $$
+
 Even better, we can convert the categorical values for each piece into one-hot-encoded vectors.
 Depending on whether we:
-* see the black and white pieces as different vectors (i.e. $ white pawn = [1 0 0 ...] $, $ black pawn = [0 1 0 ...] $)
-* or just take the negative value of each white piece vector for the black piece (i.e. $ [1 0 0 ] $ and $ [-1 0 0] $)
+* see the black and white pieces as different vectors (i.e. $ white pawn = \begin{bmatrix} 1 & 0 & 0 & ... \end{bmatrix} $, $ black pawn = \begin{bmatrix} 0 & 1 & 0 & ... \end{bmatrix} $)
+* or just take the negative value of each white piece vector for the black piece (i.e. $ \begin{bmatrix} 1 & 0 & 0 & ... \end{bmatrix} $ and $ \begin{bmatrix} -1 & 0 & 0 & ... \end{bmatrix} $)
+
 we get a matrix of 8x8x12 (8x8x6).
 
 This representation looks very similar to how we represent images.
+![image as matrix](../img/Color-image-representation-and-RGB-matrix.png "Source: https://www.researchgate.net/publication/282798184_The_project_is_based_on_emerging_field_Image_Processing_In_this_project_A_Graphical_User_Interface_has_been_designed_using_the_software_Labwindows_which_can_process_both_type_of_Real_time_Image_Proces")
 Instead of having three color channels, we have 12.
 These parallels look very promising considering how success full neural networks are at generating captions for images.
-![image as matrix](../img/Color-image-representation-and-RGB-matrix.png "[Source](https://www.researchgate.net/publication/282798184_The_project_is_based_on_emerging_field_Image_Processing_In_this_project_A_Graphical_User_Interface_has_been_designed_using_the_software_Labwindows_which_can_process_both_type_of_Real_time_Image_Proces)")
 
 
