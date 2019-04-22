@@ -41,6 +41,31 @@ State-of-the-art neural networks excel at generating captions for images.
 However, I don't want to be hasty.
 Let's have a look at a few other representations before we make a decision.
 
+### Piece lists
+An alternative to the board centric matrix view would be to start with the chess pieces.
+For each piece, we can then denote the position as either an absolute value (from 1 to 64), a one-hot-vector for each position or two indices (in an 8x8 matrix).
+By concatenating each vector we once again form a matrix but this time the focus is on the pieces (i.e. the first row stand for the black knight).
 
+$$ \begin{bmatrix} 1 & 1 \\ 1 & 2 \\ 1 & 3 \\ ... \end{bmatrix} $$
 
+This notation is much more memory efficient but it makes it hard to determine which spaces are empty.
+Thus, it could be a possible fallback if the matrix notation is to computationally expensive.
+
+### Moves as words
+Last chapter I argued that human move representations are not suitable for this project.
+This holds true if we solve this task using common image caption generation approaches.
+However, if we take another look at the algebraic notation, this time from an NLP perspective you may notice something.
+
+1. e4 e5
+2. Nf3 Nc6
+3. Bb5 a6
+
+Each move is a word and putting them one after the other we can form a sentence that describes each move that was made so far.
+Anyone familiar with NLP knows that this is a prime use case for one-directional RNNs.
+If we encode the game state using the output from an LSTM or GRU this task suddenly becomes a machine translation project.
+We read in the chess notation and "translate" it to the explanation for the last move.
+
+### Which method is best
+Both the matrix representation and the NLP approach look very promising.
+How can we decide which one is best?
 
