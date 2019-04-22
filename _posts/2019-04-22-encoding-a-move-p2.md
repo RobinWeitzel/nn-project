@@ -76,4 +76,6 @@ We read in the chess notation and "translate" it to the explanation for the last
 
 Both the matrix representation and the NLP approach look very promising.
 How can we decide which one is best?
-In the next few chapters I will devise an unsupervised training scenario to evaluate both.
+We won't know until we tried both.
+To do so, we first need to compile a data set.
+This will be the topic of the next post.
