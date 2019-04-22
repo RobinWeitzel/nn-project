@@ -5,8 +5,9 @@ date:   2019-04-16 10:54:00 +0200
 mathjax: true
 tags: project encoding
 ---
-When training a computer to describe chess moves, we first need to tell the computer what move is on board.
-The easiest solution is to simply take a picture of the board state before and after a move and let the neural network train on this.
+Before we can train a computer to explain chess moves, we first need to communicate the board state to it.
+How many pieces are still on board, who's turn is it and what was the last move?
+The easiest solution is to simply take a picture of the board before and after a move and let the neural network train on this.
 Yet forcing the computer to interpret an image made up of thousands (possibly millions) of pixels just to gleam the position of 32 figures on an 8x8 board seems overkill.
 Instead, let's have a look both at more compact methods to save a board state.
 
@@ -19,7 +20,7 @@ For a more detailed explanation of the pieces and the rules I refer to the excel
 ### One-hot-encoding each position
 A 8x8 grid makes the possible number of positions sound fairly small.
 Why not just assign a unique id to each board state?
-Unfortunately, doing quick napkin math reveals the number of possible combinations to be impossibly high.
+Unfortunately, doing quick napkin math reveals the number of possible combinations to be incredibly high.
 
 Assuming every piece can reach every position (which is not true but we are just making an estimate) this means we have 64 positions per piece.
 The 16 pieces of a player can therefore make up $ 64^16 $ board states.
