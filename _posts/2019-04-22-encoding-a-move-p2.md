@@ -36,6 +36,7 @@ we get a matrix of 8x8x12 or 8x8x6.
 This representation looks very similar to how we represent images.
 Only instead of having three color channels, we have 12.
 ![image as matrix](../img/Color-image-representation-and-RGB-matrix.png "Source: https://www.researchgate.net/publication/282798184_The_project_is_based_on_emerging_field_Image_Processing_In_this_project_A_Graphical_User_Interface_has_been_designed_using_the_software_Labwindows_which_can_process_both_type_of_Real_time_Image_Proces")
+
 This parallel makes me very hopeful.
 State-of-the-art neural networks excel at generating captions for images.
 However, I don't want to be hasty.
@@ -54,18 +55,15 @@ Thus, it could be a possible fallback if the matrix notation is to computational
 ### Moves as words
 Last chapter I argued that human move representations are not suitable for this project.
 This holds true if we solve this task using common image caption generation approaches.
-However, if we take another look at the algebraic notation, this time from an NLP perspective you may notice something.
+However, if we take another look at the algebraic notation, this time from an NLP perspective you may notice something interesting.
 
-1. e4 e5
-2. Nf3 Nc6
-3. Bb5 a6
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6
 
 Each move is a word and putting them one after the other we can form a sentence that describes each move that was made so far.
 Anyone familiar with NLP knows that this is a prime use case for one-directional RNNs.
 If we encode the game state using the output from an LSTM or GRU this task suddenly becomes a machine translation project.
 We read in the chess notation and "translate" it to the explanation for the last move.
 
-### Which method is best
 Both the matrix representation and the NLP approach look very promising.
 How can we decide which one is best?
-
+In the next chapter I will devise an unsupervised training scenario to evaluate both models.
