@@ -52,6 +52,16 @@ $$ \begin{bmatrix} 1 & 1 \\ 1 & 2 \\ 1 & 3 \\ ... \end{bmatrix} $$
 This notation is much more memory efficient but it makes it hard to determine which spaces are empty.
 Thus, it could be a possible fallback if the matrix notation is to computationally expensive.
 
+### Limitations
+All the representations I looked at so far do not fully capture the board state.
+Besides the position of the pieces you need to know if it is still possible to castle, whether a pawn can be captured en passant and a few more things.
+However, I will (initially) ignore everything but the pieces because most explanations can be generated just by looking at the pieces.
+
+One exception is the last move.
+We are trying to generate a caption for this move, we need to know what it was :).
+Fortunately, state-of-the-art neural networks for caption generation can consider a "context" in addition to the image.
+This context contains further information an can be used to inform the model about the latest move.
+
 ### Moves as words
 Last chapter I argued that human move representations are not suitable for this project.
 This holds true if we solve this task using common image caption generation approaches.
