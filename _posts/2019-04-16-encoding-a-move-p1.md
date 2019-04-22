@@ -34,7 +34,7 @@ Looking at a chess board you may notice the letters underneath each column and t
 These can be used to reference each square forming the basis for most human chess notations.
 
 The most widely used one is the "algebraic chess notation".
-First used by Philipp Stamma in his 1937 published "The Noble Game Of Chess" [[2]](https://books.google.de/books?id=IxpZAAAAYAAJ&printsec=frontcover&hl=de&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false) it has become the standard for most modern chess tournaments.
+First used by Philipp Stamma in his 1937 published "The Noble Game Of Chess" [[2]](https://books.google.de/books?id=IxpZAAAAYAAJ&printsec=frontcover&hl=de&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false) it has become the standard for most modern chess tournaments.  
 A move is described by combining the initials of the piece and the destination square (i.e. Be5 = bishop to e5).
 I once again refer you to [chess.com](https://www.chess.com/article/view/chess-notation#algebraic-notation) if you want to learn more about this notation.
 
