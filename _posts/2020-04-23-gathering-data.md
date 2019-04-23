@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gathering Data"
-date:   2019-04-23 12:53:00 +0200
+date:   2019-04-23 9:40:00 +0200
 tags: project data
 ---
 Now that we have decided on how we will encode the data we need to start looking for data sets.
@@ -9,12 +9,12 @@ Now that we have decided on how we will encode the data we need to start looking
 ### Games without explanations
 Thankfully, the invention of the internet and subsequent rise of online chess tournaments has made it very easy to find game recordings.
 One prominent example is the [Free Internet Chess Server (FCIS)](https://www.ficsgames.org/download.html).
-They provide almost 340 million games of which 21 million are standard chess games (the rest being mostly blitz games).
+They provide almost 340 million games,21 million of which are standard chess games (the rest being mostly blitz games).
 Furthermore, it is possible to only download games from good players (rating > 2000).
 This makes for a perfect source.
 
-Games, grouped by month or year, can be downloaded as one file in the [pgn format](https://en.wikipedia.org/wiki/Portable_Game_Notation).
-This format contains a few meta information about each game as well as a list of moves in the algebraic notation.
+Games, grouped by month or year, can be downloaded as a single file in the [pgn format](https://en.wikipedia.org/wiki/Portable_Game_Notation).
+This format contains metadata about each game as well as a list of moves in the algebraic notation.
 Have a look at [this](https://github.com/RobinWeitzel/nn-project/blob/master/data_exploration.ipynb) Jupyter notebook to see how I converted the games from pgn format into the two representations we chose in the last chapter.
 
 Because the FCIS provides so many games I see no reason to look for other sources.
@@ -27,9 +27,9 @@ Thus, I stated searching for game explanations in written form.
 
 In theory, the pgn-format allows comments between each move.
 Looking at different chess forums I was able to find some games but quickly grew worried that I would have to spend a lot of time piecing together a data set from hundreds of forum posts. Fortunately, a kind soul already did this and provided the all the links in one [place](http://www.angelfire.com/games3/smartbridge/).
-There, I found over 4000 annotated games.
+All in all this resulted in over 4000 annotated games.
 
-Looking at the games in more detail quite a few of these are not correctly formatted.
+Looking at the games in more detail quite a few of them are not formatted correctly.
 After filtering these out we are left with 3683 games.
 Opening up one of these games we see something like this:
 
@@ -57,8 +57,9 @@ Taking a look at the comments, we notice a few things:
 * comments often contain the name of a player or his color
 * some comments don't relate to the latest move
 * many comments are complex explanation over multiple sentences
+* comments frequently point to specific squares (which are mentioned by name)
 
 All of this will make it more difficult to generate useful captions.
-I will probably need to preprocess these comments (i.e. remove/replace names).
+I will probably need to preprocess the comments (i.e. remove/replace names).
 However, for a first try this should be good enough.
 In the next chapter I will use the data set without annotations in combination with Autoencoders to teach the encodings to our network.
