@@ -1,0 +1,260 @@
+[Event "Antwerp"]
+[Site "?"]
+[Date "1923.??.??"]
+[Round "?"]
+[White "Koltanowski, George"]
+[Black "Dunkelblum, A."]
+[Result "1-0"]
+[ECO "B18"]
+[PlyCount "29"]
+[EventDate "1923.??.??"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Bd3 Qxd4 6. Nf3 Qd8 7. Qe2 Nf6 8.
+Nxf6+ gxf6 9. Bxf5 Qa5+ 10. Bd2 Qxf5 11. O-O-O Qe6 12. Qd3 {#} 12... Qxa2 $4
+13. Qd8+ Kxd8 14. Ba5+ Kc8 15. Rd8# 1-0
+
+[Event "Belgian Championship"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Colle, Edgar"]
+[Black "Koltanowski, George"]
+[Result "0-1"]
+[ECO "E67"]
+[Annotator "Schiller"]
+[PlyCount "88"]
+[EventDate "1929.??.??"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nbd7 7. Nc3 e5 8. h3
+h6 9. Be3 c6 10. Rc1 Qe7 11. b4 Re8 12. Qb3 Nb6 13. d5 Bf5 14. Nd2 Qc7 15. a4
+Rad8 16. a5 Nc8 17. a6 cxd5 18. Nxd5 Nxd5 19. cxd5 Qb8 20. axb7 Qxb7 21. Nc4
+Qb5 22. Na5 Nb6 23. Nc6 Ra8 24. Ra1 e4 25. Ra5 Qxe2 26. Rc1 Qb2 27. Qd1 Bd7 28.
+Rb1 Qc3 29. Rb3 Qf6 {#} 30. Nxa7 $2 {Greedy.} (30. Bd4 Qg5 31. Be3 Qf6 32. Bd4
+{was probably the proper course of action, but Colle didn't want to settle for
+a draw.}) 30... Nc4 31. Ra2 Nxe3 32. fxe3 (32. Rxe3 Qd4 33. Qxd4 Bxd4 34. Rea3
+e3 $1 {Black wins.}) 32... Qg5 33. g4 h5 34. b5 hxg4 35. h4 Qxh4 36. b6 g3 $1 {
+The b-pawn can be ignored. It has not further relevance for this game.} 37. Bf1
+Bg4 38. Qd2 Bf3 39. Bg2 Re5 40. Rb4 Qh2+ 41. Kf1 Rf5 42. Ke1 Qg1+ 43. Bf1 g2
+44. Qf2 Bc3+ {White resigned, as checkmate is inevitable.} 0-1
+
+[Event "Hastings"]
+[Site "ENG"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Koltanowski, George"]
+[Black "Noteboom, Daniel"]
+[Result "1-0"]
+[ECO "D51"]
+[PlyCount "95"]
+[EventDate "1929.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. e3 c6 6. a3 Be7 7. Qc2 O-O 8. Rd1
+a6 9. Nf3 Re8 10. Bd3 h6 11. Bh4 b5 12. cxd5 cxd5 13. O-O Bb7 14. Qe2 Rc8 15.
+Rc1 Nb6 16. Ne5 Nc4 17. f4 Nd6 18. f5 exf5 19. Bxf5 Nxf5 20. Rxf5 Rc7 21. Rcf1
+Bc8 {#} 22. Rxf6 $1 Bxf6 23. Bxf6 gxf6 24. Ng4 f5 25. Nxh6+ Kg7 26. Nxf5+ Bxf5
+27. Rxf5 Re6 28. Rxd5 Qh4 29. Rh5 Qe7 30. e4 Rxc3 31. bxc3 Rxe4 32. Qd2 Qe6 33.
+Qg5+ Qg6 34. Qxg6+ fxg6 35. Re5 Rf4 36. Re6 a5 37. Rb6 Rf5 38. Rc6 Rf4 39. g3
+Rf3 40. Kg2 Rd3 41. Rc5 a4 42. Kf2 b4 43. axb4 a3 44. Ke2 a2 45. Ra5 Rxc3 46.
+Rxa2 Rc4 47. Kd3 Rxb4 48. Rf2 1-0
+
+[Event "Antwerp"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Koltanowski, George"]
+[Black "Flohr, Salo"]
+[Result "1-0"]
+[ECO "A46"]
+[Annotator "Schiller"]
+[PlyCount "73"]
+[EventDate "1932.??.??"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 c5 4. c3 b6 5. Bd3 Bb7 6. Nbd2 Nc6 7. O-O Be7 8. Qe2
+O-O 9. a3 Rc8 10. e4 cxd4 11. cxd4 d6 12. b4 Nh5 13. g3 g6 14. Bb2 d5 15. e5
+Ng7 16. Nb3 a5 17. b5 Nb8 18. Rac1 Nd7 19. Rxc8 Qxc8 20. Rc1 Qb8 21. Qc2 Ne8
+22. Qd2 Kg7 23. Rc2 h6 24. Bc1 Rh8 25. h4 Nf8 26. Qf4 Qd8 27. Rc3 Bc8 28. Na1
+$5 {The start of a creative plan to bring the knight to b4.} 28... Bd7 29. Nc2
+a4 30. Nb4 Bxb4 31. axb4 Kg8 32. Qd2 Nc7 33. Qe2 Be8 34. Nh2 Qd7 35. Ng4 Nh7
+36. Bxh6 Qe7 37. Qc2 1-0
+
+[Event "London"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "8"]
+[White "Koltanowski, George"]
+[Black "Winter, William"]
+[Result "1-0"]
+[ECO "E43"]
+[Annotator "Schiller"]
+[PlyCount "85"]
+[EventDate "1932.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Nf3 Bxc3+ 6. bxc3 Bb7 7. Bd3 d6 8.
+Qc2 Nbd7 9. O-O O-O 10. Nd2 e5 11. f4 Re8 12. fxe5 dxe5 13. e4 Qe7 14. Re1 Nf8
+15. a4 Ng6 16. g3 Qd7 17. d5 c6 18. a5 bxa5 19. Rxa5 Qc7 20. Nb3 cxd5 21. cxd5
+Rec8 22. c4 Ng4 23. h3 Nf6 24. Be3 a6 25. Rea1 Rcb8 26. Bf1 Bc8 27. c5 Nxe4 {
+Black wins a pawn, but cannot cope with the advancing White pawns.} 28. Qxe4
+Rxb3 29. d6 Qb8 30. Bc4 (30. Bg2 Ra7 31. c6 {would have been more efficient.})
+30... Bb7 31. c6 $1 Bxc6 32. Qxc6 Rxe3 33. Kf2 $1 {#  Kolty had seem deeply
+into the position, and realized that the rook would not escape. Black is
+doomed.} 33... Rc3 34. Bxf7+ Kxf7 35. Qxc3 Qxd6 36. Qf3+ Qf6 37. Rxa6 Rxa6 38.
+Rxa6 Qxf3+ 39. Kxf3 h5 40. h4 Nf8 41. Ke4 Nd7 42. Kf5 e4 43. Ra7 1-0
+
+[Event "London"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "10"]
+[White "Koltanowski, George"]
+[Black "Milner Barry, Philip Stuart"]
+[Result "1-0"]
+[ECO "E43"]
+[PlyCount "51"]
+[EventDate "1932.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Nf3 Bb7 6. Bd3 O-O 7. Qc2 d6 8. Bd2
+Nbd7 9. a3 Bxc3 10. Bxc3 Qe7 11. O-O-O Rfc8 12. e4 e5 13. Rhe1 c5 14. dxe5 dxe5
+15. Nh4 b5 16. f4 b4 17. Nf5 Qe6 18. axb4 cxb4 19. Bxb4 Nc5 20. fxe5 Nxd3+ 21.
+Qxd3 Qxc4+ 22. Bc3 Qxd3 23. Rxd3 Bxe4 {#} 24. Ne7+ Kf8 25. exf6 Rc4 26. Rde3
+1-0
+
+[Event "Blind Simultaneous"]
+[Site "?"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Koltanowski, George"]
+[Black "Unknown"]
+[Result "1-0"]
+[ECO "C55"]
+[PlyCount "25"]
+[EventDate "1938.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. O-O Bc5 5. d4 Bxd4 6. Nxd4 Nxd4 7. f4 Nc6 $2
+{#} 8. Bxf7+ $1 Kxf7 9. fxe5 Ne7 10. exf6 gxf6 11. Bg5 Ng8 12. e5 h5 13. Qd5+
+1-0
+
+[Event "Blind Simultaneous"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "1"]
+[White "Koltanowski, George"]
+[Black "Unkown"]
+[Result "1-0"]
+[ECO "B20"]
+[Annotator "Schiller"]
+[PlyCount "27"]
+[EventDate "1946.??.??"]
+
+1. e4 c5 2. b4 e6 $2 3. bxc5 Bxc5 4. d4 Bd6 $4 5. Nf3 Nc6 6. c3 Nge7 7. Bd3 O-O
+8. e5 Bc7 {#} 9. Bxh7+ $1 Kxh7 $2 10. Ng5+ Kg6 11. h4 Nxe5 12. h5+ Kf5 (12...
+Kf6 13. Nh7+ Kf5 14. Qc2+ Nd3+ 15. Qxd3+ Kg4 16. Qe4+ Bf4 17. Qxf4#) 13. g4+
+Nxg4 14. Qf3+ {Black resigned.} 1-0
+
+[Event "Manhattan Chess Club simul"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[White "Koltanowski, George"]
+[Black "Bisguier, Arthur"]
+[Result "1-0"]
+[ECO "D95"]
+[Annotator "Schiller"]
+[PlyCount "59"]
+[EventDate "1946.??.??"]
+
+{Koltanowski is best known for his ability to play blindfolded against many
+players simultaneously. Here he defeats Arthur Bisguier, who would go on to
+become a Grandmaster and United States Champion.} 1. d4 Nf6 2. Nf3 d5 3. e3 g6
+4. c4 Bg7 5. Nc3 O-O 6. Qb3 c6 7. Bd2 b6 8. Be2 dxc4 9. Bxc4 Nbd7 10. O-O Bb7
+11. Rad1 c5 12. Bc1 cxd4 13. exd4 Rc8 14. Ne5 Qe8 15. Rfe1 Nxe5 16. dxe5 Qc6 {#
+} 17. Nd5 $1 Nxd5 (17... Qxc4 18. Nxe7+ Kh8 19. exf6 Qxb3 20. fxg7+ Kxg7 21.
+axb3 {and White is a piece ahead.}) 18. Bxd5 Qc7 19. Bxb7 Qxb7 20. e6 $1 Qc6 (
+20... f5 21. Rd7 Rc7 22. Bf4 Rxd7 23. exd7+ Kh8 24. Rxe7 {wins.}) 21. exf7+
+Rxf7 22. Rxe7 Qf6 23. Rxf7 Qxf7 24. Qxf7+ Kxf7 25. Be3 Ke6 26. Rc1 Rd8 27. b3
+Bb2 28. Rc6+ Kd5 29. Rc7 Ke4 30. Kf1 1-0
+
+[Event "Blind Simultaneous"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Koltanowski, George"]
+[Black "Hofferbert, Mary"]
+[Result "1-0"]
+[ECO "C50"]
+[PlyCount "31"]
+[EventDate "1947.??.??"]
+
+{Kolty delivers a smothered mate in a blindfold simul game.} 1. e4 e5 2. Nf3
+Nc6 3. Bc4 Bd6 $2 4. O-O Nf6 5. Nc3 O-O 6. d3 Na5 7. Bg5 Nxc4 8. dxc4 Re8 9. a3
+b6 10. Nd5 $1 Be7 {#} 11. Nxe5 $1 Nxd5 12. Qxd5 Bxg5 13. Nxf7 $1 Bb7 14. Nh6+
+Kh8 15. Qg8+ Rxg8 16. Nf7# 1-0
+
+[Event "Vancouver"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Koltanowski, George"]
+[Black "Thompson, Brett"]
+[Result "1-0"]
+[ECO "C55"]
+[Annotator "Schiller"]
+[PlyCount "33"]
+[EventDate "1948.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. O-O Be7 5. d4 exd4 6. e5 Ne4 7. Re1 Nc5 8.
+Nxd4 Ne6 9. Nf5 a6 10. Nxe7 Qxe7 11. a4 b6 12. Nc3 O-O 13. Nd5 Qd8 14. Qh5 Kh8
+{#} 15. Nf6 $3 {and Black resigned.} 15... gxf6 {gets mated by} 16. Bd3 f5 17.
+Bxf5 {etc.} 1-0
+
+[Event "Blind Simultaneous"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Koltanowski, George"]
+[Black "Bogart, Humphrey"]
+[Result "1-0"]
+[ECO "C01"]
+[Annotator "Schiller"]
+[PlyCount "81"]
+[EventDate "1952.??.??"]
+
+{Kolty's opponent in this blindfold simultaneous game was no less than one of
+the greatest actors of all time. The star of Casablanca could not escape his
+fate this time, however!} 1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Nf6 5. Ne2 Bg4
+6. O-O Bd6 7. f3 Be6 8. Bf4 O-O 9. Nd2 Nc6 10. c3 Ne7 11. Bxd6 Qxd6 12. f4 c5
+13. Nf3 Nf5 14. Qd2 Ne4 15. Qc1 Rac8 16. dxc5 Qxc5+ 17. Ned4 Nxd4 18. Nxd4 Rc7
+19. f5 Bd7 20. Bxe4 dxe4 21. Qf4 Re8 22. Rae1 Re5 $6 (22... Bb5 {
+would have provided a more active defense.}) 23. Rxe4 Rxe4 24. Qxe4 Bc6 25. Qe3
+Re7 26. Qg3 Re8 27. f6 g6 28. Qh4 h5 29. Re1 Rxe1+ 30. Qxe1 Qd6 31. Nxc6 Qxc6
+32. Qe7 Qc8 33. h3 Qc6 34. b4 Qxc3 35. Qe8+ Kh7 36. Qxf7+ Kh6 37. Qe7 Qc1+ 38.
+Kf2 Qf4+ 39. Ke2 Qc4+ 40. Kf3 Kg5 $2 41. f7+ 1-0
+
+[Event "St Louis"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Koltanowski, George"]
+[Black "Unknown"]
+[Result "1-0"]
+[ECO "E67"]
+[PlyCount "35"]
+[EventDate "1958.??.??"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 Nbd7 7. Nc3 e5 8. h3
+h6 9. Be3 Ne8 10. Qd2 Kh7 11. dxe5 dxe5 12. Bc5 Rh8 13. Rad1 c6 14. Ne4 f5 {#}
+15. Nfg5+ $1 {Black reesigned, because of} 15... hxg5 16. Nxg5+ Kg8 17. Bd5+ $1
+cxd5 18. Qxd5# 1-0
+
+[Event "Fairmont Hotel"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "2"]
+[White "Koltanowski, George"]
+[Black "Richardson, Kerry"]
+[Result "1-0"]
+[ECO "C55"]
+[PlyCount "23"]
+[EventDate "1960.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. O-O Nxe4 5. d4 d5 6. Bb5 Bd7 7. Bxc6 bxc6 8.
+Nxe5 f6 $2 {#} 9. Qh5+ Ke7 10. Qf7+ Kd6 11. Bf4 g5 12. Nc4# 1-0
+

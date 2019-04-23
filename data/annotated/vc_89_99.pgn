@@ -1,0 +1,2082 @@
+[Event "16ch-Ukr Kiev"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Khavin, A."]
+[Black "Poliak"]
+[Result "0-1"]
+[ECO "C26"]
+[PlyCount "60"]
+[EventDate "1948.??.??"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Bc5 4. f4 Bxg1 5. Rxg1 d5 6. exd5 O-O 7. d3 Re8 (
+7... exf4 8. Bxf4 Bg4 9. Qd2 b5) 8. f5 e4 (8... Bxf5 9. Bg5 $1 {
+Lipnitsky/Ratner}) 9. d4 9... e3 $1 10. Qf3 (10. g4 Ne4) 10... c6 $1 11. Bxe3
+Qe7 12. Kd2 (12. dxc6 $5) 12... b5 13. Bd3 b4 14. Nd1 cxd5 15. Nf2 Ne4+ 16.
+Bxe4 dxe4 17. Qf4 Nd7 18. Qc7 Ba6 19. Qc6 Nb6 20. f6 Qd8 21. fxg7 Re6 22. Qc5
+Nc4+ 23. Ke2 Qh4 24. g4 Rf6 25. Nxe4 Nd6+ 26. Kd1 Nxe4 27. Qxb4 Qxh2 28. Re1
+Rc8 29. c3 Bd3 30. Rc1 Qg2 0-1
+
+[Event "Tbilisi ch-SU"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Yuchtman, Y."]
+[Black "Tal, M."]
+[Result "1-0"]
+[ECO "C21"]
+[Annotator "Mikhail Golubev"]
+[PlyCount "79"]
+[EventDate "1959.??.??"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 Bb4 6. Bc4 Nf6 7. O-O Bxc3 8.
+bxc3 d6 9. e5 $1 9... dxe5 (9... Nxe5 10. Nxe5 10... dxe5 {
+YUCHTMAN-FURMAN,Tbilisi ch-SU 1959} 11. Qb3 $5 $40) 10. Ng5 O-O (10... Be6 $5
+11. Bxe6 fxe6 12. Qb3 12... Qd5 {Aronin}) 11. Ba3 Qxd1 (11... Bg4 12. Qb3 Na5
+13. Bxf7+ Kh8 14. Qa4 $36 {Yuchtman}) 12. Raxd1 Bf5 13. Bxf8 Rxf8 14. Rfe1 (14.
+Bb5 $1 14... Nd8 15. Rfe1 e4 16. Bc4 $1 16... h6 17. Rxd8 $1 17... hxg5 18.
+Red1 $16 {Yuchtman}) 14... h6 15. Nf3 Bg4 16. Rb1 $6 (16. Bb5 $1 16... e4 17.
+Bxc6 bxc6 18. h3 Bh5 19. g4 Nxg4 20. hxg4 Bxg4 21. Ne5 $16 {Yuchtman}) 16... e4
+17. Nd4 Ne5 18. Bf1 c5 19. Nb5 c4 20. f3 Bxf3 21. gxf3 Nxf3+ 22. Kf2 Ng4+ 23.
+Kg3 Nxe1 (23... f5 $5) 24. Rxe1 f5 25. Bxc4+ 25... Kh7 {(?! Yuchtman)} 26. Be2
+Ne5 27. Kf4 Ng6+ 28. Ke3 f4+ 29. Kd4 29... Kh8 $2 (29... Nh4 30. Kxe4 (30. Nc7
+$1 30... e3 31. Nd5 g5 32. Bh5 $16 {Yuchtman}) 30... Re8+ 31. Kd5 Re3 32. Kc4
+Ng2) 30. Rg1 Nh4 31. Kxe4 Re8+ 32. Kd3 f3 33. Bd1 Ng2 34. Kd2 Nh4 35. Nd4 Rd8
+36. Rf1 Rd5 37. Kd3 Ra5 38. Bb3 g5 39. Nxf3 Rf5 40. Nd2 1-0
+
+[Event "E.Geller Simul"]
+[Site "Odessa"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Geller, E P."]
+[Black "Vasiljev, M."]
+[Result "0-1"]
+[ECO "E88"]
+[PlyCount "38"]
+[EventDate "1964.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Qd2 cxd5
+9. cxd5 a6 10. O-O-O Nbd7 11. Nge2 b5 12. Kb1 Nb6 13. Nc1 b4 14. Bxb6 bxc3 15.
+Qe3 $2 (15. Qf2 15... Qd7 $13) 15... Rb8 $3 {... Geller} 16. Bxd8 Rxb2+ 17. Ka1
+c2 18. Kxb2 cxd1=N+ 19. Kb1 Nxe3 0-1
+
+[Event "Monaco"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "11"]
+[White "Fischer, R J."]
+[Black "Geller, E P."]
+[Result "0-1"]
+[ECO "B97"]
+[Annotator "Mikhail Golubev 1998"]
+[PlyCount "50"]
+[EventDate "1967.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. f5 Nc6 11. fxe6 fxe6 12. Nxc6 bxc6 13. e5 Nd5 (13... dxe5)
+14. Nxd5 cxd5 15. Be2 dxe5 16. O-O Bc5+ (16... Ra7) 17. Kh1 Rf8 18. c4 Rxf1+
+19. Rxf1 Bb7 (19... Bd4 20. Qc2 Qb2 21. Qxh7 $1 $18 21... Qxe2 22. Qg8+ Kd7 23.
+Qd8+ Kc6 24. cxd5+ Kb5 25. Qe8+ Kc4 26. Qc6+ Kd3 27. Rc1 Qb2 28. Qxa8 Bb7 29.
+Qf8 Qe2 30. Qa3+ Ke4 31. Qb4 {1-0 Sirotkin-Sorokin/URS 1967}) (19... Ra7 20.
+cxd5 Rd7 21. Qc2 $18 {Djukic,Z-Marjanovic ,S YUG 1970}) (19... h6 $5 20. Bh5+
+Kd7 21. Rf7+ Kc6 22. Bf3 e4 23. Bxe4 dxe4 24. Qf4 Bd7 25. Qxe4+ Kc7 26. Bf4+
+26... e5 $1 27. Bxe5+ Bd6 28. Rxd7+ Kxd7 29. Qb7+ Ke6 30. Qd5+ Ke7 31. Qb7+
+31... Ke6 $11 (31... Bc7 $6 32. Qxc7+ Ke6 33. h3)) 20. Bg4 (20. Bd1 Be7 (20...
+Rc8 21. Qe2 $3 21... Be7 22. Qh5+ 22... g6 $8 23. Qxh7 Bxg5 24. Qxg6+ Kd7 25.
+Qxg5 $16 25... Qd3 26. Rf7+ Kc6 27. Qg4 Kb6 28. Be2 Qe4 29. Qxe6+ Rc6 30. Qe7
+Qxe2 31. Qb4+ {1-0 Zhuravlev,N-Gutman/Riga 1967}) 21. Bxe7 Kxe7 (21... Qxe7 22.
+Ba4+ Kd8 23. cxd5 exd5 24. Qa5+ Kc8 25. Qb6 Kb8 26. Bc6 Ra7 27. Bxd5 a5 28. Rf7
+{1-0 Joseph-Scalisi/cr ITA 1972}) 22. Qg5+ Kd6 23. Rf7 Re8 24. c5+ (24. Rxb7
+24... Qd3 $13) 24... Qxc5 25. Rxb7 Qf2 26. h3 Qe1+ 27. Kh2 Qxd1 28. Qxg7 $18) (
+20. Qc2 e4 (20... Be7 21. Bh5+ (21. Qxh7 $16) 21... g6 22. Bxg6+ hxg6 23. Qxg6+
+Kd7 24. Bxe7 $18) 21. Bg4 Bc8 (21... Be7 22. Qf2 O-O-O 23. Bf4 $1 $18 {
+Tal-Bogdanovic/Budva 1967}) 22. cxd5 (22. Rd1 Bd7 (22... Qb4 $13) 23. cxd5 Ba4
+24. Qxe4 $18 24... Bxd1 25. dxe6 Rd8 26. Qxh7 {1-0 Fransson,P-Persson,B/cr 1978
+}) 22... Qd3 23. Qc1 23... e5 $2 (23... exd5 24. Qf4 Qxf1+ 25. Qxf1 Bxg4 26.
+Qa1 $16) (23... Qxd5) 24. Rd1 (24. Be7 $3 $18) 24... Qb5 25. Bxc8 Rxc8 26. Qc3
+$1 {Lepeskin} 26... Kf7 27. Qh3 Re8 28. Qxh7 $16) (20. Rf3 $13 {Gipslis}) 20...
+dxc4 21. Bxe6 $2 (21. Qc2 Qd3 22. Qa4+ Qd7 23. Qxd7+ Kxd7 24. Rf7+ Kc8 25.
+Bxe6+ Kb8 26. Rxg7) 21... Qd3 22. Qe1 Be4 23. Bg4 Rb8 24. Bd1 Kd7 25. Rf7+ Ke6
+0-1
+
+[Event "Kiev ch-SU Jr"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Prokofiev, V."]
+[Black "Serper, G."]
+[Result "1-0"]
+[ECO "B78"]
+[Annotator "Mikhail Golubev 1998"]
+[PlyCount "69"]
+[EventDate "1983.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 O-O 8.
+Bb3 d6 9. f3 Bd7 10. Qd2 Ne5 11. O-O-O Rc8 12. Bg5 Nc4 13. Bxc4 Rxc4 14. e5 Ne8
+15. Rhe1 (15. Qe2 15... Rxc3 $1 16. exd6 (16. bxc3 16... Bxe5 $44) 16... Qa5 $3
+17. Bd2 (17. dxe7 Qxg5+ 18. Kb1 Rc8 19. exf8=Q+ 19... Kxf8 {
+Wahls-Feick,Berlin 1989}) 17... Qxa2 18. Bxc3 18... Bh6+ $19) 15... f6 (15...
+Bxe5 $1 16. Rxe5 dxe5 17. Ndb5 17... Nd6 $1 18. Nxd6 Rd4 19. Qe2 19... f6 $1 (
+19... Rxd1+ 20. Qxd1 f6 21. Bh6 exd6 22. Bxf8 Qxf8 23. Qd5+ $16) 20. Nxb7 (20.
+Bh6 Rxd6) (20. Rxd4 exd4 21. Nxb7 21... Qb6 $1) 20... Qb6 $1 21. Bh6 (21. Rxd4
+exd4) 21... Re8 (21... Qxb7 $4 22. Rxd4 exd4 23. Qxe7) (21... Rxd1+ 22. Qxd1
+Qxb7 23. Bxf8 Kxf8) 22. Na5 (22. Rxd4 exd4 23. Ne4 (23. Qc4+ 23... Be6 $17)
+23... Bb5 $1) 22... Qxa5 23. Rxd4 exd4 24. Qc4+ 24... Kh8 $1 (24... e6 25. Qxd4
+25... Qh5 26. Be3 $44) 25. Qf7 Rg8 26. Qxe7 26... Qe5 $1) 16. exd6 $13 16... e5
+17. Nde2 Rxc3 18. Nxc3 fxg5 19. Qd5+ Rf7 20. Qxb7 Bh3 21. Qb3 Bxg2 22. Ne4 Bf8
+23. d7 Nc7 24. Rg1 Bxf3 25. Nxg5 Bd5 26. Rxd5 Bh6 27. Rd2 Bxg5 28. Rxg5 Kg7 29.
+Rxe5 Rf1+ 30. Rd1 Rxd1+ 31. Kxd1 Qxd7+ 32. Kc1 Qd4 33. Re7+ Kf6 34. Rf7+ Ke5
+35. Qg3+ {Golubev,M / Klubis,V  Simferopol 1989 (NIC YB/13)} 1-0
+
+[Event "Yurmala ch-SU Jr"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "10"]
+[White "Meyers, W."]
+[Black "Rozenthal, A."]
+[Result "1-0"]
+[ECO "B78"]
+[Annotator "Mikhail Golubev 1998"]
+[PlyCount "61"]
+[EventDate "1985.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. Bg5 Nc4 13. Bxc4 Rxc4 14. e5 Ne8
+15. Rhe1 f6 16. exf6 Nxf6 17. Qe3 (17. Ne6 Bxe6 18. Rxe6) 17... Qb6 18. Qd3 Qc5
+19. h4 Kf7 20. Nb3 Qc8 21. g4 b5 22. h5 gxh5 23. Bxf6 Bxf6 24. Qxh7+ Ke8 25.
+Nd5 Be6 26. Qxh5+ Kd8 27. Nxf6 Rxc2+ 28. Kb1 Bxb3 29. axb3 Rxf6 30. Qh8+ Kd7
+31. Qh7 1-0
+
+[Event "Cham"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Mainka, Ro"]
+[Black "Schneider, At"]
+[Result "0-1"]
+[ECO "B78"]
+[WhiteElo "2460"]
+[BlackElo "2410"]
+[Annotator "Mikhail Golubev 1998"]
+[PlyCount "90"]
+[EventDate "1987.??.??"]
+
+{45/(256)} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3
+O-O 8. Bc4 Nc6 9. Qd2 Bd7 10. O-O-O Ne5 11. Bb3 Rc8 12. Bg5 Nc4 13. Bxc4 (13.
+Qd3 b5 (13... Ne5 $5) 14. Rhe1 Re8 (14... a5 15. Bxc4 bxc4 16. Qe3 16... Rc5
+$13) 15. f4 b4 16. Nd5 Nxd5 17. Bxc4 $13 {Byrne-Watson,London 1991}) (13. Qe2
+$6 13... Nxb2 14. Kxb2 Rxc3 15. Bxf6 Rxb3+ 16. axb3 Bxf6 17. c3 Qb6 18. f4 e5 (
+18... Qc5 $1 $17 {Miles/Moskow}) 19. fxe5 Bxe5 20. Qd3 Rc8 21. Rhf1 Be6 22. Rc1
+Bc4 23. Qh3 Rc7 24. Rfd1 Rc5 25. Rc2 Kg7 26. Ra1 Rc7 27. Ra4 a5 28. Qe3 Kg8 29.
+b4 Rc5 30. Kc1 axb4 31. Ra8+ Kg7 32. Nf5+ Kf6 33. Qh6 33... Ke6 {
+Nunn-Mestel,Birmingham 1976} 34. Nd4+ $1 34... Bxd4 35. cxd4 Ra5 36. d5+ Kd7
+37. Rxa5 Qxa5 38. Qh3+ Ke7 39. Rxc4 {Miles/Moskow}) 13... Rxc4 14. Nb3 (14. e5
+dxe5 15. Nb3 Rc7 16. Nb5 Bf5 17. Nxc7 Qxc7 18. g4 Be6 19. Rhe1 Rc8 20. Kb1 Nd5
+21. Re2 21... Nb6 $44 {Hartmann-Weiner,Muenchen 1976}) 14... Be6 15. e5 Ne8 16.
+Rhe1 (16. exd6 $6 16... Nxd6 17. Nb5 (17. Bxe7 Qxe7 18. Qxd6 18... Qf6 $36 {
+A.Schneider/I.Farago}) 17... Qb6 18. Nxd6 18... exd6 $17 {
+Povah-Watson,London 1979}) 16... Qc7 17. Nb5 Qb6 18. Na3 Rc7 19. Be3 Qc6 (19...
+Qa6 $1 20. exd6 Nxd6 21. Nc5 Rxc5 22. Bxc5 Nc4 23. Nxc4 Qxc4 24. Qb4 24... Qxa2
+$13 {A.Schneider/I.Farago i45/(256)} (24... Bh6+ $1 {- G.Kosanovic})) 20. Bf4
+dxe5 21. Bxe5 Bxe5 22. Rxe5 Bxb3 23. axb3 Nd6 24. Kb1 Rfc8 25. h4 Nf5 26. h5
+Qf6 27. Rd5 gxh5 28. g4 hxg4 29. fxg4 Nd6 30. Rh1 Rc5 31. Rd3 Rg5 32. Rdh3 Rg7
+33. Rh6 Qf3 34. Qh2 Qe4 35. g5 Rf8 36. Ka2 a6 37. c3 b5 38. Nc2 a5 39. Nd4 a4
+40. b4 a3 41. Nc6 axb2 42. g6 Qxc6 43. Rxh7 Ra8+ 44. Kxb2 Nc4+ 45. Kb1 Qe4+ 0-1
+
+[Event "Tbilisi ch-SU"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Ioseliani, N."]
+[Black "Shafranska, A."]
+[Result "1-0"]
+[ECO "B78"]
+[Annotator "Mikhail Golubev 1998"]
+[PlyCount "43"]
+[EventDate "1987.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. Bg5 Rc5 (12... Qa5 13. Rhe1 Nc6
+14. Nd5 Qd8 15. Nxf6+ exf6 16. Nxc6 Rxc6 17. Bf4 Qb6 18. Bxd6 Rfc8 19. Qd4 Qa6
+20. Kb1 Be6 21. Bf4 g5 22. Be3 22... Rxc2 {Semenenko-Yu.Isaev,corr 1988}) (
+12... b5 13. Ndxb5 $1 (13. f4 Nc4 14. Bxc4 Rxc4 15. e5 Ne8 16. Nd5 $2 (16.
+Ndxb5 $1 {(Pachmann)} 16... Qa5 17. Na3 $16 {NIC-YB/4}) 16... f6 17. Bh4 dxe5
+18. Nxb5 18... Bf5 $1 19. c3 19... Kh8 {Weiner-de Carbonell,Muenchen 1975})
+13... Bxb5 14. Nxb5 Qb6 15. Qe2 $1 15... Rc5 (15... Rb8 16. Nc3 Rfc8 17. Bxf6
+exf6 18. Nd5 Qb7 19. Rd4 {Johnston-Baart,The Hague 1975}) 16. Nc3 Nd3+ (16...
+Rxc3 17. bxc3 $16 { Be3-d4 Miles/Moskow 1979}) 17. Rxd3 (17. cxd3 $1 17... Rxg5
+18. d4 $16 {Miles/Moskow}) 17... Rxg5 18. f4 Ra5 19. Re1 $16 {
+(Geller ECO 1984) PLANINC-MILES,Hastings 1974/75}) 13. Rhe1 b5 14. f4 Nc4 (
+14... b4 $5 {Strutinskaya}) 15. Bxc4 bxc4 16. e5 (16. Bxf6 $5) 16... dxe5 17.
+Nf3 $1 (17. fxe5 $13 17... Nd5) 17... exf4 18. Ne5 (18. Bxf6 Bxf6 19. Qxd7
+19... Qa5 $5 (19... Qb6 $2)) 18... Qa5 $6 (18... Rxe5 19. Rxe5 Qb6) 19. Bxf6
+Bxf6 20. Nxd7 Bxc3 21. Qxc3 Qxa2 22. Qa3 {[Golubev]} 1-0
+
+[Event "Corr. Ukraine Cup"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Sluchevsky"]
+[Black "Blumental"]
+[Result "1-0"]
+[ECO "B78"]
+[Annotator "Mikhail Golubev"]
+[PlyCount "63"]
+[EventDate "1988.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. h4 Rc8 11. Bb3 h5 12. O-O-O Ne5 13. Bg5 Rc5 14. Kb1 b5 15.
+Rhe1 a5 16. f4 Nc4 17. Bxc4 Rxc4 18. e5 b4 19. Qd3 19... Rxc3 $1 20. bxc3 Nd5
+21. Nb5 Nxc3+ 22. Nxc3 bxc3 23. Ka1 Bf5 24. Qa6 $6 24... d5 $2 (24... Bxc2 $1
+$17 25. Rxd6 (25. Rc1 Bf5) 25... Qxd6 $3 26. exd6 26... Bd1 $3 (26... Bd3 $2
+27. dxe7 $1 $16) 27. Kb1 (27. Re5 c2 28. Qc6 Rb8 29. a4 29... exd6 $19) 27...
+c2+ 28. Kc1 28... Bb2+ $1 29. Kxb2 29... Rb8+ $19 {Golubev,M}) (24... f6 $6 $11
+{Santo-Roman - Koch,1991}) 25. Qb7 $1 25... f6 26. exf6 exf6 27. Re7 $18 27...
+Qxe7 28. Qxe7 fxg5 29. Rxd5 Bf6 30. Qe2 gxf4 31. Rxf5 gxf5 32. Qxh5 1-0
+
+[Event "Match"]
+[Site "Odessa "]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Golubev, M."]
+[Black "Telitsyn, A."]
+[Result "1-0"]
+[ECO "B78"]
+[Annotator "Mikhail Golubev 1998"]
+[PlyCount "93"]
+[EventDate "1988.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. Bg5 Rc5 13. f4 (13. Rhe1) 13...
+Nc4 (13... Rxc3 $6) (13... Nc6 14. e5 14... Rxc3) 14. Bxc4 (14. Qd3 $5) 14...
+Rxc4 15. e5 Ne8 (15... Rxc3 16. Qxc3 Ne4 17. Qb4 $16) (15... dxe5 16. fxe5 (16.
+Nde2 exf4 17. Bxf6 Bxf6 18. Qxd7 Qb6 19. Rd3 Rfc8 20. Rhd1 Kg7) 16... Ng4 17.
+Nf3 17... h6 $8 18. Qxd7 (18. h3 Nxe5 19. Nxe5 Bxe5 20. Bxh6 Bd6) 18... Qxd7
+19. Rxd7 hxg5 20. Rxe7 20... b5 $16) 16. Qe2 (16. Nd5) 16... Rxc3 17. bxc3 {
+(Tandai-Herbrechtsmeier,1986 cr)} (17. exd6) 17... dxe5 (17... f6 $5) 18. fxe5
+Qa5 (18... Qc7 $5) 19. Nb3 (19. Bxe7 $5) 19... Qa3+ 20. Kb1 Be6 21. Rd4 (21.
+Qb5 $5) 21... Nc7 22. Bc1 Qa6 23. Qxa6 bxa6 24. Re1 24... Nb5 $44 25. Rd3 Bf5
+26. Rde3 Rc8 27. Bb2 Bh6 28. Rf3 a5 (28... Rc4 $5) 29. a4 Nc7 30. Nd4 Bd7 31.
+Ref1 Nd5 (31... Be8) 32. Rxf7 Bxa4 33. e6 Rb8 34. Ka1 Be8 35. R7f3 Bg7 36. Rd3
+a4 37. Ka2 37... Rc8 $2 (37... Bf6) 38. Nf5 $1 38... Bb5 39. Nxg7 Bxd3 40. cxd3
+Kxg7 41. c4+ Nf6 42. d4 Rxc4 43. d5 Rc2 44. d6 Rxb2+ 45. Kxb2 exd6 46. e7 Kf7
+47. Rxf6+ {Golubev,1988} 1-0
+
+[Event "Corr."]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Flomin, A."]
+[Black "Isaev, Yu"]
+[Result "1-0"]
+[ECO "B78"]
+[Annotator "Mikhail Golubev 1998"]
+[PlyCount "39"]
+[EventDate "1988.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. Bg5 Rc5 13. Rhe1 b5 (13... Qa5)
+14. f4 Nc4 (14... b4 $6 15. Nd5 $16) 15. Bxc4 (15. Qd3 $13) 15... bxc4 (15...
+Rxc4 16. e5 16... b4 $1 (16... dxe5 $6 17. fxe5 (17. Ndxb5 $5 17... a6 18. Bxf6
+(18. fxe5 $6 18... axb5 19. exf6 exf6 20. Be3 b4) 18... exf6 (18... Bxf6 $2 19.
+fxe5) 19. Qxd7 Qxd7 20. Rxd7 20... axb5 $14) 17... b4 18. exf6 (18. Qd3 $5)
+18... exf6 19. Qd3 $16) 17. Qd3 $1 (17. exf6 exf6 18. Qd3 bxc3 19. Qxc4 cxb2+
+20. Kb1 20... fxg5 $13) (17. Qe2 $13) 17... Rxd4 18. Qxd4 18... bxc3 $14) 16.
+e5 (16. Bxf6 $5) 16... dxe5 17. Nf3 $1 (17. fxe5 17... Nd5 $1 18. Nde2 (18. Nf5
+Bxf5 19. Nxd5 19... c3 $1) (18. Nxd5 18... Rxd5 $13) 18... Nb6) (17. Rxe5 Rc8)
+17... exf4 18. Ne5 (18. Bxf6 Bxf6 19. Qxd7 Qa5 20. Rd5 (20. Nd4 $2 20... Rd8) (
+20. Ne4 $2 20... Bxb2+) (20. Rxe7 $5) 20... Rxd5 21. Nxd5 Rd8 22. Nxf6+) 18...
+Qb6 (18... Qa5 19. Bxf6 Bxf6 20. Nxd7 Bxc3 21. Qxc3 Qxa2 22. Qa3 {
+1-0 Ioseliani-Shafranska,Tbilisi 1987}) (18... Rxe5 19. Rxe5 Qb6) 19. Bxf6 $18
+19... Rb8 20. Qxd7 {Golubev,1989} 1-0
+
+[Event "Corr. Ukraine"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Kovalchuk, N."]
+[Black "Bashtovoi, G."]
+[Result "1/2-1/2"]
+[ECO "B78"]
+[Annotator "Mikhail Golubev"]
+[PlyCount "66"]
+[EventDate "1990.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. h4 Rc8 11. Bb3 h5 12. O-O-O Ne5 13. Bg5 Rc5 14. Kb1 b5 15.
+g4 15... hxg4 $5 16. h5 Nxh5 17. Nd5 Re8 18. Rxh5 gxh5 19. Qh2 Rxd5 20. Bxd5
+Qb6 21. Nf5 (21. Qxh5 $5 21... e6 22. Bb3 Ng6) 21... Bxf5 22. exf5 22... gxf3
+$1 23. Qxh5 Qf2 24. Bf4 Rc8 25. c3 (25. Rc1 $3 $18 {Z.Markovic-M.Markovic,1993}
+) 25... Rc5 26. Be6 Qe2 27. Rd4 Qf1+ 28. Kc2 Qg2+ 29. Kb3 Qg4 30. Bxf7+ Kf8 31.
+Bxe5 Qxh5 32. Bxh5 Rxe5 33. Rf4 Bh6 1/2-1/2
+
+[Event "Corr."]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Golovenchenko, P.E.."]
+[Black "Kurotjka, A.P."]
+[Result "1-0"]
+[ECO "D44"]
+[Annotator "Mikhail Golubev"]
+[PlyCount "61"]
+[EventDate "1991.??.??"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5
+9. Nxg5 hxg5 10. Bxg5 Nbd7 11. exf6 Bb7 12. g3 c5 13. d5 Qb6 14. Bg2 O-O-O 15.
+O-O b4 16. Na4 Qb5 17. a3 exd5 (17... Nb8 18. axb4 cxb4 19. Qg4 $5 (19. Qd4 Nc6
+20. dxc6) 19... Bxd5 (19... Rxd5 20. Rfc1 $16) 20. Rfc1 Nc6 (20... Nd7 21. Qf4
+(21. Bxd5 exd5 22. Be3 22... Bd6 $1 $132)) 21. Bxd5 Rxd5 22. Rxc4 Kd7 (22...
+Rxg5 23. Qd4 $16) (22... Kb7 23. Rac1 Rxg5 24. Qe4 $16) 23. Rac1 Rxg5 24. Qe4
+Nd8 25. Qa8 Qa6 (25... Ke8 26. Rc8 Rd5 27. Qxa7 Rh6 (27... Rhh5 28. Nb6 $18 {
+Maksimenko-Scherbakov,Aalborg 1993}) 28. Nb6 Rd2 29. Na8 $18 {
+Vl.Lazarev-Dgebuadze,Werfen 1993}) 26. Rc7+ Ke8 27. Rd1 Bd6 28. Rc8 Kd7 29. Qb8
+Rd5 30. Nc5+ Rxc5 31. Rxc5 Qb6 32. Qc8+ Ke8 33. Rb5 Qc7 34. Qa6 Bc5 35. Qa4
+Bxf2+ 36. Kf1 Qc4+ 37. Kxf2 $18 {Golubev/Vl.Lazarev, Biel (Analyse) 1992}) (
+17... Ne5 18. axb4 $1 (18. Qe2 $5 18... Nd3 $2 19. axb4 cxb4 20. dxe6 Bxg2 (
+20... Qxg5 21. e7) 21. e7 Bxf1 (21... Bxe7 22. fxe7 Bxf1 23. exd8=Q+ Rxd8 24.
+Qg4+ f5 25. Qf3) (21... Qxg5 22. e8=Q $1) 22. Qg4+ Kc7 23. Nc3 $18 {Golubev})
+18... cxb4 19. Qd4 Nc6 20. dxc6 Rxd4 21. cxb7+ Kc7 22. Be3 e5 23. Nc3 bxc3 24.
+bxc3 Bc5 25. cxd4 Bxd4 26. Rfb1 Qc5 27. Ra6 Rb8 28. Bc1 $3 {
+Kamsky-Kramnik,New York m-1,1994}) 18. axb4 cxb4 19. Be3 Nc5 20. Qg4+ Rd7 21.
+Nxc5 (21. Bxc5 Bxc5 22. Qg7 Rhd8 23. Nxc5 Qxc5 24. Bh3 Kc7 (24... d4 $5) 25.
+Bxd7 25... Rxd7 $132 {Ivanchuk-"64",1996}) 21... Bxc5 22. Qg7 (22. Bxc5 22...
+Qxc5 $13 {Shirov /  Ivanchuk ,"NEW IN CHESS-YB" (1996)} 23. Qg7 (23. Bh3 Rhd8
+24. Qg7 Kc7 25. Bxd7 25... Rxd7 $44 {Chess Base}) 23... Rdd8 24. Qxf7 $14 24...
+Qb6 25. Rad1 Rdf8 26. Qg6 Rxf6 27. Qg4+ Kb8 28. Bxd5 Rhf8 29. Bxb7 Rxf2 30.
+Rd8+ Rxd8 31. Rxf2 Qxb7 32. Qxc4 32... Rd1+ {0,5-0,5 Mulder,B-Scholz,F 1987cr})
+22... Rhd8 (22... Rdd8 23. Qxf7 Kb8 24. Bxc5 Qxc5 25. Rfe1 Qf8 26. Qg7 Qxg7 27.
+fxg7 Rhe8 28. h4 Rxe1+ 29. Rxe1 d4 30. h5 d3 31. h6 d2 32. Rb1 {
+1-0 Embrey,K-Ugge,A ,1995 cr}) 23. Bh3 $5 23... d4 (23... Bxe3 24. fxe3 d4 25.
+Qxf7 dxe3 (25... Qc6 26. Bxd7+ Rxd7 27. Qe8+ Kc7 28. e4 $18) 26. Bxd7+ Rxd7 27.
+Qe8+ Kc7 28. Rad1 $1 $18 {Golovenchenko}) (23... Kc7 $5 {Golubev}) 24. Bf4 Qc6
+(24... Bd5 $14 {Fritz5}) 25. f3 d3+ 26. Kg2 Qd5 (26... c3 27. bxc3 bxc3 28.
+Qxf7 d2 29. Qb3 $5 {Golubev} 29... Qxf6 30. Qc4 Qc6 (30... Qd4 31. Qxd4 Bxd4
+32. Ra4) 31. Qxc3) 27. Ra5 27... Bc6 $2 (27... c3 28. bxc3 bxc3 29. Bxd7+ $1 {
+Golubev} (29. Be3 29... Bxe3 $1 30. Rxd5 Bxd5 31. Bxd7+ 31... Rxd7 $44 {
+Golovenchenko}) (29. Rxc5+ Qxc5 30. Qxf7 { Qb3 Golovenchenko}) 29... Rxd7 (
+29... Kxd7 $18 30. Rxc5 (30. Qg4+ Kc6 31. Be3 Bxe3 32. Rxd5 Rxd5 33. Qc4+)
+30... Qxc5 31. Qxf7+ Kc8 32. Qe6+ Rd7 33. f7) 30. Qg8+ Rd8 31. Qg4+ Rd7 32. Re1
+Qxf3+ 33. Qxf3 Bxf3+ 34. Kxf3 $18) 28. Rxc5 $1 (28. Be3 Bxe3) 28... Qxc5 29.
+Qxf7 Qd4 (29... c3 30. bxc3 bxc3 31. Qb3 $1 $40 {Golovenchenko}) 30. Bxd7+ Bxd7
+31. Rc1 $1 $18 (31. Rc1 c3 32. bxc3 bxc3 33. Qb3) (31. Rc1 Qxb2+ 32. Kh1 c3 33.
+Qc4+) 1-0
+
+[Event "Simferopol ch-UKR"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Ginsburg, G."]
+[Black "Ovseevich, S."]
+[Result "1/2-1/2"]
+[ECO "B79"]
+[Annotator "Mikhail Golubev"]
+[PlyCount "47"]
+[EventDate "1992.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Bc4
+Nc6 9. Qd2 Bd7 10. Bb3 Qa5 11. g4 Ne5 12. O-O-O Rfc8 (12... b5 $5 13. Bh6 Nc4
+14. Bxc4 Bxh6 15. Qxh6 bxc4 16. h4 16... Rab8 $1 {
+Ginzburg-Ovseevich,Nikolaev zt 1993}) 13. h4 b5 (13... Nc4) (13... Rc4) 14. h5
+14... b4 $5 (14... Nc4 15. Bxc4 bxc4 16. Bh6 $1 16... Bh8 17. Nf5 $1 {
+-"CORRESPONDENCE CHESS INFORMATOR"8 (1995) ,page 210}) 15. Nce2 (15. Nd5 $5
+15... Nxd5 16. Bxd5) 15... Nc4 16. Bxc4 (16. Qd3 16... Nxe3 $5 (16... Ne5) 17.
+Qxe3 Qc5) 16... Rxc4 17. Kb1 Rac8 18. hxg6 18... fxg6 $13 19. Bh6 (19. Ng3 $1
+$16 {"CORRESPONDENCE CHESS INFORMATOR"3 (1993) , page 107}) 19... Bh8 20. Bg5
+20... Qe5 $1 21. Bf4 Qc5 22. Bg5 (22. b3 Rc3 23. Nxc3 bxc3 24. Qh2 e5 25. Bg5
+exd4 26. Bxf6 h5 27. Bg5 Qxg5 28. Qxd6 28... Qc5 $5) 22... Qe5 23. Bf4 Qa5 24.
+Bg5 {Golubev,M} 1/2-1/2
+
+[Event "Simferopol ch-UKR"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Golubev, M."]
+[Black "Borodai, S."]
+[Result "1-0"]
+[ECO "C50"]
+[Annotator "Mikhail Golubev"]
+[PlyCount "85"]
+[EventDate "1992.??.??"]
+
+1. e4 e5 2. Bc4 Nc6 3. Nf3 d6 4. Nc3 Be7 5. d4 Bg4 6. h3 Bxf3 (6... Bh5 $5) 7.
+Qxf3 Bf6 8. d5 Nb8 9. Be3 Nd7 10. O-O-O a6 11. g3 Bg5 12. h4 Bxe3+ 13. Qxe3
+Ngf6 14. Be2 b5 15. g4 Nc5 16. a3 Qb8 17. g5 Ng8 18. b4 Nd7 19. h5 Ne7 20. Bg4
+Nb6 21. g6 fxg6 22. hxg6 h6 23. Be2 Nc4 24. Bxc4 bxc4 25. f4 a5 26. b5 exf4 27.
+Qxf4 Rf8 28. Qg4 Qc8 29. Qh5 Rf4 30. Rhg1 Ng8 31. Qe2 Qh3 32. Qxc4 Qe3+ 33. Kb2
+O-O-O 34. Rgf1 Rxf1 35. Rxf1 Nf6 36. e5 dxe5 37. Rxf6 gxf6 38. d6 Rd7 39. Nd5
+Qg1 40. Ne7+ Kb8 41. Qg8+ Kb7 42. Qc8+ Kb6 43. Qb8+ 1-0
+
+[Event "Simferopol ch-UKR"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Golubev, M."]
+[Black "Izhnin, A."]
+[Result "1-0"]
+[ECO "B47"]
+[Annotator "Mikhail Golubev"]
+[PlyCount "71"]
+[EventDate "1992.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 Qc7 6. g3 d6 7. Bg2 a6 8. O-O
+Bd7 9. Be3 Nf6 10. Qe2 Be7 11. a4 O-O 12. f4 Na5 13. Rad1 Nc4 14. Bc1 e5 15.
+Nf5 Bxf5 16. exf5 Nxb2 17. Bxb2 Qb6+ 18. Kh1 Qxb2 19. Rd3 Qb4 20. Rb1 Qc5 21.
+Rxb7 Ra7 22. Rxa7 Qxa7 23. g4 $44 23... exf4 24. g5 24... Ne8 $8 25. f6 $6 (25.
+h4 $44) 25... gxf6 $1 26. Bc6 26... Qc5 $15 27. Bd5 $2 (27. Bxe8 Rxe8 28. gxf6
+Qc6+ 29. Nd5 Bf8 30. Qg2+ Kh8 31. Ne7 Qxg2+ 32. Kxg2) 27... Bd8 28. Ne4 Qa5 29.
+c3 fxg5 30. Qh5 Ng7 31. Qh6 $17 31... Re8 $4 {T} 32. Bxf7+ Kxf7 33. Nxd6+ Kg8
+34. Nxe8 Nxe8 35. Qe6+ Kf8 36. Rd7 {Golubev} 1-0
+
+[Event "Simferopol ch-UKR"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Smuter, L."]
+[Black "Ovseevich, S."]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Annotator "Mikhail Golubev"]
+[PlyCount "80"]
+[EventDate "1992.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. g4 e5 10. Nde2 Be6 11. O-O-O Qa5 12. Kb1 (12. g5 Nh5 13. Qxd6 Rfd8 14.
+Qc5 Rxd1+ 15. Kxd1 15... Qd8+ $1 16. Nd5 (16. Kc1 Nd4 17. Bg2 b6) 16... Bf8 17.
+Qc4 Nb4 18. Nec3 Rc8 19. Qb3 19... Rxc3 $1) 12... Rfc8 13. g5 Nd7 14. Nd5 Qd8
+15. h4 Nb6 16. Nxb6 axb6 17. Nc1 b5 18. Bxb5 Nd4 19. Bxd4 exd4 20. f4 Rc5 21.
+Qb4 Qb6 22. a4 Rac8 23. Nd3 Rxc2 24. Rc1 Qc7 25. a5 d5 26. Qb3 Rc3 27. bxc3
+dxe4 28. cxd4 Bxb3 29. Rxc7 Rxc7 30. Ne5 Bd5 31. Rc1 Rxc1+ 32. Kxc1 f6 33. gxf6
+Bxf6 34. Kd2 Bd8 35. a6 bxa6 36. Bxa6 Bxh4 37. Ke3 Kg7 38. Bc4 Bxc4 39. Nxc4
+Bd8 40. Kxe4 h5 1/2-1/2
+
+[Event "Loosdorf op"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "8"]
+[White "Csoke, A."]
+[Black "Rumpl, E."]
+[Result "1-0"]
+[ECO "B78"]
+[Annotator "Mikhail Golubev 1998"]
+[PlyCount "87"]
+[EventDate "1993.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 (11... Na5 12. Bg5 $5 (12. Bh6 $5))
+12. Bg5 Nc4 13. Bxc4 Rxc4 14. e5 Ne8 (14... dxe5 $1) 15. Nd5 $1 (15. exd6 15...
+Nxd6 $13 {Csoke-Medvegy,Hungary 1992}) (15. Qd3 $2 15... Rc5 {
+Zeljko-Starcic,Slovenia 1996}) 15... f6 (15... Rxd4 $2 16. Qxd4 Bxe5 17. Nxe7+
+$18) 16. exf6 Nxf6 (16... exf6 17. Bf4 17... Nc7 {
+Schekachev-B.Alterman,Sochi 1990} 18. Ne3 $1 {G.Kosanovic,1994}) 17. Bxf6 $5 (
+17. Qe2 $5 17... Rc5 18. Ne6 Bxe6 19. Qxe6+ Kh8 20. Bxf6 Bxf6 21. Rhe1 Qc8 (
+21... Rxd5 22. Qxd5 Qb6 23. c3 Rc8 24. Re2 Qa6 25. Rde1 e5 26. f4 exf4 27. Re6
+{1-0 Pikula-Ristic,Yugoslavia 1994}) 22. Qxc8 Rfxc8 23. Rd2 {
+Turzo-Haack,Dresden 1995}) (17. Nxf6+ $2 {(! Mikhalchishin YB/4)} 17... Rxf6 $1
+18. Bxf6 (18. b3 18... Rc5 $1 $13 (18... Rxd4 $2 19. Qxd4 19... Rf5 20. Qxd6
+$18)) 18... Bxf6 $44 19. Ne2 (19. Nb3 Qc7 20. Kb1 Bf5 21. Rc1 21... g5 $13 {
+Golubev,NIC YB/13}) (19. Qe2 $2 19... Qc8) (19. Qe3 19... Kh8 $44 (19... Qb6
+20. Qb3 $1)) 19... Be6 $13 (19... Kh8 20. g4 $5 20... Qb6 21. c3 Qa5 22. Kb1) (
+19... Qc7 20. g4 (20. c3 b5 21. Kb1 b4 22. Rc1 Qa5 23. cxb4 Rxb4 24. Nc3 Be6
+25. Ka1 Ra4 26. a3 Rxa3+ 27. bxa3 Qxa3+ 28. Kb1 28... Bf5+ {
+0-1 Torres-Ballesteros,corr 1987})) 20. c3 (20. Kb1 Qb6 21. c3 21... Ra4 $5 22.
+b3 22... Ra3 23. Nd4 Bxd4 24. Qxd4 Qa6) (20. Qe3 20... Qc8 $1 21. c3 b5 22. Nd4
+22... Bf7 $13) 20... Qa5 21. a3 b5 22. Kb1 22... b4 $5 23. cxb4 Bf5+ 24. Ka2
+24... Qa6 $44 {(1989)}) 17... Bxf6 (17... Rxf6 18. Qe2 $1) 18. Nxf6+ $36 18...
+Rxf6 19. Rhe1 (19. h4 $5) 19... e5 20. Ne2 Rc6 (20... Qc7 21. Nc3 Bc6 22. Re3
+Rd4 23. Rd3 Rxd3 24. Qxd3 Kg7 25. b3 25... Qb6 { -  Csoke-Velvart,Budapest 1994
+}) 21. Nc3 Rf7 22. Kb1 Qb6 23. Re3 Be6 24. Rd3 Bc4 25. Rxd6 Rxd6 26. Qxd6 Qxd6
+27. Rxd6 g5 28. Ne4 g4 29. Nf6+ Kg7 30. Nxg4 e4 31. b3 exf3 32. gxf3 Be2 33.
+Ne5 Rf5 34. Rd7+ Kf6 35. Ng4+ Kg5 36. Rxh7 Bxf3 37. Nf2 Kf4 38. Nd3+ Ke3 39.
+Re7+ Kd2 40. Kb2 Rb5 41. Ne5 Bh1 42. Nc4+ Kd1 43. Ne3+ Ke2 44. Nf5+ {
+Golubev,1998} 1-0
+
+[Event "Ukraine Ch"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Krivosheja, S."]
+[Black "Feigin, M."]
+[Result "1-0"]
+[ECO "D45"]
+[Annotator "Sergei Krivosheja for Chess Sector"]
+[PlyCount "37"]
+[EventDate "1995.??.??"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. g4 h6 8. Bd2
+8... e5 {?!} (8... Qe7 {- 63/(382)}) 9. cxd5 {N} (9. dxe5) 9... cxd5 {?!} (9...
+Nxd5 {Hazai,L; Lukacs,P}) 10. Nb5 10... Bb8 $8 11. Bb4 Nxg4 (11... e4 12. Rc1)
+12. h3 e4 (12... Ngf6 13. Rc1 Nb6 14. dxe5 $16 (14. Nxe5 $16)) 13. hxg4 exf3
+14. Rh5 {!!} 14... g5 (14... Nb6 15. Re5+ Bxe5 16. dxe5 $18 {
+'with the idea' 17.Nd6, 17.Nc7}) (14... Nf6 15. Re5+ $18 {!}) 15. Rc1 Nb6 16.
+Qc5 {'with the idea' Rh6} 16... Be6 (16... Qf6 17. Nxa7 {!} 17... Bxa7 18. Rxh6
+{!} 18... Rxh6 19. Bb5+ Bd7 20. Qf8# {#}) 17. Rxh6 Rxh6 (17... Rg8 18. Qc2 {
+'with the idea' 19.Qh7 Kd7 20.Re6 Ke6 21.Qf5#}) 18. Nc7+ {!} 18... Qxc7 19.
+Bb5+ 1-0
+
+[Event "Corr. YUG"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Somborski, N."]
+[Black "Brindza"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[Annotator "Mikhail Golubev"]
+[PlyCount "91"]
+[EventDate "1996.??.??"]
+
+{http://chess-sector.odessa.ua} 1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5.
+Ng5 Ngf6 6. Bd3 e6 7. N1f3 Bd6 8. Qe2 h6 9. Ne4 Nxe4 10. Qxe4 Nf6 11. Qh4 Ke7
+12. Ne5 Bxe5 13. dxe5 Qa5+ 14. c3 Qxe5+ 15. Be3 b6 16. O-O-O g5 17. Qh3 $1 (17.
+Qa4 $6) 17... c5 18. Rhe1 Bb7 19. Bf5 $13 (19. Bc4 $1 {
+Morozevich-Iordachescu,1998}) 19... Rad8 (19... Qxf5 $4 20. Qxf5 exf5 21. Bxc5#
+) (19... Bxg2 $4 20. Qxg2 Qxf5 21. Qb7+) (19... Qc7 $2 20. Bxe6) 20. Bd2 Qd5
+21. Bxg5 hxg5 (21... Qxg2 $5 22. Bh4) 22. Rxd5 Rxh3 23. Rxd8 Kxd8 24. Bxh3 g4
+25. Bxg4 Nxg4 26. f3 Nxh2 27. Kd2 Nxf3+ 28. gxf3 Bxf3 29. Rf1 Bh5 30. Rh1 Bg6 (
+30... Bf3) 31. Rh8+ Kc7 32. b4 cxb4 33. cxb4 a5 34. bxa5 bxa5 35. Ra8 Kb6 36.
+Rb8+ Kc5 37. a4 Be4 38. Rb5+ Kc4 39. Rxa5 Bd5 40. Ra6 Kb4 41. a5 Kb5 42. Ra7 f6
+43. Kd3 Bc4+ 44. Ke4 Kc6 45. Kd4 Bd5 46. Ra6+ 1/2-1/2
+
+[Event "Sevastopol"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Murashko, V."]
+[Black "Ponomariov, R."]
+[Result "0-1"]
+[ECO "D34"]
+[PlyCount "80"]
+[EventDate "1996.??.??"]
+
+1. c4 e6 2. Nc3 d5 3. cxd5 exd5 4. d4 c5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O
+O-O 9. b3 Ne4 10. Bb2 Bf6 11. Na4 b6 12. Rc1 Re8 13. dxc5 Bxb2 14. Nxb2 bxc5
+15. Nd3 (15. Na4 Ba6 16. Re1 c4 17. Nh4 $5 {Larsen-Kasparov,1983} (17. Nd4) (
+17. Nd2)) 15... Ba6 16. Re1 16... Qf6 $2 17. Bf1 $2 (17. Nxc5 Nc3 18. Nd7 $18)
+17... Bxd3 18. Qxd3 Nb4 19. Qb1 a5 20. a3 Nc6 21. Bg2 Rab8 22. Qd3 Nd4 23. Rb1
+Nc3 24. Nxd4 Nxb1 25. Nb5 Qg6 26. Qxg6 hxg6 27. Nc7 Nc3 28. a4 Rxe2 29. Rc1 d4
+30. Na6 Rxb3 31. Nxc5 Rb1 32. Rxb1 Nxb1 33. Bf1 Ra2 34. Bb5 Nc3 35. Bc4 Ra1+
+36. Kg2 Nxa4 37. Nb3 Ra3 38. Nxd4 Nb6 39. Bb5 a4 40. Kf1 Rc3 0-1
+
+[Event "Wijk aan Zee"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Ivanchuk, V."]
+[Black "Shirov, A."]
+[Result "1-0"]
+[ECO "D44"]
+[Annotator "Mikhail Golubev"]
+[PlyCount "69"]
+[EventDate "1996.??.??"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5
+9. Nxg5 hxg5 10. Bxg5 Nbd7 11. exf6 Bb7 12. g3 c5 13. d5 Qb6 14. Bg2 O-O-O 15.
+O-O b4 16. Na4 Qb5 17. a3 exd5 18. axb4 cxb4 19. Be3 Nc5 20. Qg4+ Rd7 21. Qg7 {
+! Ivanchuk/!! Shirov} 21... Bxg7 22. fxg7 Rg8 23. Nxc5 23... d4 {? Ivanchuk} (
+23... Rc7 24. Nxb7 {Ivanchuk} (24. Bh3+ Kb8 25. Ne6 fxe6 26. Bxa7+ Kc8 27.
+Bxe6+ Kd8 28. Bxg8 Rxg7 29. Be6 $13 {Chess Base}) 24... Rxb7 (24... Qxb7 25.
+Rfd1 (25. Bh3+ Kb8 26. Bxa7+ Qxa7 27. Rxa7 27... Kxa7 $17) 25... Qc6 (25...
+Rxg7 26. Rxd5 $18) 26. Rxd5 Qe6 27. Bf4 $40 {Chess Base}) 25. Rfd1 Rd7 (25...
+Rxg7 26. Rxd5 26... Qe8 $8 27. Rc5+ Rc7 28. Rxa7 $1 28... Rxc5 29. Ra8+ Kd7 30.
+Rxe8 $16 {Kodinets /Chess Assistant}) 26. Bd4 $16 {  h4-h5-h6 Shirov} (26. Bxa7
+$5 26... Rxg7 27. Bd4 $40 {Kodinets /Chess Assistant}) (26. Bh3 f5 (26... a5
+27. Bd4 $16) (26... Rxg7 27. Rxa7 f5 28. Bxf5) 27. Bxf5 Rgxg7 28. Rxa7 Kb8 (
+28... Kd8 29. Bxd7 Rxd7 30. Ra8+ $16 {Kodinets /Chess Assistant}) 29. Bxd7 Rxd7
+30. Raa1 $13 {Chess Base})) (23... f5 24. Rxa7 $1 (24. Nxd7 $6 24... Qxd7 25.
+Bd4 (25. Rxa7 Rxg7 26. Rfa1 Qc6 27. R1a5 c3 28. bxc3 28... b3 $1 $132 {Bologan}
+) 25... Rxg7 $14 {Shirov}) 24... Rgxg7 (24... Rdxg7 25. Rfa1 $18) 25. Rfa1 {
+(+- Shirov)} 25... d4 (25... Rc7 26. Ra8+) (25... Rde7 26. R1a5 Qc6 27. Nxb7
+Rxb7 28. R7a6 $1 $18) 26. Bf4 $3 26... Kd8 (26... Bxg2 27. Ra8+ $18) 27. Nxb7+
+Rxb7 28. Ra8+ Ke7 29. Bxb7 $18 {Bologan}) (23... Rxg7 {! B.Lalic} 24. Rxa7 (24.
+Bh3 {! Shirov} 24... f5 $1 (24... Bc6 25. Rxa7 $18 {Shirov}) (24... f6 25. Rxa7
+{Ivanchuk}) 25. Bxf5 d4 (25... Rgf7 26. Bxd7+ Rxd7 27. Bd4 Rc7 28. Nxb7 28...
+Rxb7 {Ivanchuk}) 26. Bxd4 26... Rgf7 $13 {B.Lalic /   Ivanchuk} 27. Bg4 Bf3 28.
+Be6 Rfe7) (24. Bd4 24... f5 $13 25. Bh3 {(!?)} 25... Rgf7 26. Rxa7 Rc7 27. Ne6
+Rce7 (27... Rc6 $2 28. Ng5 Rf8 29. Rfa1 $16 29... Ra6 $2 30. R1xa6 Bxa6 31.
+Ra8+ $18 {B.Lalic}) 28. Ng5 28... Qe8 $1 29. Nxf7 29... Qxf7 $15 30. Rfa1 Qh5
+31. Bg2 f4 32. R7a5 f3 33. Bf1 {Lalic,B-Wilson,J London 1996} 33... Re4 $1 {
+B.Lalic}) 24... Rc7 (24... d4 $5 25. Bxb7+ 25... Rxb7 26. Nxb7 26... Qb6 $1 $17
+{B.Lalic}) 25. Bh3+ (25. Nxb7 Rxb7) 25... Kb8 (25... Kd8 $5) 26. Nxb7 Rxb7 27.
+Raa1 {Ivanchuk} (27. Ra2 $5)) (23... Re7 {Ivanchuk}) (23... Bc6 24. Ra6 $18 {
+Shirov}) 24. Bxb7+ Rxb7 25. Nxb7 25... Qb6 {  Shirov} (25... Kxb7 26. Bxd4
+26... a5 {Ivanchuk} 27. Rfe1 $18 {Shirov} 27... Qd5 28. Rad1 $1 28... Ka6 $5
+29. h4 {Bologan}) (25... Qxb7 {Ftacnik} 26. Bxd4 a6 27. Rfe1 $14 {Chess Base})
+26. Bxd4 {!! Shirov} (26. Bf4 Kxb7 27. Rfe1 27... a5 $1 $132 {Shirov}) 26...
+Qxd4 27. Rfd1 (27. Na5 {Ivanchuk}) 27... Qxb2 (27... Qxg7 28. Rxa7 Kb8 29. Rda1
+Re8 (29... Qd4 30. Na5 $3 {(! Ivanchuk)} 30... Qc5 31. Rb7+ Kc8 32. Rxf7 $18 {
+Shirov}) 30. Nd6 Re1+ 31. Rxe1 Kxa7 32. Nxc4 $16 {Shirov /+- Ivanchuk}) (27...
+Qxd1+ 28. Rxd1 Kxb7 29. Rd4 Rxg7 30. Rxc4 a5 31. Rf4 $1 31... Kb6 32. h4 Kb5
+33. b3 $18 {Shirov}) (27... Qg4 $5 {Ftacnik} 28. Nd6+ Kb8 29. Rd5 29... c3 $1 (
+29... Rxg7 $2 30. Rc5 $16) 30. bxc3 bxc3 31. Rb5+ Kc7 (31... Ka8 32. Rb7 $18)
+32. Ra6 c2 33. Rb7+ Kd8 34. Nxf7+ Ke8 35. Nd6+ 35... Kd8 {Chess Base}) 28. Nd6+
+Kb8 (28... Kc7 {Ftacnik} 29. Rxa7+ Kc6 30. Nxc4 $40 {Chess Base}) 29. Rdb1
+29... Qxg7 {? Shirov} (29... Qc3 30. Rxa7 $1 {+- Ivanchuk} (30. Ra4 a5 31. Rxa5
+b3 32. Ra4 $18 {Bologan}) 30... Kxa7 (30... Rxg7 31. Rb7+ Ka8 32. R7xb4 $18)
+31. Nb5+ Ka6 32. Nxc3 bxc3 33. Rb4 $1 $18 {Shirov}) (29... Qd2 30. Nxc4 Qc3 31.
+Ra4 {! Shirov} (31. Ne3 Qc5 32. Ra4 a5 33. Rba1 33... b3 $13 {Shirov}) 31... b3
+32. Na5 $1 (32. Ne3 Ka8 33. Ra3 Qxg7 34. Raxb3 $14 {Shirov}) 32... Ka8 (32...
+b2 33. Rb4+ {Ivanchuk} 33... Ka8 34. R4xb2 $18 {Shirov}) 33. Ra3 $1 (33. Rxb3
+Qe1+ 34. Kg2 34... Qd1 $1 $13 {Shirov}) 33... Qxg7 34. Nc6 Kb7 35. Nxa7 $18 {
+Shirov}) (29... Qe5 30. Rxb4+ Kc7 31. Rd1 $1 $18 {Ivanchuk}) 30. Rxb4+ Kc7 (
+30... Ka8 {Ftacnik} 31. Rba4 (31. Ra5 $14) 31... f6 32. Nb5 $40 {Chess Base})
+31. Ra6 {! +- Shirov} 31... Rb8 32. Rxa7+ (32. Rxc4+ Kd7 33. Nxf7 (33. Nf5
+33... Qb2 {Chess Base}) 33... Rb7 $1 {Ivanchuk}) (32. Rb7+ $4 32... Rxb7 33.
+Ne8+ Kb8 34. Nxg7 34... c3 $19 {Ivanchuk}) 32... Kxd6 33. Rxb8 Qg4 34. Rd8+ Kc6
+35. Ra1 (35. Rxf7 c3 36. Rf4 {Chess Base}) 1-0
+
+[Event "Alushta ch-UKR"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Golubev, M."]
+[Black "Bodnar, N."]
+[Result "1-0"]
+[ECO "B01"]
+[Annotator "Mikhail Golubev"]
+[PlyCount "117"]
+[EventDate "1997.??.??"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Nf3 g6 5. Be2 Bg7 6. O-O Bg4 7. c4 Nb6 8.
+Nc3 8... c6 {N} (8... O-O) 9. c5 (9. Qb3 $5 {Komliakov} 9... Bxf3 10. Bxf3 Qxd4
+11. Be3 $1 11... Qxc4 $2 12. Bxb6 Qxb3 13. axb3 $18) 9... Nd5 10. Qb3 Qd7 11.
+Nxd5 cxd5 (11... Be6 12. Nb6 axb6 13. Qxb6 $16) 12. Bh6 $3 (12. Ne5 Bxe5 13.
+Bxg4 13... Qxg4 $13 14. Qxb7 14... Qd7 $1 15. Qxa8 O-O) 12... Bxf3 (12... Bxh6
+13. Ne5 $36 13... Qc7 (13... Bxe2 14. Nxd7 $16) 14. Bxg4 $1 14... e6 $6 15.
+Bxe6 fxe6 16. Qh3 $40 16... Bg7 17. Qxe6+ Kf8 18. f4 $18) 13. Bb5 $36 (13. Bxg7
+$2 13... Bxe2 14. Bxh8 Bxf1 15. Rxf1 Nc6) 13... Nc6 14. Bxg7 Rg8 15. Be5 Be4
+16. Rfe1 Bf5 (16... Kf8 17. Rxe4 $1 17... dxe4 18. d5 Qf5 19. dxc6 Qxe5 20.
+cxb7 Rb8 21. c6 21... Kg7 22. Qc3 $18) (16... O-O-O $16) 17. Re2 (17. Bd6 $5
+17... Be6 18. Bg3) (17. Qg3 $5) (17. Qe3 $5) 17... Kf8 $1 18. Rae1 18... g5 $1
+19. Bg3 (19. Bxc6 $5) 19... e6 20. Bd6+ Kg7 21. h3 h5 22. Qf3 g4 (22... Rh8 23.
+Bxc6 $1) 23. hxg4 hxg4 24. Qe3 $2 (24. Qf4 Qd8 25. f3 Qh4 (25... gxf3 26. gxf3
+$1) 26. Re3 $5) 24... Qd8 $1 25. f3 (25. Bxc6 25... bxc6 $11) 25... Qh4 $2 (
+25... gxf3 $1 26. gxf3 (26. Qxf3) 26... Qh4 $1 27. Rh2 Qxd4 28. Be5+ Kf8+) 26.
+g3 Qh6 27. Qxh6+ $2 (27. Bf4 $1) 27... Kxh6 28. Rh2+ Kg7 (28... Kg6 $1) 29.
+fxg4 Bxg4 30. Rh4 Bf5 31. g4 Be4 32. Bxc6 bxc6 33. Rf1 a5 34. Kh2 Ra7 35. Kg3
+$11 35... f6 $6 36. g5 Bf5 37. gxf6+ Kxf6+ 38. Kh2 $14 38... Rf7 39. Rf3 Rg5
+40. Bf4 Rg4 (40... Rg8 $1) 41. Rh8 Kg6 42. Be5 42... Rh7+ $2 (42... Be4 43.
+Rg8+ Kh5 (43... Kh7 $2 44. Rh3+ $18)) (42... Re4) 43. Rxh7 Kxh7 44. Ra3 $16
+44... Be4 45. b3 Rg2+ 46. Kh3 Rb2 47. Rxa5 Bb1 48. Ra6 Bxa2 49. Rxc6 Rxb3+ 50.
+Kg4 Kg6 51. Rxe6+ Kf7 52. Ra6 Bb1 53. c6 Bd3 54. Ra7+ Kg6 55. Rg7+ Kh6 56. c7
+Bf1 57. Rg8 Rc3 58. Rh8+ Kg6 59. c8=Q {Golubev} 1-0
+
+[Event "Alushta ch-UKR"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Timoshenko, I."]
+[Black "Melnichenko, O."]
+[Result "1-0"]
+[ECO "D47"]
+[Annotator "Mikhail Golubev"]
+[PlyCount "65"]
+[EventDate "1997.??.??"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. e4 b4 10. Na4 c5 11. e5 Nd5 12. O-O cxd4 13. Nxd4 Nxe5 14. Bb5+ Nd7 15.
+Re1 Rc8 16. f4 g6 (16... Be7 17. f5 O-O 18. fxe6 Nc5) 17. f5 gxf5 18. Qh5 N5f6
+19. Nxe6 Be4 20. Qxf5 fxe6 21. Qxe6+ Qe7 22. Rxe4 Qxe6 23. Rxe6+ Kf7 24. Ra6
+Be7 25. Rxa7 Rhd8 26. Bg5 Rc5 27. Bxf6 Rxb5 28. Bxe7 Kxe7 29. Re1+ Kf8 30. Rd1
+Ke8 31. Ra6 Ne5 32. Rxd8+ Kxd8 33. h3 1-0
+
+[Event "Corr. YUG"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Somborski, N."]
+[Black "Milivojevic"]
+[Result "1-0"]
+[ECO "B45"]
+[PlyCount "75"]
+[EventDate "1997.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Ndb5 Bb4 7. a3 Bxc3+ 8.
+Nxc3 d5 9. exd5 exd5 10. Bd3 O-O 11. O-O d4 12. Ne2 Qd5 13. Nf4 Qd6 14. Nh5
+Nxh5 15. Qxh5 f5 16. Re1 Bd7 17. Qh4 Rae8 18. Bf4 Qf6 19. Qxf6 Rxe1+ 20. Rxe1
+Rxf6 21. f3 a6 22. Kf2 Kf7 23. h4 b5 24. h5 g6 25. hxg6+ hxg6 26. b3 Re6 27.
+Rd1 Kf6 28. Be2 Bc8 29. Bc1 Rd6 30. f4 30... b4 $2 31. axb4 Nxb4 32. Ba3 Rb6
+33. Rxd4 a5 (33... Nxc2 34. Bb2) 34. Rd2 Ba6 35. Bxa6 Rxa6 36. c3 Nc6 37. Rd6+
+Kf7 38. Bc5 1-0
+
+[Event "Corr."]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Mezjebitsskij, S."]
+[Black "Kirilko, V."]
+[Result "0-1"]
+[ECO "B89"]
+[Annotator "Mikhail Golubev"]
+[PlyCount "68"]
+[EventDate "1997.??.??"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 Nc6 4. Nxd4 e6 5. Nc3 d6 6. Be3 Nf6 7. Bc4 Be7 8.
+Qe2 a6 9. O-O-O Qc7 10. Bb3 O-O 11. Rhg1 Nd7 12. g4 Nc5 13. Nf5 b5 14. Bd5 Bb7
+15. g5 Rfc8 16. Rg3 Ne5 (16... Bf8) 17. f4 (17. Rh3 $1) 17... Ng6 18. Nxg7
+18... b4 $1 (18... Kxg7 19. f5 $40 {Shirov}) 19. Bxc5 Nxf4 20. Qf2 dxc5 21.
+Bxb7 Qxb7 22. Nd5 exd5 23. Nf5 (23. Qxf4 23... Kxg7 24. exd5 Rd8 25. d6 25...
+Bxd6 {(Kirilko)} 26. Qf6+ $1 26... Kg8 27. Rgd3 $1 $11) 23... Ng6 24. Nh6+ Kg7
+25. Qxf7+ Kh8 26. exd5 Rf8 27. Qe6 Rae8 28. Qg4 Bd6 29. Rh3 Qc8 30. Qh5 Qd7 31.
+Nf5 Nf4 32. Qxh7+ Qxh7 33. Rxh7+ Kxh7 34. Nxd6 Re5 0-1
+
+[Event "2nd Chemnitz Open"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "4"]
+[White "Golubev, M."]
+[Black "Watzke, B."]
+[Result "1-0"]
+[ECO "B86"]
+[WhiteElo "2515"]
+[BlackElo "2165"]
+[Annotator "Mikhail Golubev"]
+[PlyCount "47"]
+[EventDate "1998.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. g4
+$5 8... O-O 9. g5 (9. Be3 9... d5 $5) 9... Nfd7 10. Rg1 Nc5 11. Be3 b5 (11...
+g6 $5 12. h4 b5 13. h5 $13) (11... Qa5) 12. Qh5 b4 (12... g6 13. Qh6 Re8 14.
+O-O-O $5 $13) 13. Na4 $146 (13. Nd5 13... Nxb3 $5) 13... Nxb3 14. axb3 14...
+Bb7 $6 15. Rg4 $1 $16 15... Re8 16. Rh4 h6 17. O-O-O $1 (17. Rf4 $2 17... g6
+$17) 17... Bxg5 18. Rg1 $1 18... Bxh4 (18... f6 19. Bxg5 (19. Rhg4 $16) 19...
+fxg5 (19... hxg5 20. Nxe6 $18) 20. Qg6 $1 $16) (18... Bxe3+ 19. fxe3 Qf6 20.
+Rf4 $1 $18) (18... g6 $2 19. Bxg5 $18) 19. Bxh6 $1 (19. Rxg7+ $2 19... Kxg7 20.
+Bxh6+ 20... Kf6 $1 { } 21. f4 (21. Nb6) 21... Ke7 22. Qxh4+ Kd7) 19... Bf6 20.
+Bxg7 Bxg7 21. Qh6 Kf8 22. Rxg7 $18 22... Bc8 (22... Qh4 23. Qxh4 (23. Rxf7+
+Kxf7 24. Qxh4 $18) 23... Kxg7 24. Nb6 Ra7 25. Nc4 $18) 23. Nb6 (23. Rh7+ Ke7
+24. Qg5+ Kd7 25. Rxf7+ Re7 26. Nb6+ $18) 23... e5 24. Rh7+ 1-0
+
+[Event "Alushta ch-UKR"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Reprintsev, A."]
+[Black "Melnichenko, A."]
+[Result "1-0"]
+[ECO "C33"]
+[WhiteElo "2445"]
+[BlackElo "2285"]
+[PlyCount "45"]
+[EventDate "1998.??.??"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nc6 4. Nf3 g5 5. Nc3 Bg7 6. Nd5 d6 7. d4 h6 8. c3
+Nf6 9. h4 Nxe4 10. hxg5 hxg5 11. Rxh8+ Bxh8 12. Qe2 f5 13. Nd2 13... Kf8 $6 (
+13... Be6) 14. Qh5 Kg7 15. Nxe4 fxe4 16. Bxf4 gxf4 17. O-O-O $18 17... b5 18.
+Rh1 bxc4 19. Qh7+ Kf8 20. Qxh8+ Kf7 21. Rh7+ Ke6 22. Nxf4+ Kf5 23. Rf7+ 1-0
+
+[Event "Los Angelos"]
+[Site "?"]
+[Date "1998.04.11"]
+[Round "4"]
+[White "Goldin, A."]
+[Black "Ziatdinov, R."]
+[Result "0-1"]
+[ECO "D37"]
+[WhiteElo "2717"]
+[BlackElo "2553"]
+[Annotator "Rashid Ziatdinov for Chess Sector"]
+[PlyCount "56"]
+[EventDate "1998.??.??"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. Qc2
+Nc6 9. a3 Qa5 10. O-O-O Bd7 11. Kb1 Be7 12. h4 Rfc8 13. Ng5 Nd8 14. e4 g6 15.
+e5 Nh5 16. Be3 b5 17. g4 {#} 17... Bxa3 $5 18. cxb5 (18. gxh5 bxc4 19. bxa3 (
+19. hxg6 hxg6 20. h5 (20. Bc1 Rab8 21. h5 Bxb2 (21... Rxb2+ 22. Bxb2 Rb8 23.
+Bxc4 dxc4 24. hxg6 (24. Rxd7 Bxb2 25. Qxb2 Rxb2+ 26. Kxb2 Qb4+ 27. Kc2 Qb3+ 28.
+Kd2 28... Qb2+ $18 {=/+} 29. Kd1 Qa1+) 24... Bxb2 25. Qxb2 25... Rxb2+ $19) 22.
+Bxb2) 20... Rab8 $4 (20... Bxb2 {-/+}) 21. Bc1 Bxb2 22. Bxb2 Nc6 23. hxg6 Rxb2+
+24. Qxb2 fxg6 25. Nxd5 exd5 26. e6 c3 27. exd7 Rb8 28. Qxb8+ Nxb8 29. Rh8+ Kxh8
+30. d8=Q+ Qxd8 31. Nf7+ $18) 19... Qxa3 20. Bc1 Rab8+ 21. Bb2 Nc6 22. Kc1 (22.
+hxg6 hxg6 23. Rd2 d4 24. Rh3 Rxb2+ 25. Qxb2 Rb8 26. Nb5 Qc5 27. Ne4 Qxe5 28.
+Bxc4 Qxe4+ 29. Bd3 Qd5 30. h5 Ne5 31. hxg6 Nxd3 32. gxf7+ Kxf7 33. Rdxd3 Rxb5
+34. Rdf3+ Ke7 35. Rb3 35... Qe4+ {=/+}) 22... Qa5 23. hxg6 hxg6 24. h5 Rxb2 25.
+Qxb2 Rb8 26. h6 Be8 27. h7+ Kh8 28. Qc2 28... Qa3+ {-/+}) 18... Bb4 19. Nge4
+Bxb5 20. Bxb5 dxe4 21. Bd7 Rxc3 22. bxc3 Bxc3 23. Qa4 Rb8+ 24. Ka2 Rb2+ 25. Ka3
+Qxe5 26. gxh5 Qb8 27. Bb5 Nc6 28. hxg6 Qf8+ 0-1
+
+[Event "Los Angelos"]
+[Site "?"]
+[Date "1998.04.12"]
+[Round "5"]
+[White "Ziatdinov, R."]
+[Black "Gurevich, D."]
+[Result "1-0"]
+[ECO "B08"]
+[WhiteElo "2553"]
+[BlackElo "2620"]
+[Annotator "Rashid Ziatdinov for Chess Sector"]
+[PlyCount "43"]
+[EventDate "1998.??.??"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Be2 Nf6 5. Nc3 O-O 6. O-O c6 7. Bg5 Qc7 8. Qd2
+Re8 9. Bh6 9... Bh8 {To play with King who has no move always dangerous} 10.
+Ng5 b5 11. f4 11... b4 $6 12. Nd1 c5 13. e5 Ng4 14. Bxg4 Bxg4 15. Ne3 Bd7 16.
+f5 $1 {Black did not make terrible mistakes, but position almost lost. How it
+can be? Probably Re8,Bh8 and b4 all together one bigblunder} 16... dxe5 17.
+fxg6 hxg6 18. Rxf7 Qd6 19. Qf2 Bf5 20. Nxf5 gxf5 21. Qxf5 Qxh6 22. Rg7+ {
+And last ro ok from a1 will finish game, this attack remain me style of
+"Spartak" (soccer team from Moscow) in his best, when last defender ran
+without stop from goalkeeper and score.} 1-0
+
+[Event "Melle Sparkassen Open rapid"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "7"]
+[White "Fritz5, P200 MMX."]
+[Black "Golubev, M."]
+[Result "0-1"]
+[ECO "E98"]
+[BlackElo "2510"]
+[Annotator "Mikhail Golubev"]
+[PlyCount "60"]
+[EventDate "1998.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 9... c5 $6 (9... Ne8 {Kasparov}) (9... Nd7 $1) 10. dxc6 $6 (10. f4)
+(10. Rb1 $5) 10... bxc6 11. b4 d5 12. Bg5 $1 12... d4 $6 (12... dxe4 $13) 13.
+Bxf6 Bxf6 14. Na4 $36 14... Bg7 15. Nc5 h5 16. f4 $5 16... exf4 17. Ned3 h4 18.
+Rxf4 18... a5 $2 (18... Bh6) 19. b5 cxb5 20. cxb5 $16 20... a4 $5 21. Rb1 $1
+21... Bh6 22. Rf1 Be3+ 23. Kh1 f5 24. Bf3 fxe4 25. Bxe4 25... Nf5 {? / !!} 26.
+Bxa8 $4 (26. g4 $1 26... hxg3 27. Bxa8 Qh4 28. Rb2 gxh2 29. Ne4 Bg1 30. Rf3 $18
+) 26... Ng3+ $1 $19 27. hxg3 hxg3 28. Rxf8+ Qxf8 29. Bd5+ Kh8 30. Qh5+ (30. Bf3
+Qf6 31. Bg4 Qh4+ 32. Bh3 Bxh3) 30... gxh5 {
+[M.Golubev] http://chess-sector.odessa.ua} 0-1
+
+[Event "Memorial Bozidar Kazic"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "4"]
+[White "Jovcic, M."]
+[Black "Geenen, M."]
+[Result "0-1"]
+[ECO "C51"]
+[WhiteElo "2455"]
+[BlackElo "2575"]
+[Annotator "Jovan Naumovic  for Chess Sector"]
+[PlyCount "12"]
+[EventDate "1998.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Be7 6. Nxe5 $4 (6. d4 Na5 7.
+Nxe5 $1) 6... Nxe5 0-1
+
+[Event "Toronto"]
+[Site "?"]
+[Date "1998.05.15"]
+[Round "3"]
+[White "Ziatdinov, R."]
+[Black "Shabalov, A."]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2553"]
+[BlackElo "2700"]
+[Annotator "Rashid Ziatdinov for Chess Sector"]
+[PlyCount "67"]
+[EventDate "1998.??.??"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nf3 Bg4 4. Be2 Nc6 5. d4 O-O-O 6. c4 Qf5 (6... Qa5+ 7.
+Bd2 Qb6 8. c5 Qxb2 9. Bc3 $18) 7. Be3 Nf6 8. Nc3 e6 9. Qa4 Bxf3 (9... Qa5 $2
+10. Qxa5 Nxa5 11. Ne5 Bxe2 12. Kxe2 $18) (9... a6 10. c5 {+/-}) 10. Bxf3 Nxd4
+11. Bxd4 Rxd4 12. Qxa7 Qe5+ 13. Ne2 Rxc4 (13... Bb4+ 14. Kf1 $18 {
+Three threats Qb7,Qa8 and Qd4 are desizive}) 14. Qxb7+ 14... Kd7 {
+Looks like black is better now, but...} 15. Rd1+ Bd6 16. Rxd6+ $3 16... Qxd6
+17. Qb5+ Rc6 18. O-O 18... Qc5 {
+Again looks like black solved their problems, but again miricale had happened}
+19. Rd1+ Nd5 20. Bxd5 $3 20... Qxb5 21. Bxc6+ Kxc6 22. Nd4+ {
+Last white piece come in to the game and all become clear} 22... Kc5 23. Nxb5
+Kxb5 24. Rd7 {Rook ending is winning very easily} 24... Kc6 25. Rxf7 Rd8 26. g4
+Rd2 27. Rxg7 Rxb2 28. Rxh7 Kd6 29. g5 c5 30. g6 Rb8 31. Rh3 Ke7 32. Rf3 Rc8 33.
+Kf1 c4 34. Rf7+ 1-0
+
+[Event "ol (men), Elista RUS"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "1"]
+[White "Savchenko, S."]
+[Black "Amonatov, F."]
+[Result "1-0"]
+[ECO "E94"]
+[Annotator "Stanislav Savchenko for Chess Sector"]
+[PlyCount "39"]
+[EventDate "1998.??.??"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. O-O Na6 8. Re1
+c6 9. Bf1 exd4 10. Nxd4 Ng4 11. h3 Qb6 12. hxg4 Qxd4 13. Qf3 13... Qb6 $146 14.
+Qg3 $5 (14. Rb1 Bxg4 15. Qxg4 15... Bxc3 $17) 14... Be5 15. Bf4 Bxf4 (15... f6
+$5) 16. Qxf4 Qxb2 17. Rac1 17... f6 $2 (17... Qa3 18. e5 dxe5 19. Qxe5 Nc5 20.
+Qd6 $44) 18. c5 dxc5 (18... Nxc5 19. Qxd6 Ne6 20. Bc4 Re8 21. e5) 19. Bc4+ Kg7
+20. e5 (20. e5 f5 21. e6 fxg4 22. Qxf8+ Kxf8 23. e7+ Ke8 24. Bf7+) 1-0
+
+[Event "ol (men), Elista RUS"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "3"]
+[White "Ponomariov, R."]
+[Black "Zueger, B."]
+[Result "1/2-1/2"]
+[ECO "C06"]
+[Annotator "Stanislav Savchenko for Chess Sector"]
+[PlyCount "132"]
+[EventDate "1998.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. Nf3 Bd6 11. O-O O-O 12. Bg5 Bd7 13. a3 Be8 14. Ng3 h6 15.
+Be3 Bxg3 16. hxg3 Bh5 17. Qb3 Qb6 18. Qxb6 axb6 19. Ne5 Nxe5 20. dxe5 Nd7 21.
+Bd4 Nc5 22. Bc2 $16 22... Kf7 23. b4 Nd7 24. Bd3 Bg6 25. Bb5 Ke7 26. Rfc1 Rfc8
+27. g4 Kd8 28. f4 Rxc1+ 29. Rxc1 Rc8 30. Rxc8+ Kxc8 31. f5 Bf7 32. Kf2 Kc7 33.
+Ke3 Nb8 34. Bd3 Nc6 35. Bc3 Kd7 36. Kf4 Ne7 37. b5 Be8 38. Bd4 Kc7 39. f6 $2 (
+39. Ke3 $18) 39... g5+ 40. Ke3 Ng6 41. Bc3 Nf8 42. Bb4 42... Nd7 $11 43. Kd4
+Bf7 44. Bd6+ Kd8 45. a4 Kc8 46. Bh7 Kd8 47. Kc3 Kc8 48. Kb4 Kd8 49. a5 bxa5+
+50. Kxa5 Kc8 51. b6 Kd8 52. Kb5 Ke8 53. Bc7 Kf8 54. Kb4 Ke8 55. Kc3 Kf8 56. Kd4
+Be8 57. Kc3 Kf7 58. Kb4 Nf8 59. Bc2 Nd7 60. Ka5 Kg8 61. Bd6 Bf7 62. Ba4 Be8 63.
+Bc7 Kf7 64. Kb4 Kg8 65. Bc2 Bf7 66. Ba4 Be8 1/2-1/2
+
+[Event "ol (men), Elista RUS"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "4"]
+[White "Ivanisevic, I."]
+[Black "Savchenko, S."]
+[Result "1/2-1/2"]
+[ECO "D17"]
+[Annotator "Stanislav Savchenko for Chess Sector"]
+[PlyCount "56"]
+[EventDate "1998.??.??"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Qc7 8.
+g3 e5 9. dxe5 Nxe5 10. Bf4 Nfd7 11. Bg2 f6 12. O-O 12... Nc5 {Morozevic} 13.
+Ne3 $146 13... Bg6 (13... Be6 14. b4 $16) 14. b4 Ne6 15. Rc1 $6 (15. b5 $1)
+15... Rd8 16. Qb3 16... Bf7 $1 17. Qb1 Nxf4 18. gxf4 Ng6 19. Ncd5 Bxd5 20. Nxd5
+20... Qd6 $15 21. Qe4+ Kf7 22. Ne3 (22. Rfd1 cxd5 23. Rxd5 Qxd5 24. Qxd5+ Rxd5
+25. Bxd5+ Ke8) 22... Qxf4 23. b5 Bd6 24. Qxf4 Nxf4 25. Bf3 25... cxb5 $6 (25...
+c5 $15) 26. axb5 g6 27. Nc4 Bb4 28. e3 Nd3 1/2-1/2
+
+[Event "ol (men), Elista RUS"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "5"]
+[White "Bacrot, E."]
+[Black "Savchenko, S."]
+[Result "1-0"]
+[ECO "D43"]
+[Annotator "Stanislav Savchenko for Chess Sector"]
+[PlyCount "95"]
+[EventDate "1998.??.??"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Nd7 8. Bd3
+dxc4 9. Bxc4 g6 10. O-O Bg7 11. b4 O-O 12. Rc1 Qe7 13. Qb3 b6 14. e4 Bb7 15.
+Rfe1 Rfd8 16. a4 Nf8 17. Rcd1 Rab8 18. b5 18... Rbc8 $13 19. bxc6 Rxc6 20. Nd5
+Qd7 21. Nb4 Rcc8 22. d5 Qe7 (22... Qc7 $5 23. dxe6 23... Rxd1 24. Rxd1 Qxc4 25.
+Qxc4 Rxc4 26. e7 Rc8 27. Rd8 $2 27... Rc1+ $19) 23. h3 Kh7 24. Nd3 Qc7 25. Rc1
+exd5 26. exd5 Qd6 27. Nde5 Bxd5 28. Nxf7 Bxf7 29. Bxf7 Rxc1 30. Rxc1 Rd7 31.
+Bc4 Qf4 32. Re1 Rc7 33. Bb5 Rc1 34. Rxc1 Qxc1+ 35. Kh2 Qc7+ 36. g3 Qc3 37. Qf7
+Qf6 38. Qd5 Qe6 39. Qb7 a5 40. Bc6 Qd6 41. Nh4 Ne6 42. Bd5 Nd8 43. Qa8 43...
+Bd4 $4 (43... Bf6 44. Nf3 h5 45. h4 45... Kh6 $14) 44. Qa7+ Kh8 45. Be4 Bxf2
+46. Nxg6+ Kg8 47. Nf4 Nf7 48. Bd5 1-0
+
+[Event "ol (men), Elista RUS"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "5"]
+[White "Lautier, J."]
+[Black "Onischuk, Al"]
+[Result "0-1"]
+[ECO "C45"]
+[Annotator "Stanislav Savchenko for Chess Sector"]
+[PlyCount "64"]
+[EventDate "1998.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 Qf6 6. Qd2 dxc6 7. Nc3 Ne7
+8. Qf4 Qxf4 9. Bxf4 Bd6 10. Bxd6 cxd6 11. O-O-O Kd7 12. Bc4 f6 13. Ne2 Kc7 14.
+Nf4 Ng6 15. Nh5 Bg4 16. Nxg7 Bxd1 17. Rxd1 $44 17... b5 18. Bb3 Ne5 19. Be6 h5
+20. Bf5 Rag8 21. Ne6+ Kb6 22. g3 $2 (22. Nf4 $14) 22... h4 23. b3 hxg3 24. hxg3
+Rh2 25. f4 Nf7 26. g4 Rf2 27. Kb1 Rh8 28. Bg6 Nd8 29. Rxd6 Nxe6 30. Rxe6 Rh1+
+31. Kb2 b4 32. e5 Rff1 0-1
+
+[Event "ol (men), Elista RUS"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "7"]
+[White "Gulko, B."]
+[Black "Onischuk, Al"]
+[Result "1/2-1/2"]
+[ECO "A80"]
+[Annotator "Stanislav Savchenko for Chess Sector"]
+[PlyCount "83"]
+[EventDate "1998.??.??"]
+
+1. d4 f5 2. Nc3 d5 3. Bg5 g6 4. e3 Nh6 5. Nf3 c6 6. h4 Nf7 7. Bf4 Bg7 8. Ng5
+Nxg5 9. hxg5 Nd7 10. Qd2 e5 11. dxe5 Nxe5 12. O-O-O $2 12... Qe7 $2 (12... Nf7
+$17) 13. Be2 Be6 14. Bxe5 Bxe5 15. f4 Bg7 16. Bf3 O-O-O 17. Ne2 Rhe8 18. Nd4
+Bg8 19. Rhe1 Kb8 20. Kb1 20... c5 $2 21. Nb5 Qd7 22. Qa5 a6 23. Nc3 d4 24. Qxc5
+Qf7 25. exd4 Rxe1 26. Rxe1 Bxd4 27. Qe7 Rd7 28. Qxf7 Bxf7 29. Rd1 Kc7 30. Bxb7
+Bc4 31. Bf3 a5 32. Nd5+ Bxd5 33. Bxd5 Be3 34. g3 Bf2 35. Rd3 Re7 36. a4 $2 (36.
+Kc1 $1) 36... Re3 37. Rxe3 Bxe3 38. Bg8 Bf2 39. Bxh7 Bxg3 40. Bxg6 Bxf4 41.
+Bxf5 Bxg5 42. c3 1/2-1/2
+
+[Event "ol (men), Elista RUS"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "7"]
+[White "Romanishin, O."]
+[Black "DeFirmian, N."]
+[Result "1/2-1/2"]
+[ECO "A37"]
+[Annotator "Stanislav Savchenko for Chess Sector"]
+[PlyCount "80"]
+[EventDate "1998.??.??"]
+
+1. Nf3 c5 2. g3 Nc6 3. Bg2 e5 4. c4 g6 5. Nc3 Bg7 6. d3 d6 7. O-O Nge7 8. Bd2
+O-O 9. Qc1 Rb8 10. Bh6 a6 11. Bxg7 Kxg7 12. a4 h6 13. Ne1 Be6 14. Nc2 b6 15.
+Ne3 Nd4 16. Qd1 16... b5 $17 17. axb5 axb5 18. cxb5 Nxb5 19. Qd2 Nd4 20. Ra6 d5
+21. Ned1 Qc7 22. e3 Nb3 23. Qc2 c4 24. dxc4 Qxc4 25. Ra4 Qc7 26. Qe2 Rfd8 27.
+Nb5 Qc5 28. Nbc3 Kh7 29. h3 Qc7 30. Kh2 d4 31. exd4 Nxd4 32. Qa6 Nec6 33. Ne4
+Bb3 34. Ra3 Rb6 35. Qd3 35... Nc2 $2 (35... Kg7) 36. Nf6+ Kg7 (36... Kh8 {
+Fritz5}) 37. Ne8+ Rxe8 38. Rxb3 N2d4 39. Rxb6 Qxb6 40. Qc3 Re6 1/2-1/2
+
+[Event "ol (men), Elista RUS"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "8"]
+[White "Onischuk, Al"]
+[Black "Sadler, M."]
+[Result "1/2-1/2"]
+[ECO "A29"]
+[PlyCount "72"]
+[EventDate "1998.??.??"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. g3 Bc5 5. Bg2 d6 6. d3 O-O 7. O-O a6 8. Bg5
+h6 9. Bh4 Nd4 10. Bxf6 Qxf6 11. Ne4 Qe7 12. Nxc5 dxc5 13. e3 Nxf3+ 14. Qxf3 Rd8
+15. Rad1 a5 16. Qh5 Ra6 17. Be4 Qg5 18. Qe2 Rad6 19. f4 19... Bg4 $1 20. Qf2 (
+20. Bf3 $5 20... Bxf3 21. Qxf3) 20... exf4 21. exf4 Qf6 22. Rd2 Bf5 23. Rfd1
+Rd4 24. Bxf5 Qxf5 25. Qf3 c6 26. a4 h5 27. h4 g6 28. Kg2 Kg7 29. Qe3 R8d6 30.
+Qe7 Rf6 31. Qe5 Qxe5 32. fxe5 Rf5 33. Re2 g5 34. hxg5 Rxg5 35. Kh3 Rf5 36. e6
+fxe6 1/2-1/2
+
+[Event "ol (men), Elista RUS"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "8"]
+[White "Savchenko, S."]
+[Black "Hebden, M."]
+[Result "0-1"]
+[ECO "E97"]
+[PlyCount "71"]
+[EventDate "1998.??.??"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Kh8 10. c5 Neg8 11. a4 Nh5 12. Nd2 Nf4 13. Nc4 f5 14. cxd6 cxd6 15.
+Nb5 fxe4 16. Nbxd6 Nf6 17. Bb2 N6xd5 18. Nxe4 Bf5 19. Bf3 19... Qh4 $13 20.
+Ncd6 Rad8 21. Qb3 (21. g3 21... Qe7 $5) 21... Qe7 22. Rad1 Be6 23. b5 23... g5
+$1 $132 24. g3 g4 25. Bg2 Ne2+ 26. Kh1 Ndc3 27. Qa3 Nxd1 28. Rxd1 Nd4 29. Bc1
+h6 30. Bd2 Bd5 31. Ba5 b6 32. Bb4 Nc2 33. Rxd5 Nxa3 34. Bxa3 Qe6 35. Rd3 Qa2
+36. Bc1 0-1
+
+[Event "ol (men), Elista RUS"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "8"]
+[White "Speelman, J."]
+[Black "Romanishin, O."]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[Annotator "Mikhail Golubev"]
+[PlyCount "53"]
+[EventDate "1998.??.??"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. a3 c5 5. d5 Ba6 6. Nc3 $6 $146 6... Bxc4 7. e4
+Bxf1 8. Rxf1 d6 (8... exd5 9. e5 $1) 9. dxe6 fxe6 10. e5 dxe5 11. Qxd8+ Kxd8
+12. Nxe5 Kc8 13. Bg5 Be7 14. O-O-O Rd8 15. f4 Kb7 16. Rde1 Na6 17. f5 exf5 18.
+Nc6 Kxc6 19. Rxe7 Rd7 20. Bxf6 gxf6 21. Rxd7 Kxd7 22. Rxf5 Rf8 (22... Ke6 $15)
+23. Nd5 Ke6 24. g4 Rf7 25. Nf4+ Ke7 26. Nd5+ Ke6 27. Nf4+ 1/2-1/2
+
+[Event "ol (men), Elista RUS"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "10"]
+[White "Bareev, E."]
+[Black "Onischuk, Al"]
+[Result "1-0"]
+[ECO "A80"]
+[Annotator "Stanislav Savchenko for Chess Sector"]
+[PlyCount "97"]
+[EventDate "1998.??.??"]
+
+1. d4 f5 2. Nc3 d5 3. Bf4 Nf6 4. e3 c6 5. Nf3 Be6 6. Bd3 g6 7. h4 h6 8. Ne5 Rg8
+9. f3 Nbd7 10. Ne2 Nh5 11. c3 Nxf4 12. exf4 h5 13. Qc2 Bh6 14. g4 Nxe5 15. fxe5
+hxg4 16. fxg4 16... fxg4 $2 (16... Rh8 $1 17. gxf5 gxf5 18. Bxf5 18... Qd7 $13)
+17. Bxg6+ Kd7 18. O-O $16 18... g3 19. Bf5 Bxf5 20. Qxf5+ Kc7 21. Kg2 Qd7 22.
+Qxd7+ Kxd7 23. Rf3 Rg4 24. Kh3 Rag8 25. Rxg3 Rxg3+ 26. Nxg3 Rf8 27. Re1 c5 28.
+dxc5 Kc6 29. Kg4 Rg8+ 30. Kh5 Rxg3 31. Kxh6 Kxc5 32. Re2 b5 33. h5 a5 34. Kh7
+Kc4 35. Rf2 b4 36. Rf4+ Kc5 37. h6 bxc3 38. bxc3 Kc6 39. Kh8 Kd7 40. c4 Ke6 41.
+cxd5+ Kxd5 42. Rf8 Kxe5 43. h7 Rg2 44. Rg8 Rxa2 45. Kg7 Rh2 46. h8=Q Rxh8 47.
+Rxh8 a4 48. Kg6 a3 49. Ra8 1-0
+
+[Event "ol (men), Elista RUS"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "10"]
+[White "Romanishin, O."]
+[Black "Morozevich, A."]
+[Result "0-1"]
+[ECO "D15"]
+[Annotator "Stanislav Savchenko for Chess Sector"]
+[PlyCount "120"]
+[EventDate "1998.??.??"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. Ne5 Nbd7 6. Nxc4 b5 7. Ne3 Bb7 8.
+g3 c5 9. d5 a6 10. Bg2 g6 11. O-O Bg7 12. a4 b4 13. Nb1 a5 14. Qc2 Nb6 15. Rd1
+O-O 16. Nd2 Ne8 17. Nb3 $2 (17. Ndc4 $13) 17... Nd6 18. Qxc5 Nd7 19. Qc2 Rc8
+20. Qd2 20... Qb6 $17 21. Nd4 Nc5 22. Rb1 Nce4 23. Bxe4 Nxe4 24. Qd3 Nc5 25.
+Qb5 Qxb5 26. Nxb5 Nb3 27. Bd2 Rfd8 28. Be1 Ba6 29. Kf1 Rd7 30. d6 exd6 31. Nxd6
+Rcd8 32. Nb5 Rxd1 33. Rxd1 Rxd1 34. Nxd1 Nc5 35. Nc7 Bc4 36. Ne3 Bb3 37. Ncd5
+Bxb2 38. Ne7+ Kg7 39. Nc6 Nb7 40. Nxa5 Nxa5 41. Bxb4 Nc6 42. Bd2 Bxa4 43. Nc4
+Bd4 44. Nd6 Ne7 45. f3 Bd7 46. e4 Nc8 47. Nb7 Nb6 48. Bb4 Bb5+ 49. Kg2 Nc4 50.
+Bc5 Bxc5 51. Nxc5 Kf6 52. Kf2 Ke5 53. Nb3 Kd6 54. h4 Ba4 55. Nd4 Kc5 56. Ne2
+Ne5 57. Ke3 Kc4 58. Ng1 Bd1 59. Kf4 Kd4 60. g4 h6 0-1
+
+[Event "ol (men), Elista RUS"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "11"]
+[White "Onischuk, Al"]
+[Black "Sokolov, I."]
+[Result "1-0"]
+[ECO "C50"]
+[Annotator "Stanislav Savchenko for Chess Sector"]
+[PlyCount "85"]
+[EventDate "1998.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 d6 6. Qe2 Bb6 7. Bg5 h6 8. Bh4
+g5 9. Bg3 Qe7 10. Nbd2 Bd7 11. Bb3 Nh5 12. Nc4 Nf4 13. Bxf4 gxf4 14. g3 Qf6 15.
+Nfd2 15... Bc5 $2 (15... h5 $13) 16. Ba4 a6 17. Bxc6 bxc6 18. O-O-O Ba7 19. Qf3
+h5 20. h3 Ke7 21. gxf4 Qxf4 22. Qxf4 exf4 23. d4 $16 23... Be6 24. b3 Rag8 25.
+Nb2 f5 26. Nd3 fxe4 27. Nxf4 Bf5 28. Rde1 Kf6 29. f3 exf3 30. Nxf3 h4 31. Rhf1
+Bb6 32. Rf2 Rh6 33. Ng2 Kg7 34. Ng5 Bg6 35. Re7+ Kh8 36. Nf4 Be8 37. Nfe6 c5
+38. Rf6 Rh5 39. Nf4 Rgxg5 40. Rxe8+ Kg7 41. Nxh5+ Rxh5 42. Rf4 cxd4 43. cxd4
+1-0
+
+[Event "ol (men), Elista RUS"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "12"]
+[White "Kobalija, M."]
+[Black "Ponomariov, R."]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Annotator "Mikhail Golubev"]
+[PlyCount "147"]
+[EventDate "1998.??.??"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Bg4 7. Ng5 Bxe2 8.
+Qxe2 Nc6 9. Rd1 (9. Be3 9... e5 $1 10. dxe5 Nxe5 (10... dxe5 $5 11. Bc5 Nd4 12.
+Qc4 Ng4) 11. Rad1 Re8 12. Nf3 12... Ned7 $5 13. Qc4 a6 14. Bg5 14... Qc8 $13 {
+M.Golubev-R.Ponomarev,Kiev NIKA 1997}) 9... e6 $5 $146 10. Nf3 Ne7 11. h3 a6
+12. Bg5 h6 13. Bh4 Nd7 14. Re1 g5 15. Bg3 Ng6 16. e5 d5 17. Nd1 c5 18. c3 cxd4
+19. cxd4 Rc8 20. Ne3 Rc6 21. Rac1 Qb6 22. Rcd1 Qb5 23. Qd2 f5 24. exf6 Nxf6 25.
+Re2 Ne4 26. Qe1 h5 27. Nf1 Rf5 28. Bh2 g4 29. hxg4 hxg4 30. N3d2 30... Nxf2 $1
+31. Rxf2 Bxd4 32. Ne3 Rxf2 33. Qxf2 Qd3 34. Nb3 Qxd1+ 35. Nxd1 Bxf2+ 36. Nxf2
+Rc2 37. Nd3 Nh4 38. Bf4 Rxg2+ 39. Kf1 Rc2 (39... g3 $17) 40. Nd4 Rc4 41. Nxe6
+Nf5 42. Be5 Kh7 43. Nef4 d4 44. Ne2 Rc8 45. Ke1 Rd8 46. Kd2 Kh6 47. Ndf4 Re8
+48. Bxd4 Nxd4 49. Nxd4 Kg5 50. Nfe2 Kh4 51. Kd3 Kh3 52. Nf5 Re5 53. Nfg3 Rd5+
+54. Kc4 Rd2 55. Kc3 Rd8 56. Ne4 Kg2 57. Nd4 b5 58. a3 Rd5 59. b3 Re5 60. Kd3
+Rh5 61. Kc3 Rh3+ 62. Kb4 Re3 63. Nf6 Rd3 64. Nc6 Rd6 65. Nxg4 Rxc6 66. Ne5 Rd6
+67. a4 Kg3 68. axb5 Rb6 69. Nc6 Rxb5+ 70. Ka4 Kf2 71. Nb4 Rb6 72. Ka5 Rb8 73.
+Ka4 Ke2 74. Nxa6 1/2-1/2
+
+[Event "ol (men), Elista RUS"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "13"]
+[White "Minasian, Art"]
+[Black "Savchenko, S."]
+[Result "1-0"]
+[ECO "B12"]
+[Annotator "Stanislav Savchenko for Chess Sector"]
+[PlyCount "71"]
+[EventDate "1998.??.??"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Be7 7. g3 Nh6 8. Bg5 8...
+Bxg5 $6 (8... Bg4 $13) 9. hxg5 Qxg5 10. Rxh5 Qe7 11. cxd5 exd5 12. f4 Bg6 13.
+Rh3 Nd7 14. Bd3 O-O-O 15. Bxg6 fxg6 16. Qd3 g5 17. O-O-O gxf4 18. gxf4 Rhf8 19.
+Nge2 Nf5 20. Rg1 Qe6 21. Rh5 c5 22. Rhg5 Nxd4 23. Nxd4 cxd4 24. Qxd4 Qb6 25.
+Qxb6 Nxb6 26. f5 d4 27. Ne4 Rd5 28. Nd6+ Kb8 29. Rxg7 Rxe5 30. Rxb7+ Ka8 31.
+Rgg7 Nc8 32. Nxc8 Rxc8+ 33. Kd2 Ra5 34. f6 Rxa2 35. f7 Ra6 36. Re7 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Polugaevsky Variation"]
+[Black "?"]
+[Result "*"]
+[ECO "B96"]
+[Annotator "Holger Daum for Chess Sector"]
+[PlyCount "59"]
+[EventDate "1999.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5
+dxe5 9. fxe5 Qc7 10. Qe2 Nfd7 11. O-O-O Bb7 12. Qg4 Qxe5 (12... Qb6 $5) 13.
+Bxb5 axb5 14. Rhe1 14... h5 {(only move)} 15. Qh4 Qc5 16. Ncxb5 (16. Qg3 {and})
+(16. Ndxb5 {are the important alternatives}) 16... Rxa2 17. Kb1 Bd5 18. Re3 Qb6
+19. Nxe6 Bxe6 (19... Rxb2+ 20. Kxb2 Qxb5+ 21. Rb3 Qxb3+ 22. cxb3 22... fxe6 {
+is unclear according to Polugaevsky}) 20. Qc4 Bc5 (20... Rxb2+ $1 21. Kxb2 Bc5
+22. Rd6 O-O 23. Rexe6 Qb7) 21. Rxe6+ $1 (21. Rd6 O-O 22. Rexe6 Qa5 23. Qxa2
+23... Qxb5 $19 {
+This is Nunn`s main line. (John Nunn: The Complete Najdorf: 6. Bg5)}) 21...
+fxe6 22. Nd6+ Kf8 (22... Bxd6 23. Qxe6+ Kf8 24. Rf1+ Nf6 25. Rxf6+ gxf6 26.
+Qxf6+ $11 {(perpetual check)}) 23. Qxa2 Bxd6 (23... Qa6 24. Qxe6 Bxd6 25. Qf5+
+(25. Rxd6 Qf1+ 26. Ka2 26... Qf7 $18 {=/+}) 25... Kg8 26. Qe6+ Kf8 27. Qf5+ $11
+) (23... Bd4 24. Rxd4 $1 $18) 24. Qxe6 Bc7 (24... Qf2 25. Re1 $1 (25. Qxd6+ Kg8
+26. Qd5+ Qf7 27. Qe4 {with compensation}) 25... Qf7 (25... Qxe1+ $5) 26. Qxd6+
+Kg8 27. Re7 Qf1+ 28. Bc1 $1 28... Qf5 29. b3 {+/-}) 25. Qe7+ Kg8 26. Qe8+ Nf8
+27. Rf1 Nbd7 28. Qf7+ Kh7 29. Qxh5+ Kg8 30. Qf7+ $11 {And this is also a
+perpetual check and therefore Nunn`s asessment of the position after Black`s
+20.-Bc5 has to be changed.} *
+
+[Event "3rd Bavarian Masters Open "]
+[Site "Bad Wiessee"]
+[Date "1999.10.29"]
+[Round "7"]
+[White "Klundt, K."]
+[Black "Ponomariov, R."]
+[Result "0-1"]
+[ECO "B08"]
+[WhiteElo "2420"]
+[BlackElo "2616"]
+[Annotator "Ruslan Ponomariov for Chess Sector"]
+[PlyCount "98"]
+[EventDate "1999.??.??"]
+
+{http://chess-sector.odessa.ua/ruslan.html} 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3
+Bg7 5. Be2 O-O 6. O-O 6... e6 $5 {(J.Benjamin)} 7. Re1 (7. Bg5 h6 8. Bh4 g5 9.
+Bg3 Nh5 10. Bc4 Nc6 11. d5 Nxg3 12. hxg3 Ne7 13. dxe6 13... fxe6 $15 {
+Ziatdinov-Benjamin, Philadelphia 1999}) (7. e5 $5 7... dxe5 8. dxe5 Qxd1 9.
+Rxd1 Nfd7 10. Bf4 (10. Nb5 a6 11. Nxc7 11... Ra7 $15) 10... a6 (10... Nc6 11.
+Nb5 a6 12. Nxc7 Ra7 13. a4 b6 14. Nxa6 $18) 11. Re1 Nc6 12. Bf1 b5 13. Rad1 Nb6
+14. Ne4 $14) 7... Nc6 (7... a6 $5 8. Bg5 h6 9. Bf4 b5 10. e5 10... b4 $1 11.
+Nb1 $6 (11. exf6 Qxf6 12. Bxh6 Bxh6 13. Ne4 Qe7 14. a3 Bb7 15. Bd3 a5 16. c3
+$13) 11... Nd5 12. Bd2 12... Nd7 $17 {Miles-Ermenkov, Aegina 1993}) 8. Be3 (8.
+d5 exd5 9. exd5 Ne7 10. h3 $14 {Novikov-Benjamin, Toronto 1998}) 8... h6 $1 (
+8... b6 9. Qd2 Bb7 10. Bh6 Ne7 11. Bxg7 Kxg7 12. Qf4 $14 {x f6,g7,h6}) 9. h3 (
+9. Qd2 Ng4 10. Bf4 e5) 9... b6 10. Qd2 Kh7 11. Rad1 Ne7 (11... Bb7 $6 12. e5
+dxe5 13. dxe5 Qxd2 14. Rxd2 Ng8 15. Bf4 (15. Rd7 $6 15... Nxe5 16. Rxc7 Bxf3
+17. gxf3 Rfc8 18. Rb7 Rcb8 19. Rc7 19... Rc8 $11) 15... Rad8 16. Red1 Nge7 17.
+Rd7 $16) 12. Bf4 (12. e5 Nfd5 13. Nxd5 13... Nxd5 $15) 12... Bb7 13. Bd3 a6 (
+13... Nh5 $6 14. Bh2 f5 15. Qe2 $16) 14. Qe2 b5 15. Nb1 $2 (15. e5 Nfd5 16.
+Nxd5 Nxd5 17. Bd2 (17. Bg3 Nb4) 17... Qe7 18. h4 $1 $14) 15... Nd7 16. Nbd2 $6
+(16. e5 $8) 16... e5 17. dxe5 dxe5 18. Bg3 18... c6 $1 (18... c5 19. c4 b4 20.
+Nf1 Nc6 21. Ne3 $132) 19. c3 Qc7 20. Bc2 20... Nc5 $6 (20... a5 $5 $15) 21. Nb3
+$2 (21. b4 Ne6 22. Nd4 $1 $13) 21... Na4 22. Bb1 c5 23. Rd2 23... c4 $17 24.
+Nc1 Rad8 25. Red1 Nc6 26. Rd5 (26. Nd4 26... Nxb2 $1 27. Nxb5 (27. Nxc6 Nxd1
+28. Nxd8 28... Nxc3 $19) (27. Rxb2 Qd7 28. Bh4 g5 29. Bg3 exd4 30. cxd4 Nxd4
+31. e5+ 31... Kg8 $19) 27... axb5 28. Rxb2 28... b4 $17) 26... Bc8 27. Bh4 $6
+27... f6 28. Bg3 Be6 29. R5d2 Qe7 30. Nh2 h5 31. Rxd8 Rxd8 32. Rxd8 Qxd8 33.
+Qc2 Bh6 34. Nf1 f5 35. f3 Qg5 36. Ne2 f4 37. h4 $8 37... Qd8 38. Bf2 Bf8 39. b3
+Nc5 40. Nc1 40... Nd7 {  Bc5} (40... Be7 $5 {x h4}) 41. Qd2 a5 42. Bc2 Qc7 43.
+Qe2 (43. bxc4 43... bxc4 44. Ba4 Ba3 45. Ne2 45... Nc5 $17) 43... Ba3 44. Qd1
+Bc5 45. Qd2 $6 (45. Bxc5 $8 45... Nxc5 46. bxc4 Bxc4 47. Nd2 Be6) 45... Bxf2+
+46. Qxf2 46... b4 $1 $19 {x d4} 47. bxc4 bxc3 48. Ne2 Bxc4 49. Nxc3 Nd4 0-1
+
+[Event "7th Children's Olympiad"]
+[Site "Artek"]
+[Date "1999.??.??"]
+[Round "9"]
+[White "Guseinov, E."]
+[Black "Ponomariov, R."]
+[Result "0-1"]
+[ECO "A33"]
+[Annotator "Ruslan Ponomariov for Chess Sector"]
+[PlyCount "104"]
+[EventDate "1999.??.??"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 Nc6 5. Nc3 (5. g3 e6 6. Bg2 Qb6 7. Nc2
+$5 7... d5 8. O-O Be7 9. cxd5 {
+Topalov-Ponomariov, Las Vegas FIDE WCh KO 1999 (2.3)} 9... exd5 10. Nc3 10...
+Be6 $11) 5... e6 6. g3 (6. Ndb5 d5 7. Bf4 e5 8. cxd5 exf4 9. dxc6 bxc6 10.
+Qxd8+ Kxd8 11. O-O-O+ $11) 6... Qb6 7. Ndb5 Ne5 8. Bf4 8... Bc5 $5 (8... Nfg4
+9. e3 a6 10. h3 axb5 11. hxg4 Nxc4 12. Qb3 d5 13. Bxc4 dxc4 14. Qxb5+ Qxb5 15.
+Nxb5 Bb4+ 16. Ke2 O-O 17. Bd6 Bxd6 18. Nxd6 e5 19. g5 Be6 20. Rh4 {
+-  Lalic-Emms, London 1997}) 9. e3 (9. Bg2 $3 $16 9... a6 (9... Nfg4 10. O-O $1
+10... Nxf2 11. Rxf2 Bxf2+ 12. Kh1 f6 13. Na4 Qd8 14. Bxe5 fxe5 15. Qd6 $18) (
+9... Bxf2+ 10. Kf1 Nfg4 11. Qd6 $1 (11. Na4 $13 11... Ne3+ 12. Bxe3 Qxe3 13.
+Nc7+ Ke7 14. Nxa8 Ng4 15. Qb3 Bxg3 16. Qxe3 Nxe3+ 17. Kg1 Be5 18. Bf3 d5 19.
+cxd5 Bd7 20. Nc5 exd5 21. Kf2 Bd4 22. Nb3 Ng4+ 23. Kg2 Be5 24. Nc5 Ne3+ 25. Kf2
+25... Bd4 $11) 11... Qxd6 12. Nxd6+ Ke7 13. Bxe5 Nxe5 14. Nxc8+ Raxc8 15. Kxf2
+$16) 10. Na4 Qa5+ 11. Bd2 Qd8 12. Nxc5 axb5 13. cxb5 Qb6 14. Nb3 Qxb5 15. Bc3
+Nc4 16. O-O O-O 17. Bxf6 gxf6 18. Qd4 $16) 9... d6 10. Bxe5 (10. Bg2 Nxc4 11.
+O-O Bd7 12. a4 O-O 13. b3 Bxb5 14. axb5 Ne5 15. Qe2 15... Ng6 $17) 10... dxe5
+11. Bg2 11... a6 $1 (11... O-O $6 12. O-O Be7 13. Qb3 $1 (13. a4 a6 14. a5 Qc5
+15. Na4 Qb4 16. Nb6 Rb8 17. Na7 Rd8 18. Qc2 18... Bd7 $17) 13... a6 14. Na4 Qa5
+15. Nbc3 Bd7 16. Rfd1) 12. Na4 Bb4+ 13. Nbc3 Bxc3+ 14. bxc3 Qc7 15. O-O $6 (15.
+c5 $1 15... Bd7 (15... O-O 16. Nb6 Rd8 17. Nxa8 $1 17... Rxd1+ 18. Rxd1 Qe7 19.
+Nb6 Bd7 20. Bxb7 Bb5 21. a4 $1 21... Qxb7 22. axb5 g6 23. O-O axb5 24. Rd8+ Kg7
+25. Rb1 $16) 16. Nb6 Rd8 17. Qd6 Qxd6 18. cxd6 Bc6 19. Bxc6+ bxc6 20. Nc4 (20.
+Rd1 $6 20... Ne4 21. d7+ Ke7 22. Nc8+ Kf6 23. c4 Nc5) 20... Ne4 21. Rb1 f6 22.
+Rb6 Nxd6 23. Nxd6+ Rxd6 24. Rxa6 24... Ke7 $11) 15... Bd7 (15... O-O 16. c5 $6
+16... Rd8 17. Qb3 Bd7 18. Qb6 Rac8 19. Qxc7 Rxc7 20. Rfd1 Rb8 21. Nb6 21... Be8
+$17) 16. Rb1 (16. Qb3 16... Bc6 $1 (16... e4 17. Nb6 Rd8 18. Qb4) 17. Nb6 Rd8
+18. Qb4 Bxg2 19. Kxg2 Qc6+ 20. Kg1 20... Ne4 $17) 16... e4 17. Nb6 Rd8 18. Qb3
+O-O 19. Rfd1 Bc6 20. h3 (20. Rd4 Ng4 21. Rbd1 Ne5 22. Na4 $1 22... Nd3 23. Qb6
+Qxb6 24. Nxb6 e5 25. Rxd8 Rxd8 26. Nd5 Kf8 27. Nb4 f5 28. Bf1 Ke7 29. Nxd3 exd3
+30. Rxd3 30... Rc8 $15) 20... h5 $1 (20... Rxd1+ 21. Rxd1 Rd8 22. c5 (22. Rd4
+$6 22... e5 23. Rxd8+ 23... Qxd8 $17) 22... g6 23. Bf1) 21. Rd4 h4 22. g4 22...
+Nh7 $1 (22... e5 $6 23. Rdd1 $1 23... Rxd1+ 24. Rxd1 Rd8 25. Nd5) 23. Rbd1 Ng5
+24. Qb4 f6 25. Qc5 25... Rde8 $1 26. Rd7 (26. Nd5 $2 26... exd5 27. cxd5 Qe5)
+26... Qb8 27. R7d6 Rf7 28. Qd4 Qc7 29. c5 Ref8 30. Rd2 Qe7 (30... f5 $5) 31.
+Rd8 Rxd8 32. Qxd8+ Qxd8 33. Rxd8+ Rf8 34. Rd4 e5 35. Rd1 $2 (35. Rd6 Kf7 36.
+Nc4 Ke7 37. Na5 37... Rd8 $5 (37... Rc8 38. Bf1 Ne6 39. Nxc6+ bxc6 40. Bxa6
+Nxc5 41. Bxc8 41... Kxd6 $17) 38. Nxc6+ bxc6 39. Rxc6 Rd1+ 40. Kh2 Nf3+ 41.
+Bxf3 exf3 42. Rxa6 (42. Rc7+ $2 42... Rd7 $1 43. Rxd7+ Kxd7 44. Kg1 Kc6 45. Kf1
+Kxc5 46. Ke1 Kc4 47. Kd2 e4 48. Kc2 a5 49. Kd2 g5 50. Kc2 a4 51. Kd2 Kd5 52.
+Ke1 52... Ke5 $19) 42... Rf1 43. Ra7+ Ke6 44. Rxg7 Rxf2+ 45. Kg1 45... Re2 $17)
+35... Ne6 $19 36. Bf1 Nxc5 37. Bc4+ Kh7 38. Rd6 Kg6 39. Nd5 Bxd5 40. Bxd5 Rc8
+41. Rb6 Rc7 42. Kg2 Kg5 43. Rb4 g6 44. a4 f5 45. gxf5 gxf5 46. a5 46... Nd3 $1
+47. Rxb7 Rxc3 48. Rg7+ Kf6 49. Rd7 Ne1+ 50. Kf1 Nf3 51. Rd6+ Kg5 52. Rc6 52...
+Rd3 {1.53-1.39} 0-1
+
+[Event "FIDE WCh KO"]
+[Site "Las Vegas USA"]
+[Date "1999.??.??"]
+[Round "1.2"]
+[White "Ponomariov, R."]
+[Black "Al Modiahki, M."]
+[Result "1-0"]
+[ECO "B47"]
+[Annotator "Ruslan Ponomariov for Chess Sector"]
+[PlyCount "115"]
+[EventDate "1999.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Ndb5 $5 (6. g3 6... Nf6
+$2 7. Ndb5) 6... Qb8 7. Be3 a6 8. Bb6 axb5 9. Nxb5 Bb4+ 10. c3 Ba5 11. Nc7+
+Qxc7 (11... Kf8 $2 12. Nxa8 Qxa8 13. Qd6+ Nge7 14. Qa3) 12. Bxc7 Bxc7 13. Qg4
+g6 14. Bc4 Nge7 (14... Nf6 15. Qh4 g5 16. Qxg5 Nxe4 17. Qh4 d5 18. Bd3 Nc5 19.
+Bc2) 15. Qe2 O-O 16. O-O f5 17. f3 17... Ra5 $2 (17... b6 18. a4 Ne5 19. Bb5
+Rf7 20. Rad1 N7c6 21. b4 21... Bb7 $13) 18. b4 Re5 19. Bd3 Bb6+ 20. Kh1 { f4}
+20... f4 (20... fxe4 $6 21. fxe4) 21. Qc2 d5 22. a4 dxe4 23. fxe4 $1 (23. Bxe4
+$6 23... Nf5 24. Bxf5 Rfxf5 25. a5 25... Be3 {  26...Rh5 27.h3 Reg5, 28...e5})
+23... Rh5 24. Be2 Rh4 25. a5 Bc7 (25... Be3 26. a6 $1 (26. b5 26... Ne5 27. a6
+bxa6 28. bxa6 28... N7c6 { g5-g4-g3,  g5,Rf6}) 26... bxa6 27. Bxa6 {x Pe6}) 26.
+Bf3 g5 27. b5 $1 27... g4 (27... Nxa5 28. Qf2 $1 28... b6 (28... Ng6 29. b6 Bb8
+30. Rxa5 g4 31. Rg5 Rxh2+ 32. Kg1 g3 33. Qc5) 29. Rxa5 bxa5 30. Qc5 Bd8 31. Rd1
+$1 $18) 28. bxc6 Nxc6 (28... gxf3 29. cxb7 Bxb7 30. gxf3 $18) 29. g3 $4 (29.
+Bd1 f3 30. gxf3 Rxh2+ 31. Qxh2 Bxh2 32. Kxh2 $18) (29. Qf2 Rxh2+ 30. Kg1 $1
+30... g3 31. Qc5 { Rfd1 +-}) 29... fxg3 30. Bg2 30... Rxh2+ $4 (30... Rxf1+ 31.
+Rxf1 31... Bb8 $1 (31... Bd6 32. Rd1 Bc5 33. h3 gxh3 34. Qd3 hxg2+ 35. Kxg2
+Rh2+ 36. Kxg3 36... Rh6 $11) 32. Rd1 Ba7 33. h3 gxh3 34. Bf3 (34. Qd3 hxg2+ 35.
+Kxg2 Rh2+ 36. Kxg3 36... Bb8+ $19) 34... Ne5 35. Rd8+ 35... Kg7 $19) 31. Kg1
+Bf4 32. Rxf4 (32. Rae1 32... e5 $13 { h5-h4-h3}) 32... Rxf4 33. Rf1 Rxf1+ 34.
+Kxf1 Rh5 35. Qd1 Kf7 36. Qxg4 Rxa5 37. Qxg3 Re5 38. Qh4 38... Kg7 $2 (38... Ke8
+39. Qxh7 39... Kd8 { Bd7,Kc7=}) 39. Bf3 b6 40. Kf2 Bd7 41. Bh5 Rc5 42. Ke2 Re5
+43. Kd2 43... b5 $6 (43... Rc5 44. Bd1 Be8 45. Ba4) 44. Be2 Be8 45. Qf4 Bg6 46.
+Bd3 Bf7 47. Qe3 Be8 48. Qg1+ Bg6 (48... Kf6 49. Bxb5 $18) (48... Kh8 49. Qf1
+$18) 49. Qb6 Ne7 50. Qc7 Kf6 51. Qb8 $1 $18 51... Nc6 (51... Rg5 52. Qf8+ Bf7
+53. e5+ $1 53... Rxe5 54. Qh8+ $18) 52. Qc8 Bxe4 53. Bxe4 Rxe4 54. Qxc6 Re5 55.
+Qc7 h5 56. Kd3 56... Kf5 $6 (56... Rd5+ 57. Ke4 Rf5) 57. Qf7+ Kg4 58. Kd4 {
+1.55-2.59} 1-0
+
+[Event "Memorial Bozidar Kazic"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "4"]
+[White "Hamarat, T."]
+[Black "Mirkovic, S."]
+[Result "1-0"]
+[ECO "B92"]
+[WhiteElo "2595"]
+[BlackElo "2390"]
+[Annotator "Jovan Naumovic  for Chess Sector"]
+[PlyCount "39"]
+[EventDate "1999.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Kh1 b5 10. a4 b4 11. Nd5 Nxd5 12. Qxd5 Ra7 13. Be3 Be6 14. Qd2 Rb7 15.
+f4 15... Qc7 $1 $146 (15... exf4 16. Bxf4 Qc8 17. Nd4 Rd8 18. Nxe6 fxe6 19. Bg4
+Bf6 20. Bxd6 Rb6 21. Rxf6 gxf6 22. e5 Qc4 23. h3 Nd7 24. Be7) 16. f5 16... Bd7
+{ } 17. f6 $3 17... Bxf6 (17... gxf6 18. Bh6 Re8 19. Rf3 Kh8 20. Rg3 Rg8 21.
+Rxg8+ Kxg8 22. Qe3 $18) 18. Rxf6 gxf6 19. Bh6 19... Re8 $2 (19... Qd8 $8 20.
+Na5 Rc7 21. Qxb4 Re8 22. Ra3 $1 22... Kh8 23. Rg3 Rg8 24. Nb7 24... Rxb7 $1 (
+24... Qe7 25. Nxd6 Rcc8 26. Qb6 Rxg3 27. Nxc8 Bxc8 28. hxg3 $18) 25. Rxg8+ Kxg8
+(25... Qxg8 26. Qxb7 $18) 26. Qxb7 Bc6 27. Qb4 $16) 20. Bxa6 {
+[20. .. Nxa6 21.Qf2 +- ; 20. .. Bg4 21.Qf2 f5 22.Qh4 +-] [} 1-0
+
+[Event "Memorial Bozidar Kazic"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "7"]
+[White "Kofidis, S."]
+[Black "Hansen, M S."]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2615"]
+[BlackElo "2510"]
+[Annotator "Jovan Naumovic  for Chess Sector"]
+[PlyCount "39"]
+[EventDate "1999.??.??"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f3 c6 5. Be3 b5 6. Qd2 Nbd7 7. g4 Nb6 8. g5
+Nfd7 9. h4 Qc7 (9... b4 10. Nd1 e5 11. h5 Be7 12. f4 exf4 13. Bxf4 Nf8 14. Nf2
+Ne6 15. Nf3 d5 16. Bd3 Rf8 17. O-O-O Nc4 18. Bxc4 dxc4 19. Qe3 Qa5 20. Kb1 c3
+21. Nd3 cxb2 22. Nfe5 Nxf4 23. Nxf4 Qc7 24. hxg6 hxg6 25. Rh7 Bxg5 26. Nexg6
+Rg8 27. Ne5 Bxf4 28. Qxf4 Be6 29. Qf6 Qd8 30. Rxf7 Qxf6 31. Rxf6 Ke7 32. Rh6
+Rac8 33. Kxb2 a5 34. Rh7+ Kd6 35. Nd3 Rcf8 36. Ra7 Rh8 37. e5+ {
+1-0 Inkiov-Plamen, Bulgaria open 1993}) (9... Bg7 10. h5 Rg8 11. f4 Bb7 12. Bd3
+a6 13. Qf2 c5 14. hxg6 hxg6 15. dxc5 dxc5 16. Bxc5 Nxc5 17. Qxc5 Rc8 18. Qb4
+Bxc3+ 19. bxc3 Qc7 20. Ne2 Nc4 21. Rh7 Qb6 22. Nd4 Qc7 23. e5 Ne3 24. Kd2 Nd5
+25. Qb3 Qxc3+ 26. Qxc3 Nxc3 27. e6 fxe6 28. Re1 Bd5 29. Nxe6 Nxa2 30. f5 gxf5
+31. Bxf5 Rc6 32. Re5 Nc3 33. Nf4 Ba2 34. Rexe7+ Kd8 35. Ra7 {
+1-0 Hristodorescu-Baciu, Romania Team Ch 1994}) 10. h5 Rg8 11. f4 e5 12. a3 Bb7
+13. Nf3 O-O-O 14. O-O-O exd4 15. Bxd4 a6 16. hxg6 hxg6 17. Rh7 c5 18. Bf6 Nxf6
+19. gxf6 d5 20. Ng5 (20. Ng5 dxe4 21. Bh3+ Nd7 22. Nxf7 $18) 1-0
+
+[Event "Memorial Bozidar Kazic"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "8"]
+[White "Letic, S."]
+[Black "Vukcevic, B."]
+[Result "0-1"]
+[ECO "D43"]
+[WhiteElo "2360"]
+[BlackElo "2510"]
+[Annotator "Jovan Naumovic  for Chess Sector"]
+[PlyCount "88"]
+[EventDate "1999.??.??"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e3 b5 8. Ne5 $5
+{[Beli nema kompenzaciju za pesaka - White don`t compensation for a pawn!
+(Vukcevic)} (8. a4 Bb4 (8... a6 9. Bxf6 gxf6 10. axb5 cxb5 11. Nxb5 axb5 12.
+Rxa8 Bb4+ 13. Nd2 Bb7 14. Ra1 Rg8 15. Be2 Rxg2 16. Kf1 Bxd2 17. Qxd2 Qd5 18. f3
+Qg5 19. h4 Qg6 20. d5 Nd7 21. dxe6 fxe6 22. Rd1 Bc6 23. Bd3 cxd3 24. Qxg2 Qf5
+25. Kf2 Ne5 26. Rh3 h5 27. Qg8+ Ke7 28. Rg1 Qxh3 29. Rg7+ Kd6 30. Qf8+ Kd5 31.
+Qd8+ Bd7 32. Rxd7+ Nxd7 33. Qxd7+ Kc5 34. Qc7+ Kd5 35. e4+ {
+1:0 Marovic - Pomar, Espana 1969 (Brindza I.)}) 9. Nd2 Bb7 10. axb5 (10. Qf3 a6
+11. axb5 axb5 12. Rxa8 Bxa8 13. Be2 Nbd7 14. O-O c5 15. Qh3 cxd4 16. exd4 Qb6
+17. Rd1 O-O 18. Nf3 Bxc3 19. bxc3 Nd5 20. Ne5 Nxe5 21. dxe5 Qa5 22. Rc1 Qa3 23.
+Rc2 23... Qa1+ {0:1, Haik A. - Sveshnikov, Le Herve 1997.}) 10... Bxc3 11. bxc3
+cxb5 12. Qb1 Qd7 13. Bxf6 gxf6 14. Ne4 Bxe4 15. Qxe4 Qc6 16. Qf4 Nd7 17. Be2
+Qb6 18. O-O Rc8 19. Ra2 a5 20. Rfa1 a4 21. Rb1 $44 {
+Dlugy - Romero, Dubai (Ol) 1996}) 8... Bb7 9. Qf3 Bb4 10. Be2 g5 11. Bg3 Qe7
+12. Ng4 Nxg4 13. Qxg4 Nd7 14. Qe4 O-O-O 15. Qc2 Nb6 16. a3 Ba5 17. O-O h5 18.
+f3 Nd5 19. Bf2 Nxc3 20. bxc3 a6 21. Rfe1 h4 22. e4 e5 23. d5 Qc7 24. dxc6 Bxc6
+25. Qc1 f6 26. a4 Bb6 27. axb5 Bxb5 28. Rb1 Rd6 29. Qa3 Rhd8 30. Rbd1 Kb7 31.
+Kf1 $2 {[Ovo je greska - This is a mistake! (Brindza) 31.h3!? (Letic)]} 31...
+Bxf2 32. Kxf2 Kb6 33. Rxd6+ Qxd6 34. Qa1 Qc5+ 35. Kf1 Rd2 36. Qc1 Qe3 37. Qa3
+Qc5 38. Qa1 38... g4 $3 {(Vukcevic)} 39. fxg4 h3 40. gxh3 Qe3 41. Qa3 Qxh3+ 42.
+Kg1 Qe3+ 43. Kf1 Qxe4 44. Kf2 Bc6 0-1
+
+[Event "Slovenian Cht"]
+[Site "Bled"]
+[Date "1999.11.09"]
+[Round "2"]
+[White "Sveshnikov, E."]
+[Black "Ponomariov, R."]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[WhiteElo "2541"]
+[BlackElo "2616"]
+[Annotator "Ruslan Ponomariov for Chess Sector"]
+[PlyCount "103"]
+[EventDate "1999.??.??"]
+
+{http://chess-sector.odessa.ua/ruslan.html} 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3
+c6 5. h3 Bg7 6. f4 O-O 7. Qf3 (7. Nf3 Nbd7 8. e5 (8. g4 8... Qb6 $1 9. Qc1 (9.
+Rb1 e5) 9... c5 $132) 8... dxe5 9. dxe5 Nd5 10. Nxd5 cxd5 11. Bd3 b6 12. O-O
+12... Nc5 $11 {Sveshnikov-Ibragimov, Bled 1996}) 7... Qa5 8. Bd3 (8. O-O-O e5
+9. Kb1 b5 10. g4 $2 10... exf4 11. Bxf4 b4 12. Nce2 Be6 13. Nc1 13... Nxe4 $1
+$17 {Sivokho-Ignatiev, St. Petersburg 1999}) 8... b5 9. Nge2 (9. e5 Nd5 10. Bd2
+10... Nb4 $13) (9. Bxb5 $2 9... cxb5 10. e5 10... Bd7 $1 11. exf6 11... Bxf6
+$17) 9... b4 10. Nd1 Bb7 (10... e5 $5 11. O-O exd4 12. Bxd4 Nbd7 13. Ne3 Bb7
+14. a3 bxa3 15. Rxa3 15... Qc7 $13) 11. O-O (11. e5 Nd5 12. O-O Nd7 13. Bf2
+13... c5 $132) 11... c5 12. d5 Nbd7 13. c4 $8 (13. Nf2 $6 13... e6 $1 14. dxe6
+14... fxe6 $15) 13... bxc3 14. Nexc3 Ba6 15. Bxa6 Qxa6 16. Rc1 Rab8 17. Rc2 Ne8
+18. Nf2 (18. Bf2 Nc7 19. Bh4 19... e6 $132) 18... Nc7 19. h4 Nb5 20. Nxb5 Rxb5
+21. b3 Qb7 22. h5 a5 23. hxg6 hxg6 24. Nh3 a4 25. bxa4 Rb1 26. a5 $6 (26. Bd2
+$1 26... Bd4+ 27. Kh2 Rxf1 28. Qxf1 28... Nf6 $13) 26... Nf6 $6 (26... Rxf1+
+27. Qxf1 Qb4 28. Nf2 (28. Ng5 28... Bf6 $1 (28... Qxa5 29. e5 dxe5 30. f5 $36)
+29. a6 Bxg5 30. fxg5 30... Qxe4 $17) 28... Qxa5 $15) 27. Rcc1 Rxc1 28. Rxc1 Ra8
+29. e5 29... Nh7 $1 (29... Nxd5 30. exd6 exd6 31. Rd1 Bd4 32. Bxd4 cxd4 33.
+Rxd4 Rxa5 34. Kh2 Qb5 35. f5 Ne7 36. Rxd6 Nxf5 37. Rd8+ Kg7 38. Qc3+ Qe5+ 39.
+Qxe5+ 39... Rxe5 $11) 30. exd6 exd6 31. f5 gxf5 32. Qxf5 Rxa5 33. Bf4 Qe7 34.
+Qc2 (34. Rb1 $2 34... Rxa2 35. Rb8+ Nf8 36. Ng5 Qe1+ 37. Kh2 Qh4+ 38. Nh3 38...
+Rf2 $1 $19) 34... Bd4+ $6 (34... Rb5 $1 35. Qd3 (35. Rb1 35... Nf6 $17) 35...
+Rb2 36. Qg3 Qe4 37. Bxd6 c4 38. Nf4 Nf6 39. Bc5 39... c3 $36) 35. Kh1 35... Rb5
+$2 {T} (35... Nf6) 36. Qd3 Rb6 37. Qg3+ $6 {T} (37. a4 $16) 37... Bg7 38. Re1
+Qf6 39. a4 $6 (39. Nf2 $36 {x Kg8}) 39... Qg6 $1 40. Qxg6 fxg6 41. Re6 Bf8 42.
+a5 Ra6 43. Rxg6+ Kf7 44. Re6 Rxa5 45. Bxd6 45... Ra6 $1 46. Bxc5 Rxe6 47. dxe6+
+Kxe6 48. Bxf8 Nxf8 49. g4 Ng6 50. Kg2 Ne5 51. Kg3 Nxg4 52. Kxg4 1/2-1/2
+
+[Event "Spartakiad 30'"]
+[Site "Odessa"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Moskalenko, V."]
+[Black "Ugolik, V."]
+[Result "1-0"]
+[ECO "E49"]
+[Annotator "Viktor Moskalenko for Chess Sector"]
+[PlyCount "67"]
+[EventDate "1999.??.??"]
+
+{http://chess-sector.odessa.ua} 1. d4 1... Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5.
+a3 Bxc3+ 6. bxc3 c5 7. cxd5 exd5 8. e3 O-O 9. Bd3 b6 10. Ne2 Ba6 11. Bxa6 Nxa6
+12. O-O Nc7 13. Ng3 Ne6 14. Bb2 { e4} 14... Qd7 $146 (14... Re8) 15. e4 Nf4 16.
+e5 N6h5 17. Nxh5 Nxh5 18. f4 g6 19. f5 cxd4 20. cxd4 (20. Qxd4 $5) 20... Ng7
+21. g4 Rac8 22. a4 $1 22... Rc4 23. Ba3 Rfc8 24. e6 24... Nxe6 $5 (24... fxe6
+25. f6) 25. fxe6 Qxe6 26. Rf2 $1 26... Qe4 (26... Qe3 $5 27. Qf3 $1 $16) 27.
+Bb2 Rc2 28. Rc1 Rxc1 29. Bxc1 29... Rc3 $1 30. Bh6 $1 30... Rd3 31. Qe2 Rxd4
+32. h3 $5 (32. Qxe4 Rxe4 33. h3 $16) 32... Rxa4 33. Qb2 $1 33... Rd4 $2 (33...
+Qd4 34. Kg2 $1 $16) (33... d4 34. Qc1 $1 $18 { Rc2}) 34. Re2 (34. Re2 Rd1+ 35.
+Kf2 $18) 1-0
+
+[Event "Ukraine Team Ch"]
+[Site "Alushta"]
+[Date "1999.??.??"]
+[Round "6"]
+[White "Savchenko, S."]
+[Black "Savon, V."]
+[Result "1-0"]
+[ECO "A54"]
+[Annotator "Stanislav Savchenko for Chess Sector"]
+[PlyCount "37"]
+[EventDate "1999.??.??"]
+
+{http://chess-sector.odessa.ua} 1. d4 1... Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 e4 5.
+Ng5 Qe7 6. f3 $5 6... exf3 (6... Bf5 7. Qc2) 7. gxf3 g6 8. Nh3 $1 (8. e4 8...
+Nh5 $132) 8... Bg7 9. e4 9... Bxh3 $6 (9... O-O 10. Bg5 c6 11. Qd2 $14) 10.
+Bxh3 10... Nxe4 $2 (10... O-O 11. O-O) 11. Nxe4 Qh4+ 12. Nf2 Bxd4 13. O-O Bxf2+
+14. Kg2 $3 $18 14... Bd4 $8 (14... Bb6 15. Qe1+ $1 15... Qxe1 (15... Qe7 16.
+Bg5) 16. Rxe1+) 15. Re1+ 15... Kf8 $6 (15... Kd8 16. Re4 Qf2+ 17. Kh1 Nc6 (
+17... Bg7 18. Bg5+ f6 19. Qd5 $18) 18. Bg5+ f6 19. Bh4 Qxb2 20. Rxd4 g5 21. Rd2
+) 16. Qxd4 $3 16... Qxd4 17. Bh6+ Qg7 18. Re8+ $3 18... Kxe8 19. Bxg7 (19. Bxg7
+Rg8 20. Re1+ Kd8 21. Bf6#) 1-0
+
+[Event "Young Masters Semifinal"]
+[Site "Lausanne"]
+[Date "1999.05.15"]
+[Round "1"]
+[White "Ponomariov, R."]
+[Black "Sadvakasov, D."]
+[Result "1-0"]
+[ECO "C07"]
+[Annotator "Ruslan Ponomariov for Chess Sector"]
+[PlyCount "107"]
+[EventDate "1999.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 cxd4 5. exd5 Qxd5 6. Bc4 Qd6 7. O-O Nf6 8.
+Nb3 Nc6 9. Nbxd4 Nxd4 10. Nxd4 a6 11. Re1 Qc7 12. Bb3 Bd6 13. Nf5 Bxh2+ 14. Kh1
+O-O 15. Nxg7 Rd8 16. Qf3 Kxg7 17. Bh6+ Kg6 18. Rad1 $2 18... Rxd1 19. Rxd1
+19... Qe5 $2 (19... e5 $1 $17) 20. Be3 Qh5 21. Qxh5+ Kxh5 22. Kxh2 Ng4+ 23. Kg3
+Nxe3 24. fxe3 b5 25. Kf4 25... f6 $6 26. e4 e5+ 27. Ke3 Bg4 28. Rd6 Kg5 29. Bd5
+Ra7 30. Rb6 (30. Rd8 $5) 30... Bc8 $6 (30... Rc7 31. c3 Bc8) 31. b3 Rc7 32. c4
+bxc4 33. bxc4 h5 34. g3 $1 (34. Rc6 Rxc6 35. Bxc6 f5 36. c5 (36. exf5 Kxf5 37.
+c5 h4 38. Ba8 Ke6 39. Ke4 39... a5 $11) 36... f4+ 37. Kf2 Kf6 38. g3 38... a5
+$1 { Bg4=}) 34... f5 35. exf5 Bxf5 (35... Kxf5 36. Kf3 Kg5 37. Rc6 Rxc6 38.
+Bxc6 $16) 36. Rxa6 Kg4 37. Kf2 Bd3 38. Ra5 38... Kf5 $2 (38... h4 $1 39. gxh4 (
+39. Be6+ Bf5) 39... Kf4 $1 40. Ra8 e4 41. Rf8+ Ke5 42. Ke3 Bxc4 43. Bxe4 Bxa2
+44. Rf5+ Kd6 45. h5 45... Be6 $14) 39. c5 $16 39... Be4 40. Bc4 h4 41. gxh4 Rh7
+42. Ke3 Rxh4 43. Ra7 Rh3+ 44. Kd2 44... Bc6 $6 (44... Rh2+ 45. Kc3 Kf4) 45. Ra6
+45... Rh6 $6 (45... Rh2+ 46. Kc3 Bf3 47. Rd6 Rh7) 46. a4 Rh2+ 47. Kc3 Bf3 48.
+Rd6 48... Rh1 $6 49. c6 Rh7 50. Rd7 Rh6 51. Rf7+ Kg4 52. Rxf3 $1 52... Kxf3 53.
+Bd5+ e4 54. c7 {1.25-2.20} (54. c7 Rh8 55. Bb7 Kf2 56. c8=Q Rxc8+ 57. Bxc8 e3
+58. Ba6) 1-0
+
+[Event "Alushta"]
+[Site "?"]
+[Date "1999.03.03"]
+[Round "1"]
+[White "Svetushkin, D."]
+[Black "Atalik, S."]
+[Result "0-1"]
+[ECO "B54"]
+[WhiteElo "2471"]
+[BlackElo "2593"]
+[Annotator "Suat Atalik for Chess Sector"]
+[PlyCount "79"]
+[EventDate "1999.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 $5 5... Nc6 6. Nc3 e5 7. Nb3
+Be7 8. Be3 O-O 9. Qd2 a5 10. Bb5 Na7 11. Be2 (11. Bd3 Be6 12. Rd1 Nc8) 11...
+Be6 12. Rd1 Nc8 13. Bb5 Nb6 14. Qf2 Nfd7 (14... Nc4 $5 15. Bxc4 Bxc4 16. Bb6
+Qc8 17. Nxa5 17... Ba6 $44 {xKe1}) 15. Qe2 a4 16. Nc1 a3 (16... Qc7 17. a3 Nc4
+18. Bxc4 Bxc4 19. Qd2 $14 (19. Nd3 Nf6)) 17. b3 Qc7 18. Nd5 Bxd5 19. Bxd7 (19.
+exd5 $6 19... Qc3+ 20. Qd2 20... Rfc8 $17) 19... Nxd7 20. Rxd5 20... Nf6 $1 (
+20... Qc3+ $6 21. Qd2 Rac8 22. Rb5 b6 23. Kd1 $14) 21. Rd3 (21. Rb5 Ra5) 21...
+Rfc8 (21... Rac8 $5 22. c3 Rfd8 23. Qd1) 22. c3 Qa5 23. b4 $6 (23. Qd2 d5 24.
+exd5 e4 25. b4 Qb5 26. Rd4 exf3 27. gxf3 27... Bd6 $44) 23... Qb5 24. Bg5 Ra6
+25. Bxf6 Bxf6 26. O-O $2 (26. Qd2 h6 27. h4 Qc4 28. Ne2 $11) 26... Bg5 27. Nb3
+h6 28. Qd1 28... Rac6 $17 29. f4 29... Bxf4 $6 (29... exf4 $1 30. Nd4 Qb6 31.
+Rff3 31... Bf6 $19) 30. Qf3 Qb6+ 31. Kh1 Qc7 32. g3 (32. h4 $6 32... Rxc3 33.
+g3 Rxd3 34. Qxd3 34... Qc4 $1 35. Qxc4 Rxc4 36. gxf4 Rxe4 37. fxe5 Rxh4+ 38.
+Kg2 dxe5 39. b5 39... Rb4 $19) 32... Bg5 33. h4 $2 (33. Na5 Ra6 34. Rd5 $17)
+33... Bf6 34. Rc1 $138 34... Rc4 35. b5 Qd7 36. Nd2 Rb4 37. cxb4 Qh3+ 38. Kg1
+Rxc1+ 39. Nf1 Bd8 40. Qf2 (40. Rxd6 Bc7) (40. Qf2 40... Bb6 $1 $19) 0-1
+
+[Event "Alushta"]
+[Site "?"]
+[Date "1999.03.04"]
+[Round "2"]
+[White "Atalik, S."]
+[Black "Zubov, A."]
+[Result "1-0"]
+[ECO "E11"]
+[WhiteElo "2593"]
+[BlackElo "2502"]
+[Annotator "Suat Atalik for Chess Sector"]
+[PlyCount "105"]
+[EventDate "1999.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 a5 5. Nc3 $1 5... d5 (5... b6 6. Bg5 $5)
+6. cxd5 exd5 7. Bg5 O-O (7... h6 8. Bh4 g5 9. Bg3 Ne4 10. Nd2 Nxc3 11. bxc3
+Bxc3 12. Rc1 $16) 8. e3 h6 9. Bh4 9... g5 $6 (9... c6) 10. Bg3 Ne4 11. Nd2 $1
+11... c5 (11... Nxc3 12. bxc3 Bxc3 13. Rc1 Bxd2+ 14. Qxd2 Nc6 15. h4 g4 16. h5
+$16 {xc7}) 12. Ndxe4 cxd4 (12... dxe4 13. a3 Bxc3+ 14. bxc3 $16) 13. Qxd4 dxe4
+(13... Nc6 14. Qxd5) 14. Qxe4 Re8 15. Qc2 Nc6 16. Bc4 $1 (16. Bd3 $6 16... Nd4
+17. Qd2 Bf5 18. Rd1 18... Bg4 $132) 16... Qf6 17. O-O Bxc3 18. Qxc3 $5 (18.
+bxc3 Be6) 18... Qxc3 19. bxc3 Be6 20. Bxe6 $1 20... Rxe6 21. Rab1 (21. Rfd1 $6
+21... b5 $132) 21... Rd8 (21... Re7 22. Rfd1 $16) 22. Rxb7 Rd2 23. Ra1 Rc2 24.
+h4 24... Rxc3 $6 (24... gxh4 $1 25. Bxh4 Rxc3 26. a4 $16) 25. h5 $1 $18 25...
+Rc5 $6 (25... a4 26. Rd1 Rc2 27. a3 Rc3 28. Bd6 Re4 29. Rc7 $18) 26. a4 Rc4 27.
+Rb5 $1 27... Re7 28. Rd1 $1 28... Rxa4 29. Rc5 Re6 30. Rd6 $1 30... Ne7 31. Be5
+Rxd6 32. Bxd6 Re4 33. Rxa5 33... Re6 $138 34. Ba3 Nc6 35. Ra8+ Kg7 36. Bb2+ f6
+37. Ba3 f5 38. Bb2+ $1 (38. Rf8 Re5 39. Rc8 Re6) 38... Kf7 39. Rh8 Ne7 (39...
+f4 40. Rh7+ Kg8 41. Rg7+ Kf8 42. exf4 gxf4 43. Rb7 Kg8 44. Kh2 $18) 40. Ba3 Ra6
+(40... Ng8 41. Rh7+ Ke8 42. Rg7 Nf6 43. Rg6 Rb6 44. Bb2 $18) 41. Rh7+ Kg8 42.
+Rxe7 Rxa3 43. Re5 f4 44. exf4 gxf4 45. Rf5 f3 (45... Ra4 46. Kh2 Kg7 47. Kh3
+Ra1 48. Rxf4 Rh1+ 49. Kg4 Rh2 50. g3 $18) 46. g3 (46. Rxf3 Rxf3 47. gxf3 Kf7
+48. Kg2 Ke6 (48... Kf6 49. f4 $18) 49. f4 Kd5 50. Kf3 Kd4 51. Kg4 Ke4 52. f3+
+$18) 46... Kg7 47. Kh2 Ra2 48. Rxf3 Ra5 49. g4 Ra4 50. Kg3 Rb4 51. Rd3 Rb7 52.
+f4 Rb5 53. Kf3 1-0
+
+[Event "Alushta"]
+[Site "?"]
+[Date "1999.03.05"]
+[Round "3"]
+[White "Rakhmangulov, A."]
+[Black "Atalik, S."]
+[Result "0-1"]
+[ECO "A48"]
+[WhiteElo "2417"]
+[BlackElo "2593"]
+[Annotator "Suat Atalik for Chess Sector"]
+[PlyCount "78"]
+[EventDate "1999.??.??"]
+
+1. d4 Nf6 2. Nf3 g6 3. c3 Bg7 4. h3 O-O 5. Bf4 d6 6. e3 c5 7. Bc4 Nc6 8. O-O
+Qb6 9. Qc1 (9. Qb3 $6 9... Na5 10. Qxb6 axb6 11. Nbd2 Nxc4 12. Nxc4 12... Nd5
+$17) 9... Bf5 10. Nbd2 Rac8 11. dxc5 (11. Re1 11... cxd4 12. Nxd4 (12. exd4 $6
+12... Nb4 $1) 12... Bd7 $15) 11... Qxc5 12. Re1 12... b5 $36 13. Bf1 b4 14. c4
+(14. e4 $2 14... bxc3 15. Nb3 15... cxb2 $19) (14. Ba6 $2 14... bxc3 15. Bxc8
+15... cxd2 $19) 14... Ne4 15. g4 $2 (15. Nxe4 Bxe4 16. Nd2 Bf5 17. Nb3 Qb6 18.
+e4 Be6 19. Be3 19... Qb8 $17) 15... Nxd2 16. Nxd2 Be6 17. a3 Na5 (17... b3 $5
+18. Qd1 18... Na5 {would transpose to the game continuation.}) 18. Qc2 b3 (
+18... Nxc4 $2 19. Bxc4 Bxc4 20. Qxc4 (20. axb4 $2 20... Qxb4 21. Ra4 21... Be6
+$19) 20... Qxc4 21. Nxc4 Rxc4 22. axb4 $15) 19. Nxb3 Nxb3 20. Qxb3 20... Rb8 $1
+$19 (20... Bxc4 21. Qxc4 Qxc4 22. Bxc4 Rxc4 23. Rab1 $17 (23. Re2 $2 23... Rb8
+24. Rb1 24... Rb3 $19)) 21. Qa4 Bxb2 22. Ra2 Bg7 (22... g5 $5 23. Bg3 Bf6) (
+22... Bf6 $5) 23. e4 Rfc8 24. Be3 (24. Rd1 Bxc4 25. Rc2 25... Bb3 $19) 24...
+Bd4 25. Rd2 Bxe3 26. Rxe3 Rb1 27. Qc2 Rcb8 28. Rd1 R1b2 29. Qc3 f6 30. Rc1
+30... a5 $1 {The most accurate continuation.} (30... h5 $5 31. e5 dxe5 (31...
+fxe5 $2 32. gxh5 gxh5 33. Rg3+ Kh8 34. Qf3 $40) 32. gxh5 32... g5 $17) 31. Rc2
+R2b6 32. Qd2 a4 33. Rec3 Rb3 34. Be2 $2 {Blunder.} (34. Qc1 Rxc3 (34... Rb1 35.
+Qe3) 35. Rxc3 Rb3 36. Re3 36... g5 $19 {White is in ropes.}) 34... Rxa3 35. Ra2
+Rxc3 36. Qxc3 Rb3 37. Qc2 37... Rxh3 $5 (37... Qb4 $19) 38. Qxa4 Qe5 39. Qe8+
+Kg7 (39... Kg7 40. Qxe7+ Kh6 41. f4 (41. Qf8+ Kg5 42. f4+ Qxf4 43. Bf1 Qe3+ 44.
+Rf2 44... Rf3 $19) 41... Qxf4 42. Bf1 Qe3+ 43. Rf2 Rf3 44. Qf8+ 44... Kg5 $19)
+0-1
+
+[Event "Alushta"]
+[Site "?"]
+[Date "1999.03.06"]
+[Round "4"]
+[White "Atalik, S."]
+[Black "Kuzmin, G."]
+[Result "1/2-1/2"]
+[ECO "D60"]
+[WhiteElo "2593"]
+[BlackElo "2546"]
+[Annotator "Suat Atalik for Chess Sector"]
+[PlyCount "12"]
+[EventDate "1999.??.??"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bg5 O-O 6. e3 Nbd7 1/2-1/2
+
+[Event "Alushta"]
+[Site "?"]
+[Date "1999.03.07"]
+[Round "5"]
+[White "Rogovski, V."]
+[Black "Atalik, S."]
+[Result "0-1"]
+[ECO "B11"]
+[WhiteElo "2455"]
+[BlackElo "2593"]
+[Annotator "Suat Atalik for Chess Sector"]
+[PlyCount "72"]
+[EventDate "1999.??.??"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 Bg4 4. h3 Bxf3 5. Qxf3 Nf6 6. d3 e6 7. a3 $5 (7. g3
+Bb4 8. Bd2 d4 9. Nb1 Qb6 10. b3 a5 11. a3 Bxd2+ 12. Nxd2 Qc5 13. Qd1 13... g5
+$1 14. Bg2 Nbd7 15. O-O 15... Ke7 $1 $13) 7... Nbd7 8. g4 8... Qb6 $5 {
+With  this move black tries to prevent white from queenside castling.} 9. g5
+Ng8 10. h4 Bd6 11. Bh3 Ne7 12. h5 {
+Actually now we are back in Fischer-Kagan Netanya 1968.} 12... g6 $1 $146 (
+12... O-O-O {was played in the game mentioned above.}) 13. O-O (13. Bg4 Ne5 14.
+Qf6 14... Nxg4 $1 {Alexandrova,O} 15. Qxh8+ Kd7 16. Qxa8 Qxf2+ 17. Kd1 Qf3+ 18.
+Ne2 Qxh1+ 19. Kd2 19... Kc7 $40) 13... gxh5 14. Kh1 (14. Qxh5 Ng6) 14... Ng6 (
+14... h4 $6 15. Qh5 $1 15... Ng6 16. f4 O-O-O 17. f5 exf5 18. exd5 $40) 15.
+exd5 (15. Qxh5 $6 15... d4 $1 (15... Nf4 $2 16. Bxf4 Bxf4 17. Bxe6 $18) (15...
+Bf4 $5 16. Bxe6 $1 16... fxe6 17. Bxf4 Qxb2 18. Bd2 Qxc2 19. Qe2 Nc5 20. exd5
+cxd5 21. Nxd5 Rd8 22. Nb4 (22. Nf6+ Kf7 23. Rac1 Qxd3 24. Qxd3 Rxd3 25. Rxc5
+Rxd2 26. Rc7+ Ne7 27. Ng4 Rb8 28. Rb1 $40) 22... Qb2 23. Rac1 23... b6 $13) 16.
+Ne2 Qc5 17. f4 (17. c3 dxc3 18. bxc3 (18. Nxc3 $2 18... h6 19. Be3 (19. d4 Qxd4
+20. gxh6 Bf4 21. Ne2 21... Qf6 $19) 19... Qe5 20. f4 20... hxg5 $1) 18... h6
+19. d4 19... Qa5 $40) 17... h6 18. b4 Qxc2 19. gxh6 Qxd3 20. e5 20... Bf8 $19)
+15... cxd5 16. Bd2 $5 (16. Qxh5 Bf4 (16... Nf4 $2 17. Bxf4 Bxf4 18. Nxd5 exd5
+19. Bxd7+) 17. Nxd5 $2 17... Qc6 $1 18. Bxe6 18... fxe6 $19) 16... Qxb2 17. Qe2
+$1 $132 17... Nf4 $1 (17... Rc8 $2 18. Rfb1 Qxc2 19. Ra2 Rxc3 20. Rxc2 Rxc2 21.
+Rxb7 $1 (21. Bxe6 $6 21... fxe6 22. Qxe6+ Be7 23. Rxb7 Ngf8 24. Qe2 $17) 21...
+Nf4 22. Qd1 Rxd2 23. Qxd2 Nxh3 24. Qc3 $18) 18. Bxf4 Bxf4 19. Nxd5 Qe5 20. Nxf4
+Qxf4 21. Qxh5 21... Ke7 $1 {Around here I have realised two things;king is
+safer in the center even if I would have lost my Pb7 and I should not allow f4.
+} 22. Rab1 22... Rag8 $1 23. Rg1 23... Rg7 $2 (23... Rg6 24. Rxb7 24... Qxf2
+$15) 24. Rxb7 Qxf2 25. Rf1 $6 (25. g6 $1 25... f6 $8 (25... Rxg6 $2 26. Rxg6
+fxg6 27. Qe5 Qf3+ 28. Bg2 $18) (25... Rhg8 $2 26. Rf1 Qe3 27. Qh4+ $18) (25...
+Rc8 26. Rf1 Qe3 27. gxf7 $18) 26. Rf1 26... Qe3 $13) 25... Qe3 26. g6 $2 (26.
+Qg4 $1 26... Rxg5 27. Qb4+ Rc5 28. Qh4+ 28... Qg5 $5 (28... Rg5 $11) 29. Qxg5+
+Rxg5 30. Rxa7 30... Rh5 $40) 26... Rxg6 27. Qh4+ f6 28. Kh2 $1 (28. Bxe6 $4
+28... Rh6 $19 (28... Kxe6 29. Re1 Rg1+ 30. Rxg1 30... Qf3+ $19)) 28... Rh6 29.
+Qb4+ 29... Ke8 $6 (29... Kd8 {Avoiding the pin always helps.}) 30. Qg4 f5 31.
+Qg2 (31. Qg3 $2 31... Qxg3+ 32. Kxg3 Rg8+ 33. Kh2 Rg5 34. Rxa7 (34. d4 Nf6)
+34... Ne5 $19) 31... Qe5+ (31... Rg6 32. Qf3) 32. Kh1 Rf8 33. Rxa7 $138 33...
+Qe3 34. Ra8+ (34. Qa8+ $2 34... Ke7 35. Rxd7+ Kxd7 36. Qb7+ 36... Ke8 $19)
+34... Ke7 (34... Kf7 $5 35. Rxf8+ Nxf8 36. Kh2 36... Qe5+ $15) 35. Rf3 Qe1+ 36.
+Kh2 $2 (36. Rf1 $1 36... Qh4 (36... Qe3 37. Rf3) (36... Qxf1+ $2 37. Qxf1 Rxa8
+38. Qg2 $1 $18) 37. Rxf8 Kxf8 38. Kh2 $1 (38. Rf3 $2 38... Qe1+ 39. Kh2 Qe5+
+40. Qg3 40... Qc5 $17) 38... Rg6 (38... Ne5 $6 39. Qg3 Ng4+ 40. Kg2 Qxg3+ 41.
+Kxg3 Ne3 42. Rf2) 39. Qf2 39... Qa4 $15) 36... Rg6 $1 0-1
+
+[Event "Alushta"]
+[Site "?"]
+[Date "1999.03.08"]
+[Round "6"]
+[White "Atalik, S."]
+[Black "Nosenko, A."]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[WhiteElo "2593"]
+[BlackElo "2433"]
+[Annotator "Suat Atalik for Chess Sector"]
+[PlyCount "37"]
+[EventDate "1999.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 d5 6. cxd5 exd5 7. Bg2 Bb4+ 8. Bd2
+Bd6 9. Nc3 O-O 10. O-O Nbd7 11. Rc1 Re8 12. Re1 (12. Bf4 $5 12... Qe7 $1) 12...
+c5 13. Bf4 $5 (13. Be3 $1 13... Bb7 14. Nh4 $14) 13... Bf8 14. Ne5 $6 (14. dxc5
+Nxc5 15. Be5 Nce4 16. Bxf6 Nxf6 17. Nd4 $14) 14... Bb7 15. e3 15... h6 $1 {xBf4
+} 16. g4 (16. h4 Nxe5 17. Bxe5 17... Ne4 $36) 16... Rc8 17. h3 Nxe5 18. Bxe5 (
+18. dxe5 $5 18... Ne4 19. Re2 (19. Nxe4 $6 19... dxe4 20. Qc2 20... Qd5 $1)
+19... Nxc3 $1 (19... g5 $6 20. Nxe4 dxe4 21. Rd2 Qe7 22. Rd7 Rcd8 23. Rxe7
+Rxd1+ 24. Rxd1 Rxe7 25. Bg3 Bg7 26. Bf1 $44) (19... Ba6 $6 20. Rec2) 20. Rxc3
+d4 21. exd4 Bxg2 22. Kxg2 Qd5+ 23. f3 cxd4 24. Rd3 24... Bc5 $11) 18... Ne4 19.
+Nxe4 (19. Nxe4 dxe4 20. Bg3 Qf6 (20... b5 $5 21. dxc5 Bxc5 22. Qxd8 Rexd8 23.
+Red1 Rxd1+ 24. Rxd1 24... Bb6 $11) 21. Re2 Ba6 22. Rd2 Bd3 23. Bf1 cxd4 24.
+Rxc8 Rxc8 25. Bxd3 exd3 (25... dxe3 $4 26. Ba6 $1 $18) 26. Rxd3 $1 (26. exd4
+26... Ba3 $3 {Zhubov} 27. Be5 (27. Kg2 $4 27... Rc1 28. Qf3 28... Rg1+ $19)
+27... Qg5 28. f4 Qh4 29. Kg2 29... Rc1 $1 {Alexandrova,O} (29... Bb4 30. Rxd3
+f6 31. d5 fxe5 32. fxe5 $132) (29... f6 $5 30. b4 30... fxe5 $1 31. Qb3+ Kh8
+32. Qxa3 32... e4 $19) 30. Qf3 Qe1 31. Qxd3 Qg1+ 32. Kf3 Rf1+ 33. Ke4 Qh1+ 34.
+Kf5 g6+ 35. Kf6 Qc6+) 26... Ba3 27. Qe2 dxe3 28. Rxe3 $11) 1/2-1/2
+
+[Event "Alushta"]
+[Site "?"]
+[Date "1999.03.09"]
+[Round "7"]
+[White "Korotylev, A."]
+[Black "Atalik, S."]
+[Result "0-1"]
+[ECO "D85"]
+[WhiteElo "2440"]
+[BlackElo "2593"]
+[Annotator "Suat Atalik for Chess Sector"]
+[PlyCount "102"]
+[EventDate "1999.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bb5+ c6 8.
+Ba4 O-O 9. Ne2 c5 10. O-O Nc6 11. Be3 Na5 12. Rb1 b6 13. Bb5 $5 $146 13... Bb7
+(13... cxd4 $6 14. cxd4 Bb7 15. d5 $14) 14. f3 (14. d5 14... e6 $1 15. dxe6
+15... fxe6 $132) 14... cxd4 15. cxd4 e6 16. Rc1 (16. Qd2 Qe7 17. Bh6 Bxh6 18.
+Qxh6 Rfc8) 16... Qe7 17. Qd2 Rfc8 (17... Rfd8 18. Bg5 $1 18... f6 19. Be3) 18.
+Rxc8+ $6 (18. Rfd1) 18... Rxc8 19. Rc1 Rxc1+ 20. Qxc1 20... Qb4 $1 $17 21. Bd3
+Nc6 22. e5 Ne7 23. Be4 (23. Bd2 Qa4) (23. a3 23... Qa5 $1 (23... Qa4 $2 24. Qc7
+$1 $18) 24. Bd2 24... Qa4 $17) 23... Nd5 24. Bd2 {
+Here white has offered a draw.} 24... Qa4 25. Qc2 (25. Bxd5 25... exd5 $1)
+25... Qd7 26. h4 Ba6 27. Ng3 f5 (27... f6 $5 28. Qb2 $1 (28. f4 $6 28... f5))
+28. exf6 (28. Bxd5 28... Qxd5 $17) (28. Bd3 28... Bxd3 $1 (28... Nb4 $5 29.
+Bxb4 Qxd4+ 30. Kh2 Qxh4+ 31. Kg1 Qd4+ 32. Kh2 32... Qxb4 $1 (32... Qxd3 33. Qc6
+h6 34. Qxe6+ Kh7 35. Bd6 Bc4 36. Qe7 $132) 33. Bxa6 Qh4+ 34. Kg1 Bxe5 35. Qc8+
+Kg7 36. Qd7+ Kh6 37. f4 Qxf4 38. Ne2 38... Qh2+ $17) 29. Qxd3 29... Qa4 $17)
+28... Bxf6 29. Bg5 (29. Bxg6 29... Qg7 $1 $19) 29... Bxd4+ (29... Nb4 $6 30.
+Qb3 Bxg5 31. hxg5 Qxd4+ 32. Kh2 Nd5 33. Qa3 $132) 30. Kh2 Be5 (30... Ne3 $6 31.
+Qd2 Nf1+ (31... Nf5 $2 32. Bxf5 exf5 33. Be3 f4 34. Bxd4 $11) 32. Nxf1 Bxf1 33.
+Qf4 $15) 31. Bxg6 31... Qg7 $4 {
+Here I got confused with the same sacrifice which could have happened earlier.}
+(31... hxg6 32. Qxg6+ Bg7 (32... Kf8 $2 33. Bh6+ Ke7 34. f4 $44) 33. h5 33...
+Qf7 $19) 32. Be4 $6 (32. Qa4 hxg6 33. f4 $1 (33. Qxa6 $2 33... Qc7 34. f4 34...
+Nxf4 $19) 33... Nxf4 (33... Bc7 $6 34. Qxa6 Nxf4 35. Qc8+ Kh7 36. Bxf4 Bxf4 37.
+Qxe6 Qc7 38. Qg4 b5 39. Kh3 Bxg3 40. Qxg3 Qxg3+ 41. Kxg3 b4 42. Kf4 a5 43. Ke3
+a4 44. Kd3 44... g5 $11) 34. Bxf4 Bxf4 35. Qxf4 $15) 32... h6 $1 (32... Bxg3+
+$6 33. Kxg3 h6 34. Bxd5 $1 (34. Qc6 $2 34... Nc7 35. Qd6 35... Bb5 $19) 34...
+exd5 35. Qc6 hxg5 36. Qxd5+ Qf7 37. Qxg5+ (37. Qd8+ Kh7 38. hxg5 38... Kg6 $1
+$36) 37... Qg7 38. Qxg7+ Kxg7 39. Kf4 Bf1 (39... Bc4 40. a3 a5 41. Ke3) 40. g4
+b5 41. a3 a5 42. Ke3 a4 43. Kd2 Bg2 44. f4 Bf3 45. g5 Kg6 46. Kc3 $11) 33. Bxd5
+$1 33... exd5 34. f4 hxg5 35. fxe5 gxh4 36. Nf5 Qxe5+ 37. Kh3 d4 38. Kxh4 $1 (
+38. Nxh4 Qe6+ 39. Kg3 39... d3 $19) 38... Qf6+ 39. Kg4 $2 (39. Kh3 $1 39... d3
+40. Qb3+ Kf8 41. g4 Qh8+ 42. Kg3 Qe5+ 43. Kh4 $132 43... Qe1+ 44. Kg5 d2 45.
+Kf6 Ke8 46. Qg8+ Kd7 47. Qd5+ Kc7 48. Qd6+ Kb7 49. Qd7+ Kb8 50. Qd6+ $11) 39...
+d3 40. Qb3+ Kh7 41. Kf4 d2 42. Qh3+ (42. Qd1 $5 42... Kg6 $1) 42... Kg8 $5 {
+To gain on the clock.} (42... Kg6 43. Qh6+ 43... Kf7 $19) 43. Qg3+ (43. Qb3+
+Kh7 (43... Qf7 $2 44. Qg3+ Kf8 45. Qa3+ $11) 44. Qh3+ Kg6 45. Qg3+ Kf7 46. Qb3+
+46... Qe6 {just transposes to the game continuation.}) 43... Kf7 44. Qb3+ Qe6
+45. Nd6+ (45. Nh6+ Ke7) 45... Ke7 46. Nf5+ Kd7 47. Qa4+ 47... Kc7 $19 48. Ne3 (
+48. Qc2+ Qc4+) 48... Qd6+ 49. Kf3 49... Qd3 $1 (49... Qc6+ $2 50. Qxc6+ Kxc6
+51. Nd1 Bc4 52. a3 $11) (49... Qf6+ 50. Kg3 {seems to go nowhere for black.})
+50. Kf4 (50. Qf4+ Kc6 51. Qf6+ Kc5 52. Qe5+ Kb4 53. Qb2+ 53... Ka4 $19) 50...
+Kb7 51. g4 Bc4 (51... Bc4 52. g5 Qd4+ 53. Kf3 53... Be2+ $19) 0-1
+
+[Event "Alushta"]
+[Site "?"]
+[Date "1999.03.10"]
+[Round "8"]
+[White "Atalik, S."]
+[Black "Salinnikov, D."]
+[Result "1-0"]
+[ECO "E99"]
+[WhiteElo "2593"]
+[BlackElo "2484"]
+[Annotator "S.Atalik,O. Alexandrova for Chess Sector"]
+[PlyCount "67"]
+[EventDate "1999.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Be3 f5 11. f3 f4 12. Bf2 g5 13. Rc1 13... a5 $5 $146 14. Nd3
+(14. a3 $5 14... Ng6 15. b4 b6 16. c5 $1 (16. Na4 axb4 17. axb4 Nf6 18. c5
+18... Bd7 $5 $13) 16... axb4 (16... bxc5 17. bxc5 Nxc5 18. Bxc5 dxc5 19. Na4)
+17. axb4 bxc5 18. bxc5 Nxc5 19. Bxc5 dxc5 20. Na4 $14) 14... b6 15. a3 Ng6 16.
+b4 Nf6 17. c5 17... bxc5 $1 18. bxc5 Rf7 19. cxd6 $1 (19. Na4 Bf8 20. cxd6 Bxd6
+21. Nac5 21... Nf8 $13) 19... cxd6 20. Kh1 $5 (20. Na4 $6 20... g4 21. Nb6 g3
+22. hxg3 fxg3 23. Nxa8 gxf2+ 24. Nxf2 24... Bb7 $17) (20. Nb2 h5) 20... Bf8 $6
+(20... h5 $1 21. g3 $1 (21. Na4 $2 21... Rb7 (21... g4 $2 22. Nb6 g3 23. Nxa8
+$18) 22. Ndb2 g4 23. g3 $5 (23. Nc4 g3 24. Bg1 (24. Ncb6 gxf2 (24... h4 $5) 25.
+Nxa8 25... Bd7 $17) 24... h4 25. Nab6 25... h3 $1 $19)) 21... fxg3 22. Bxg3 Nf4
+23. Bxf4 $5 (23. Nxf4 exf4 24. Bf2 Nd7 (24... g4 25. Bh4) 25. Rg1 Ne5 26. Bd4
+$13 26... g4 $2 27. Bxe5 Bxe5 28. fxg4 f3 29. gxh5+ Kh7 30. Bxf3 Qh4 31. Rc2
+Qf6 32. Na4 $1 32... Bd4 33. Rf1 Ba6 34. e5 Qf5 35. e6 Rg7 36. Qxd4 Bxf1 37.
+Be4 $18) 23... exf4 (23... gxf4 24. Rg1 Kh7 25. Nb5 Bf8 26. Qc2 Ne8 27. Nxe5 $1
+27... dxe5 28. Qc6 $18) 24. e5 dxe5 25. Nxe5 $40) 21. Na4 (21. g3 $5) 21... Rb7
+22. Qc2 $2 (22. Rb1 $1 22... Rab8 23. Rxb7 Rxb7 24. Ndb2 Bd7 (24... g4 $2 25.
+Ba6) 25. Ba6 (25. Nc4 g4 26. Ncb6 g3 27. Nxd7 Qxd7 28. Bg1 $14) 25... Rb8 26.
+Ba7 Ra8 27. Bb6 Qe7 28. Qd3 g4 29. Bb7 Rb8 30. Bc6 $16) 22... Bd7 $1 (22... g4
+$6 23. Rb1 (23. Qc6 Ne7 24. Qc2 $13) 23... g3 24. Rxb7 (24. hxg3 $2 24... Nh5
+25. gxf4 25... exf4 $19) 24... Bxb7 25. Rb1 Bc8 26. Bg1 $16) 23. Ndb2 g4 24.
+fxg4 Nxg4 25. Nc4 25... Rc8 $1 (25... Nxf2+ 26. Rxf2 Rc8 27. Nab2 $11) 26. Bxg4
+Bxg4 27. Nab6 27... f3 $4 (27... Rcc7 28. h3 Bh5 29. Qd3 Rg7 30. Rb1 30... Rbf7
+$17) 28. Be3 $1 28... Rcb8 29. gxf3 Bh3 30. Rg1 30... Qh4 $2 (30... Rxb6 31.
+Nxb6 Rxb6 32. Rg3 Bd7 33. Bxb6 Qxb6 34. Qc7 34... Qb5 $8 35. a4 (35. Qd8 Kf7) (
+35. Rcg1 Kf7 36. Rg5 $13) 35... Qxa4 36. Qd8 Kf7 37. Rc7 Qd1+ 38. Rg1 Qxf3+ 39.
+Rg2 $11) 31. Qf2 Qxf2 32. Bxf2 Rg7 33. Rg3 Nf4 34. Rcg1 (34. Rcg1 Nd3 35. Be3
+$18) 1-0
+
+[Event "Alushta"]
+[Site "?"]
+[Date "1999.03.11"]
+[Round "9"]
+[White "Malakhatko, V."]
+[Black "Atalik, S."]
+[Result "1/2-1/2"]
+[ECO "D43"]
+[WhiteElo "2496"]
+[BlackElo "2593"]
+[Annotator "Suat Atalik for Chess Sector"]
+[PlyCount "29"]
+[EventDate "1999.??.??"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 c6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5
+9. Be2 Nbd7 10. e5 Nd5 11. h4 g4 12. Nd2 h5 13. Nde4 Bb7 14. O-O Qb6 15. a4 {
+Here white has offered a draw which was accepted.} (15. a4 15... a6 $13)
+1/2-1/2
+
+[Event "Alushta"]
+[Site "?"]
+[Date "1999.03.12"]
+[Round "10"]
+[White "Miles, A."]
+[Black "Atalik, S."]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[WhiteElo "2609"]
+[BlackElo "2593"]
+[Annotator "Suat Atalik for Chess Sector"]
+[PlyCount "18"]
+[EventDate "1999.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. O-O-O d5 1/2-1/2
+
+[Event "Alushta"]
+[Site "?"]
+[Date "1999.03.13"]
+[Round "11"]
+[White "Atalik, S."]
+[Black "Khomyakov, V."]
+[Result "1-0"]
+[ECO "A70"]
+[WhiteElo "2593"]
+[BlackElo "2380"]
+[Annotator "S.Atalik,O. Alexandrova for Chess Sector"]
+[PlyCount "99"]
+[EventDate "1999.??.??"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 Bg7 5. e4 O-O 6. Bd3 e6 7. Nf3 (7. Bg5 $5
+7... h6 8. Be3 exd5 9. cxd5) 7... exd5 8. cxd5 d6 9. h3 a6 10. a4 Nh5 11. O-O
+Nd7 12. Re1 12... Rb8 $6 (12... Ne5 13. Be2 Nxf3+ 14. Bxf3 Qh4 (14... Nf6 15.
+Bf4) 15. Bxh5 gxh5 16. Qd2 $1) (12... Re8 $1 13. Be3 Ne5 14. Be2 Nxf3+ 15. Bxf3
+Nf6 16. Bf4 Nd7 17. Bxd6 Qb6 18. e5 Nxe5 19. Bxe5 19... Rxe5 $1 (19... Bxe5 $6
+20. a5 $1) 20. Rxe5 Bxe5 21. Qe2 $1 $13) 13. Be3 Ne5 (13... Re8 14. Qd2) 14.
+Be2 Nxf3+ 15. Bxf3 Nf6 16. Bf4 Ne8 (16... b5 17. axb5 axb5 18. e5 dxe5 19. Bxe5
+$40) 17. a5 b5 18. axb6 Rxb6 19. Na4 Rb4 20. Bd2 Rb8 (20... Rd4 21. Qc2) 21.
+Bc3 f6 (21... Bxc3 $6 22. bxc3 $16) 22. Qd2 Nc7 23. Ba5 $1 $16 23... Qe7 $5 {
+The best practical chance.} (23... f5 24. e5) (23... Qd7 24. Nb6 Qe7 25. b4 (
+25. Nxc8 Rfxc8 26. Bg4 Rd8 27. Bxc7 Qxc7 28. Be6+ Kh8 29. Rxa6 29... f5 $132)
+25... cxb4 26. Rab1 Nb5 27. Rxb4 $16) 24. Nxc5 Nb5 25. Na4 $6 (25. Nb3 $1 $16)
+25... Qa7 $1 26. Bb4 (26. Qe3 $6 26... Nd4 27. Bb6 Nxf3+ 28. gxf3 28... Qd7
+$132) 26... f5 (26... Nd4 $2 27. Bxd6 $18) (26... Rd8 $5 27. Bd1 Nd4 28. Ba5
+Re8 29. Rc1 $16) 27. Nc3 fxe4 (27... Nd4 $2 28. Bxd6 Nb3 29. Qf4 (29. Bxb8 Qxb8
+30. Qd1 Nxa1 31. Qxa1 $18) 29... fxe4 30. Bxb8 Qb7 (30... Rxf4 31. Bxa7 Nxa1
+32. Bxe4 $18) 31. Qxe4 Nxa1 32. Bd6 $18) 28. Nxb5 Rxb5 29. Rxe4 29... Qb6 $6 (
+29... Bxh3 $5 30. gxh3 $1 {Miles} (30. Rae1 $6 30... Qb6 31. Bc3 Bxc3 32. bxc3
+Rb2 33. Qe3 33... Bf5 $11) (30. Bc3 Bf5 31. Rea4 $5) 30... Rxf3 31. Qe2 Qf7 (
+31... Rf8 $6 32. Re7 Qxf2+ 33. Qxf2 Rxf2 34. Rxg7+ Kxg7 35. Bc3+ Rf6 36. Rf1
+$18) 32. Rxa6 $5 $16 (32. Bxd6 $6 32... h6 $1 (32... Rxb2 $2 33. Re8+ Bf8 34.
+Rxf8+ Qxf8 35. Qe6+ Qf7 36. Qc8+ Kg7 37. Be5+ Kh6 38. Bxb2 $18) 33. Re8+ Kh7
+34. Re7 Qxd5 35. Be5 Rf7)) (29... Bf5 30. Re2 $1 (30. Rc4 Bxh3 31. Rac1 $14)
+30... Bxh3 31. Rae1 Qb6 32. Bc3 Bxc3 33. bxc3 $16) 30. Bc3 (30. Rae1 $6 30...
+Bxh3) (30. Rc1 $1 30... Bf5 31. Rc6 Qb7 32. Rec4 $18) 30... Bxc3 (30... Bxh3 $2
+31. Bxg7 Kxg7 32. Qc3+) 31. bxc3 Qd8 (31... Bxh3 $2 32. Qh6) 32. Rae1 Rb7 33.
+Rf4 33... Rbf7 $138 (33... Bxh3 $5 34. Rxf8+ Qxf8 35. Qd3 Bf5 36. Qxa6 $16) 34.
+Rxf7 Rxf7 35. Kh2 Bd7 (35... a5 36. Qd4 Bd7 37. c4 $16) 36. Qd4 36... Qf6 $2 (
+36... a5 37. c4 $16) 37. Qxf6 Rxf6 38. Kg3 (38. Re7 $2 38... Rf7 $1) 38... a5
+$2 (38... Rf8 $1 39. Re7 $1 (39. Rb1 Bb5) 39... Rf7 40. Rxf7 Kxf7 41. Kf4 Kf6
+42. Ke4 a5 43. Kd4 a4 44. Bd1 a3 45. Bb3 g5 46. c4 Ke7 47. c5 dxc5+ 48. Kxc5
+Be8 49. Kb4 Kd6 50. Kxa3 $18) 39. Ra1 a4 40. Bg4 Be8 (40... Bb5 41. c4 Bxc4 42.
+Be6+ Kg7 43. Rxa4 $18) 41. Be6+ Kg7 42. f4 Bb5 43. c4 Be8 44. Rb1 Rf8 45. Rb7+
+Kf6 46. Ra7 (46. Rxh7 $2 46... Bf7) 46... h6 (46... g5 47. fxg5+ (47. f5 Ke5
+48. Rxh7 Bf7 (48... Kd4 49. Ra7 Kxc4 50. Kg4) 49. Bxf7 a3 50. Bg6 Ra8 51. Re7+
+$18) 47... Kxg5 48. h4+ Kf6 49. Kf4 Kg6+ 50. Ke3 Rf1 51. Ra8 $18) 47. Kf3 g5
+48. f5 Ke5 49. Ke3 h5 50. g3 (50. g3 Rh8 51. Rb7 (51. Ra8 Rf8 52. Bd7 Bxd7 53.
+Rxf8 Bxf5 54. Re8+ Kf6 55. h4 gxh4 56. gxh4 $18) 51... Rf8 52. Rh7 Kf6 53. Kd4
+Bf7 54. Rxf7+ Rxf7 55. Bxf7 Kxf7 56. g4 $18) 1-0
+
+[Event "GM Title April"]
+[Site "Alushta"]
+[Date "1999.04.25"]
+[Round "?"]
+[White "Moiseenko, A."]
+[Black "Moskalenko, V."]
+[Result "1/2-1/2"]
+[ECO "D03"]
+[Annotator "Viktor Moskalenko for Chess Sector"]
+[PlyCount "51"]
+[EventDate "1999.??.??"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 Qb6 5. Nbd2 d5 6. Bxf6 gxf6 7. c4 (7. Rb1
+7... Bd7 $5 $146 8. c4 cxd4 9. exd4 Nc6 10. c5 (10. cxd5 exd5 11. Bd3 Nxd4 12.
+O-O 12... O-O-O $17) 10... Qa5 $5 11. a3 11... e5 $132) 7... cxd4 8. exd4 Nc6
+9. cxd5 exd5 10. Bd3 10... Nxd4 $5 $146 11. O-O (11. Nxd4 $6 11... Qxd4 12.
+Bb5+ 12... Kd8 $1 (12... Bd7 13. Bxd7+ Kxd7 14. O-O Bh6 15. Nf3 Qxd1 16. Raxd1
+Kd6 17. Nd4 Bf4 18. Nf5+ 18... Ke6 $8 19. g4 $5 19... Rag8 20. Rfe1+ Be5 21. h3
+h5 22. f4 hxg4 23. Nd4+ Kd6 24. Nf5+ Ke6 25. Nd4+ $11) 13. O-O 13... Be6 $1 $15
+) 11... Nc6 (11... Be6 $5 { 0-0-0}) 12. Re1+ Be7 13. Rc1 Be6 14. Nb3 14... Bb4
+$1 (14... Kf8 $2 15. Qd2 h5 16. Qf4 $16) (14... O-O-O 15. Bf5 $5 $36) 15. Re2
+Kf8 16. Bb1 Rd8 17. Nfd4 Bg4 18. f3 Bd7 19. Kh1 Nxd4 20. Nxd4 Bc5 21. Nb3 $1 (
+21. Rd2 21... Kg7 $15) 21... Be3 (21... Ba4 $2 22. Qd2 Bxb3 23. Qh6+ Kg8 24.
+axb3 Bf8 25. Qh5 $16) 22. Rc3 d4 23. Rd3 23... Kg7 $8 24. Nxd4 Bxd4 25. Rxd4
+25... Bf5 $1 26. Rdd2 (26. Rdd2 26... Bg6 $5 27. Bc2 $1 (27. h3 $2 27... Qxb2
+$1) 27... Rhe8 (27... Qxb2 $2 28. Rxd8 Bxc2 (28... Rxd8 29. Qxd8 Bxc2 30. h3
+$16) 29. Rxh8 $18) 28. Rxe8 Rxe8 29. Bb3 29... Qb4 $11) 1/2-1/2
+
+[Event "GM Title April"]
+[Site "Alushta"]
+[Date "1999.04.??"]
+[Round "3"]
+[White "Moskalenko, V."]
+[Black "Zubov, A."]
+[Result "1-0"]
+[ECO "D40"]
+[Annotator "Viktor Moskalenko for Chess Sector"]
+[PlyCount "83"]
+[EventDate "1999.??.??"]
+
+1. d4 Nf6 2. c4 c5 3. e3 cxd4 4. exd4 d5 5. Nc3 Nc6 6. Nf3 e6 7. a3 Be7 8. c5
+Ne4 9. Qc2 Bf6 10. Bb5 (10. Be3 Qa5 11. Rb1 $13 {Hort-Lombard, Athene 1969})
+10... O-O 11. Bxc6 bxc6 12. O-O Nxc3 13. Qxc3 13... Re8 $5 $146 14. Bf4 (14.
+Re1 $5 { } 14... Re7 (14... a5 $5) 15. Bg5 $14) 14... a5 15. a4 15... Re7 $1
+16. Rfb1 Rb7 17. b4 Rxb4 18. Rxb4 axb4 19. Qxb4 Qd7 20. h3 $5 (20. Bg5 $5 $14)
+20... Bd8 $1 $132 21. Rb1 $1 21... f6 22. Qa3 Ba6 23. Qe3 $1 23... Bc4 24. Rb4
+(24. Bd6 $5 24... Rxa4 $6 25. Rb8 $44 25... h6 $1 26. h4 $1 $36) 24... Be7 (
+24... Ba5 25. Rb2 Bd8 26. h4 $1) 25. h4 $1 $14 25... Ba6 26. Qb3 Kf7 27. Qb1 g6
+28. Rb3 28... Ra7 $2 (28... Kg7 $5 { } 29. h5 29... g5 $132) 29. h5 Ra8 30.
+hxg6+ $138 (30. Nh4 $1 30... Rg8 31. Rg3 g5 (31... f5 32. hxg6+ hxg6 33. Nf3
+$16 { }) 32. Qxh7+ (32. h6 $5) 32... Rg7 33. Qc2 $18 33... gxh4 (33... gxf4 34.
+Rxg7+ Kxg7 35. Qg6+ Kh8 (35... Kf8 36. h6 Bd8 37. h7 Qg7 38. Qh5 $18) 36. Qh6+
+Kg8 37. Ng6 $18) 34. Rxg7+ Kxg7 35. Qg6+ Kh8 36. Qf7 $1 36... Qb7 (36... Bc8
+37. Bh6 Bd8 38. Bg7+ Kh7 39. Qg6+ Kg8 40. h6 $18) (36... Qd8 37. Bh6 Qg8 38.
+Qxe7 h3 39. Qxf6+ Kh7 40. Bg5 $18) 37. Bh6 Qb1+ 38. Kh2 Qh7 39. Qe8+ Qg8 40.
+Qxe7 $18) 30... hxg6 31. Nh4 Rg8 32. Rb8 $1 (32. Rg3 $5 32... g5 33. Bxg5 fxg5
+(33... Rxg5 $5 34. Qh7+ Ke8 35. Ng6 $1 35... Kd8 36. Rb3 $5 $44 { }) 34. Qh7+
+Rg7 35. Rf3+ Bf6 36. Qh5+ Kg8 37. Rxf6 (37. Ng6 37... Rh7 $1) 37... gxh4 38.
+Rh6 Rh7 39. Qg5+ $1 $44 { } 39... Rg7 (39... Kf8 $2 40. Rxh7 Qxh7 41. Qd8+ Kf7
+42. Qd7+ Kg8 43. Qxc6 $16) (39... Kh8 $5) 40. Qxh4 40... Bd3 $1 41. Rh8+ Kf7
+42. a5 $5 $36) 32... Bc8 33. Nf3 $16 33... Qa7 34. Bd6 Qd7 (34... Qxa4 35. Bxe7
+Kxe7 36. Qb6 $18) 35. Bxe7 (35. Qb4 $5) 35... Kxe7 36. a5 $18 36... Qc7 37. Qb6
+$6 (37. Ra8 $1 $18 { a6,a7}) 37... Qf4 38. Qa7+ Kd8 39. Qb6+ 39... Kd7 $2 (
+39... Ke7 $8 40. Qb2 $16) 40. Qa7+ Kd8 41. Qb6+ 41... Kd7 $2 42. Ra8 $1 $18 { }
+(42. Ra8 42... Rd8 $8 (42... Qc1+ 43. Kh2 Qf4+ (43... Rh8+ 44. Kg3 $18) 44. g3
+Qxf3 45. Ra7+ Ke8 46. Qxc6+ Kd8 47. Qd6+ Ke8 48. Qe7#) 43. Ra7+ Ke8 44. Qc7 $1
+(44. Qxc6+ $6 44... Bd7 45. Qd6 45... e5 $1 $132) 44... Qc1+ 45. Kh2 Bd7 46.
+Qg3 Qh6+ (46... g5 47. a6 $18) 47. Qh4 Qxh4+ 48. Nxh4 48... e5 $5 49. Nf3 $1
+49... Bg4 50. a6 Bxf3 51. Rh7 $1 $18) 1-0
+
+[Event "GM Title April"]
+[Site "Alushta"]
+[Date "1999.04.??"]
+[Round "9"]
+[White "Askarian, L."]
+[Black "Moskalenko, V."]
+[Result "0-1"]
+[ECO "A62"]
+[Annotator "Viktor Moskalenko for Chess Sector"]
+[PlyCount "112"]
+[EventDate "1999.??.??"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O Na6 10. Nd2 Rb8 11. a4 Nc7 12. Nc4 b6 13. h3 $146 (13. Bf4 Nfe8 14.
+Ne4 Ba6 15. Ncxd6 15... Nxd6 $146 (15... f5 $2 16. Nxe8 Rxe8 17. Nc3 Bxc3 18.
+bxc3 Bxe2 19. d6 $18 {Kuszelman-Makowski URS/SzB 1962}) 16. Bxd6 16... Re8 $44
+(16... Bxb2 $5 17. Rb1 Bd4 18. Bxf8 18... Kxf8 $44)) 13... Ba6 14. Na3 Re8 15.
+Re1 Nd7 16. f4 $5 16... c4 17. Nc2 Nc5 18. Nb4 Bb7 19. Nc6 $6 (19. Nb5 $1 19...
+a6 $5 20. Na7 Ra8 21. Nac6 21... Qf6 $13) 19... Bxc6 20. dxc6 20... Bxc3 $1 21.
+bxc3 d5 22. f5 $1 22... Qd6 23. Bf4 Qxc6 24. a5 $6 (24. Bxc7 24... Qxc7 25.
+Qxd5 25... Nb3 $1 (25... Qxg3 26. fxg6 hxg6 27. Rf1 Re7 28. Qxc4 $132) 26. Rad1
+Rbd8 27. Qf3 $8 (27. Qc6 $6 27... Qxg3 28. Qxc4 Nd2 29. Qg4 (29. Qc6 $2 29...
+Rxe2 $1 30. Rxe2 30... Nf3+ $19) 29... Qxc3 $17) 27... Nd2 28. Qf2 28... Qe5
+$17) 24... b5 25. Qd4 $1 25... gxf5 $1 (25... Nb3 $6 26. Qxa7 Rb7 27. Qf2 Nxa1
+28. Rxa1 $44) 26. Kh2 26... a6 $17 27. Bf3 $5 { Rg1,g4 } (27. Rad1 27... Rbd8
+$17) 27... Ne4 $1 (27... Nb3 $6 28. Qf2 Nxa1 29. Rxa1 Rbd8 30. Qd4 $5 $44) 28.
+Rg1 Ne6 29. Qe5 f6 30. Qxf5 Ng7 31. Qg4 31... Rbd8 $138 32. Rac1 Qe6 33. Qh4 d4
+34. cxd4 Rxd4 35. Rg2 Ng5 36. Bg4 Qd5 (36... Qe7 $17) 37. Qh6 Ne4 38. Rf1 Qf7
+39. Be3 Rd5 40. Qf4 Qe7 41. Bf3 Rf5 42. Qh6 Ng5 43. Bd2 (43. Bd4 43... Rd8 $17)
+43... Nxf3+ (43... Rd8 $1) 44. exf3 Re5 45. g4 Re6 46. Qf4 Qd6 47. Kg3 Qxf4+
+48. Kxf4 Rd6 49. Bc3 49... Kf7 $19 50. h4 Ne6+ 51. Kg3 Rd3 52. Rc1 Nd4 53. Bxd4
+Rxd4 54. g5 b4 55. f4 c3 56. Kg4 Rc8 0-1
+
