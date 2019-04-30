@@ -4,7 +4,7 @@ title:  "Autoencoder"
 date:   2019-04-30 12:30:00 +0200
 tags: project encoding model
 ---
-So far, we have selected two data encodings and selected two data sets.
+So far, we have selected two data encodings and two data sets.
 In this post, we will train an Autoencoder to test the encodings and data sets.
 
 ### What's an Autoencoder?

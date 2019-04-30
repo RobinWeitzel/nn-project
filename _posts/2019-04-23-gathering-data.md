@@ -21,7 +21,7 @@ Because the FCIS provides so many games I see no reason to look for other source
 If I need more data, I can just download the games from another year.
 
 ### Games with explanations
-Finding games where each move is explained is much more trickier.
+Finding games where each move is explained is much trickier.
 There are numerous great YouTube channels in which games are analyzed move for move (I can especially recommend [this](https://www.youtube.com/user/ChessNetwork) one). Unfortunately, it is very difficult to extract these explanations from a video.
 Thus, I stated searching for game explanations in written form.
 
