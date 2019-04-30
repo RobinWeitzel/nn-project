@@ -9,7 +9,7 @@ Now that we have decided on how we will encode the data we need to start looking
 ### Games without explanations
 Thankfully, the invention of the internet and subsequent rise of online chess tournaments has made it very easy to find game recordings.
 One prominent example is the [Free Internet Chess Server (FCIS)](https://www.ficsgames.org/download.html).
-They provide almost 340 million games,21 million of which are standard chess games (the rest being mostly blitz games).
+They provide almost 340 million games, 21 million of which are standard chess games (the rest being mostly blitz games).
 Furthermore, it is possible to only download games from good players (rating > 2000).
 This makes for a perfect source.
 
@@ -21,16 +21,16 @@ Because the FCIS provides so many games I see no reason to look for other source
 If I need more data, I can just download the games from another year.
 
 ### Games with explanations
-Finding games where each move is explained is much more tricky.
-There are numerous great Youtube channels in which games are analyzed move for move (I can especially recommend [this](https://www.youtube.com/user/ChessNetwork) one). Unfortunately, it is very difficult to extract these explanations from a video.
+Finding games where each move is explained is much more trickier.
+There are numerous great YouTube channels in which games are analyzed move for move (I can especially recommend [this](https://www.youtube.com/user/ChessNetwork) one). Unfortunately, it is very difficult to extract these explanations from a video.
 Thus, I stated searching for game explanations in written form.
 
 In theory, the pgn-format allows comments between each move.
-Looking at different chess forums I was able to find some games but quickly grew worried that I would have to spend a lot of time piecing together a data set from hundreds of forum posts. Fortunately, a kind soul already did this and provided the all the links in one [place](http://www.angelfire.com/games3/smartbridge/).
+Looking at different chess forums I was able to find some games but quickly grew worried that I would have to spend a lot of time piecing together a data set from hundreds of forum posts. Fortunately, a kind soul already did this and provided all the links in one [place](http://www.angelfire.com/games3/smartbridge/).
 All in all this resulted in over 4000 annotated games.
 
 Looking at the games in more detail quite a few of them are not formatted correctly.
-After filtering these out we are left with 3683 games.
+After filtering those out we are left with 3683 games.
 Opening up one of these games we see something like this:
 
 ~~~
@@ -50,7 +50,7 @@ Opening up one of these games we see something like this:
 
 Some moves are trailed by comments in brackets but not all moves are.
 Therefore, the next step is to only extract commented moves (since out neural network can only learn from these).
-Check out [this](https://github.com/RobinWeitzel/nn-project/blob/master/data_exploration.ipynb) Jupyter notebook to see how I did it.
+Check out [this](https://github.com/RobinWeitzel/nn-project/blob/master/data_exploration.ipynb#part2) Jupyter notebook to see how I did it.
 We are left with 17615 commented moves which is hopefully enough since getting more games would take a lot of time I would rather spend on training the network.
 
 Taking a look at the comments, we notice a few things:
