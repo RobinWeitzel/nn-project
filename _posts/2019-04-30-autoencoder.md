@@ -101,7 +101,7 @@ The modified Encoder looks like this:
 ~~~ python
 def Encoder():
     matrix = Input(shape=(8, 8, 13))
-    moves = Input(shape=(60,))
+    moves = Input(shape=(600,))
     
     x = Flatten()(matrix)
     x = Dense(1024, activation='relu')(x)
