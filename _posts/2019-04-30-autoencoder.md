@@ -127,7 +127,7 @@ Replacing the LSTM with a GRU reduced the training time but not significantly.
 I also tried to use a Google Tensor Processing Unit (TPU) but keras does not support using TPUs on models with multiple inputs :(
 
 The model plateaued at 66%, far below the performance of our first model.
-Most likely, modifying the move encoder would have yielded better results.
+Most likely, modifying the move encoder would yield better results.
 However, because training the Encoder took so long after each adjustment I abandoned this approach and settled on just using the matrix representation.
 I still think encoding the moves as words is an interesting idea worth further consideration in a follow-up project but for now we stick with something that is easier to train and fine tune.
 
