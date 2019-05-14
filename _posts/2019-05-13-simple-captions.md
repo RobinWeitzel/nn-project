@@ -4,7 +4,7 @@ title:  "Simple Captions"
 date:   2019-05-13 13:11:00 +0200
 tags: project encoding model caption
 ---
-In this post, I want to train a network to say what the last move was if I show it the board state before and after the move.
+In this post, I want to train a network to say what the last move was by showing it the board state before and after the move.
 This task can easily be done by traditional, non-neural chess engines.
 However, it showcases that our model can not just recite a chess board (see last post for more info about this) but also interpret it.
 That's critical for our last step, generating explanations for moves.
@@ -13,7 +13,7 @@ That's critical for our last step, generating explanations for moves.
 The input data to our model will be the board state before and after a move.
 In addition, we will input the words that have been generated so far and predict the next word (marked in blue).
 
-![model architecture](../img/post_6_vis_1.PNG)
+![input format](../img/post_6_vis_1.PNG)
 
 Fortunately, we can combine the move lists (that we initially generated as a form of representation) with our matrix notation to generate data in the required format.
 Because the move list uses the algebraic notation (i.e. Be4) but we want a sentence (i.e. Bishop to e4) I wrote a transformer:
@@ -122,14 +122,26 @@ def moveToSentence(move, verbose=False):
 This yielded a dataset of around 5.5 million moves with captions.
 Next, I further separated this dataset to so that each word is shown as the output once.
 
-![model architecture](../img/post_6_vis_2.PNG)
+![data format 2](../img/post_6_vis_2.PNG)
 
-However, this might cause an issue down the road.
+However, this might cause issues down the road.
 Right now, we weigh each word equally.
 The word "to" is just as important as the word "e4" but the word "to" is much more likely to come up.
 We have 64 possible squares and 6 different pieces but a piece can only move ("to") or capture ("take").
 This imbalance will make the model focus less on getting the actual position and piece right.
 Therefore I added each tuple that predicts a position five times and each tuple predicting a piece twice into the dataset.
-All in all, we have almost 47 million annotated moves.
+We end up with almost 47 million annotated moves.
 
 ### Model
+As mentioned above, our model has three inputs:
+* the board state before the move
+* the board state after the move
+* all words of the sentence before the word we are trying to generate
+
+To encode the board states we use the pretrained Encoder from the last chapter.
+The sentence is embedded and fed through a GRU layer.
+Two linear layers followed by a softmax predict the next word.
+
+![model architecture](../img/post_6_vis_3.PNG)
+
+After training for eight hours (1 epoch), the model achieved an accuracy of 92%.
