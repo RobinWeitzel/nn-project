@@ -4,7 +4,7 @@ title:  "Simple Captions"
 date:   2019-05-13 13:11:00 +0200
 tags: project encoding model caption
 ---
-In this post, I want to train a network to say what the last move was by showing it the board state before and after the move.
+In this post I train a neural network to say what the last move was by showing it the board state before and after the move.
 This task can easily be done by traditional, non-neural chess engines.
 However, it showcases that our model can not just recite a chess board (see last post for more info about this) but also interpret it.
 That's critical for our last step, generating explanations for moves.
@@ -52,13 +52,13 @@ def pieceToWord(notation, verbose=False):
         return piece
     
     if length == 2:
-        if nontation[1].isdigit(): # rank
-            return piece + " from rank " + nontation[1]
+        if notation[1].isdigit(): # rank
+            return piece + " from rank " + notation[1]
         else: # file
-            return piece + " from file " + nontation[1]
+            return piece + " from file " + notation[1]
     
     if length == 3: # rank and file
-        return piece + " from square " + nontation[1:] 
+        return piece + " from square " + notation[1:] 
 
 def moveToSentence(move, verbose=False):
     '''
@@ -90,21 +90,18 @@ def moveToSentence(move, verbose=False):
         if verbose:
             modifier = " with promotion to " + pieces[move[-1:]].lower() + modifier
         move = move[:-2]
+        
+    if "e.p." in move: # En passant
+        move = move.replace('e.p.', '')
+        if verbose:
+            return  " en passant" + modifier
     
     # Special cases
-    if "O-O" in move: # Kingside caste
+    if "O-O" == move: # Kingside caste
         return "Kingside castle" + modifier
     
     if move == "O-O-O": # Queenside castle
-        return "Queenside castle" + modifier
-    
-    if "e.p." in move: # En passant
-        move = move.replace('e.p.', '')
-        move = move.split('x')[1]
-        if verbose:
-            return "Pawn takes on " + move + " en passant"
-        else:
-            return "Pawn takes on " + move + ""
+        return "Queenside castle" + modifier    
         
     # extract final position
     position = move[-2:]
@@ -116,7 +113,7 @@ def moveToSentence(move, verbose=False):
         
     piece = pieceToWord(move, verbose)
     
-    return piece + action + position + modifier
+    return piece + action + position + modifier + " <End>"
 ~~~
 
 This yielded a dataset of around 5.5 million moves with captions.
@@ -124,13 +121,7 @@ Next, I further separated this dataset to so that each word is shown as the outp
 
 ![data format 2](../img/post_6_vis_2.PNG)
 
-However, this might cause issues down the road.
-Right now, we weigh each word equally.
-The word "to" is just as important as the word "e4" but the word "to" is much more likely to come up.
-We have 64 possible squares and 6 different pieces but a piece can only move ("to") or capture ("take").
-This imbalance will make the model focus less on getting the actual position and piece right.
-Therefore I added each tuple that predicts a position five times and each tuple predicting a piece twice into the dataset.
-We end up with almost 47 million annotated moves.
+We end up with 24 million annotated moves.
 
 ### Model
 As mentioned above, our model has three inputs:
@@ -144,4 +135,48 @@ Two linear layers followed by a softmax predict the next word.
 
 ![model architecture](../img/post_6_vis_3.PNG)
 
-After training for eight hours (1 epoch), the model achieved an accuracy of 92%.
+After training for one epoch (which took a few hours) the model achieved a validation accuracy of 93%.
+You may have noticed that the above mentioned transformer has two settings.
+A simple one (rook takes on e4) and an advance one (rook takes on e4 with check).
+The advanced captions require understanding of the rules of chess (i.e. what is check).
+Generating theses captions, the model still achieved an accuracy of 91%.
+Thereby it demonstrates the ability to induce the rules of chess without being explicitly told.
+
+These results are very encouraging.
+The generated captions were understandable and made sense.
+Furthermore, the network learned at least some of the rules which is key in order to analyze moves.
+Without it, you can not explain why a move is good or bad.
+However, I grew concerned that, even tough we used the pretrained embedding from the Autoencoder, the network now ignored most of the pieces on board.
+After all, to say "rook takes on e4 with check" you only need to know three things:
+
+* a rook moved to e4
+* e4 was already occupied by a piece
+* the king is given check from e4
+
+All other pieces are irrelevant.
+Unfortunately, this limits the room for analysis.
+Explanations should factor in the whole board, not just three pieces.
+Thus, I created a multi-task training scenario to fix this.
+
+### Multi-task training
+I combined the models from the simple captions and the Autoencoder.
+The resulting architecture expects three inputs (previous board state, current board state, sentence) but outputs two things:
+
+* probability for the next word
+* the board state after the move
+
+This training regiment forces the model to keep the whole board state "in mind" while still focusing on the last move.
+
+
+
+This post is in progress. The model is currently being trained. I will update this post after the model finished.
+
+
+
+Code to the first model can be found [here](https://github.com/RobinWeitzel/nn-project/blob/master/simple_captions.ipynb), the code for the second model [here](https://github.com/RobinWeitzel/nn-project/blob/master/multi_task_learning.ipynb).
+
+
+
+
+
+
