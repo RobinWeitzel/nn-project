@@ -7,4 +7,4 @@
 </h1>
 
 <h4 align="center">Training a computer to explain chess moves.</h4>
-<h4 align="center">Check out my [blog](https://robinweitzel.github.io/nn-project/) for details.</h4>
+<h4 align="center">Check out my <a href="https://robinweitzel.github.io/nn-project/">blog<a> for details.</h4>
