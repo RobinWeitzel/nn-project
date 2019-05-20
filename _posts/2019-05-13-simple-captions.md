@@ -139,14 +139,14 @@ After training for one epoch (which took a few hours) the model achieved a valid
 You may have noticed that the above mentioned transformer has two settings.
 A simple one (rook takes on e4) and an advance one (rook takes on e4 with check).
 The advanced captions require understanding of the rules of chess (i.e. what is check).
-Generating theses captions, the model still achieved an accuracy of 91%.
-Thereby it demonstrates the ability to induce the rules of chess without being explicitly told.
+Generating theses captions the model still achieved an accuracy of 91%.
+It thereby demonstrates the ability to induce the rules of chess without being explicitly told them.
 
 These results are very encouraging.
 The generated captions were understandable and made sense.
 Furthermore, the network learned at least some of the rules which is key in order to analyze moves.
 Without it, you can not explain why a move is good or bad.
-However, I grew concerned that, even tough we used the pretrained embedding from the Autoencoder, the network now ignored most of the pieces on board.
+However, I grew concerned that, even though we used the pretrained embedding from the Autoencoder, the network now ignored most of the pieces on board.
 After all, to say "rook takes on e4 with check" you only need to know three things:
 
 * a rook moved to e4
@@ -156,9 +156,12 @@ After all, to say "rook takes on e4 with check" you only need to know three thin
 All other pieces are irrelevant.
 Unfortunately, this limits the room for analysis.
 Explanations should factor in the whole board, not just three pieces.
-Thus, I created a multi-task training scenario to fix this.
+Thus, I created a multi-task training scenario to account for this.
 
 ### Multi-task training
+Multi-task training is normally used when we have several correlated tasks (i.e. solving one would help solve the the other).
+It can also be used to forces a model to generalize instead of dismissing everything not needed to solve one task (thats what we using it for).
+
 I combined the models from the simple captions and the Autoencoder.
 The resulting architecture expects three inputs (previous board state, current board state, sentence) but outputs two things:
 
@@ -167,6 +170,7 @@ The resulting architecture expects three inputs (previous board state, current b
 
 This training regiment forces the model to keep the whole board state "in mind" while still focusing on the last move.
 
+![model2 architecture](../img/post_6_vis_4.PNG)
 
 
 This post is in progress. The model is currently being trained. I will update this post after the model finished.
