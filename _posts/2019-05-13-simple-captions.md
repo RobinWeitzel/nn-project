@@ -156,28 +156,10 @@ After all, to say "rook takes on e4 with check" you only need to know three thin
 All other pieces are irrelevant.
 Unfortunately, this limits the room for analysis.
 Explanations should factor in the whole board, not just three pieces.
-Thus, I created a multi-task training scenario to account for this.
-
-### Multi-task training
-Multi-task training is normally used when we have several correlated tasks (i.e. solving one would help solve the the other).
-It can also be used to forces a model to generalize instead of dismissing everything not needed to solve one task (thats what we using it for).
-
-I combined the models from the simple captions and the Autoencoder.
-The resulting architecture expects three inputs (previous board state, current board state, sentence) but outputs two things:
-
-* probability for the next word
-* the board state after the move
-
-This training regiment forces the model to keep the whole board state "in mind" while still focusing on the last move.
-
-![model2 architecture](../img/post_6_vis_4.PNG)
+Thus I repeated the training freezing the encoding layer for the board state.
 
 
-This post is in progress. The model is currently being trained. I will update this post after the model finished.
-
-
-
-Code to the first model can be found [here](https://github.com/RobinWeitzel/nn-project/blob/master/simple_captions.ipynb), the code for the second model [here](https://github.com/RobinWeitzel/nn-project/blob/master/multi_task_learning.ipynb).
+All the code from this post can be found [here](https://github.com/RobinWeitzel/nn-project/blob/master/simple_captions.ipynb).
 
 
 
