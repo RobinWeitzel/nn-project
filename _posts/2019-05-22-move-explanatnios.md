@@ -171,4 +171,4 @@ All we need is a better dataset.
 One possible source could be the multitude of chess books focused on [positional chess](https://www.goodreads.com/shelf/show/chess-positional).
 But that is for another project :)
 
-You can check out the code for this final blog post [here](https://github.com/RobinWeitzel/nn-project/blob/master/move_explanations.ipynb)
+You can check out the code for this final blog post [here](https://github.com/RobinWeitzel/nn-project/blob/master/move_explanations.ipynb).
