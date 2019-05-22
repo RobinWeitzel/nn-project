@@ -116,7 +116,7 @@ To do that, let's look at some common themes within the comments.
 
 ### Introducing structure to comments
 To structure these comments I came up with simple rules to transform a complex sentence into a simple statement.
-The rules I outline below are extremly basic.
+The rules I outline below are extremely basic.
 A lot of information is lost and sometimes the rules extract the wrong thing.
 They are just meant as a starting-point, an example.
 The complex nature of the move explanations make defining perfect extraction rules an almost impossible task way outside of the scope of this project.
@@ -168,3 +168,5 @@ However, this project demonstrates that generating such explanations is realisti
 All we need is a better dataset.
 One possible source could be the multitude of chess books focused on [positional chess](https://www.goodreads.com/shelf/show/chess-positional).
 But that is for another project :)
+
+You can check out the code for this final blog post [here](https://github.com/RobinWeitzel/nn-project/blob/master/move_explanations.ipynb)
