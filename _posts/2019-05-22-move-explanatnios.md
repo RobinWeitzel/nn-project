@@ -107,35 +107,37 @@ Most comments don't form proper sentences.
 The structure differs wildly from sentence to sentence.
 Moves in chess notation are interspersed, often without making it clear to which player these moves belong.
 Some comments think multiple turns ahead outlining complex exchanges while other ask rhetorical questions.
-And this is just in one game!
+And this is just one game!
 
 Traditionally, caption generating system relied heavily on short sentences with similar structure and simple meanings.
-No surprise that generating captions from these comments fails.
+No surprise that generating captions from our comments fails.
 If we want any chance at decent results we need to introduce some structure to the explanations.
 To do that, let's look at some common themes within the comments.
 
-### Introducing structure to comments
+### Introducing structure
 To structure these comments I came up with simple rules to transform a complex sentence into a simple statement.
 The rules I outline below are extremely basic.
 A lot of information is lost and sometimes the rules extract the wrong thing.
 They are just meant as a starting-point, an example.
-The complex nature of the move explanations make defining perfect extraction rules an almost impossible task way outside of the scope of this project.
+The complex nature of the move explanations makes defining perfect extraction rules an almost impossible task way outside the scope of this project.
 However, my simple rules can easily be replaces with more sophisticated at a later time.
 
-The easiest concept is good and bad.
+The easiest concept among the explanations is good and bad.
 Many comments remark on the quality of a move.
 For bad moves, the key phrases in chess are "mistake" and "blunder".
 So let's just replace every sentence containing one of these words with "This move is a mistake".
+For good moves this is not that easy. Negations ("not good") are frequent, so are statements like ("if he did this, that would not have been good [but he did not]).
+Since I only wanted a few simple rules I ignored this keyword.
 
 Next, comments often talk about offense.
-The key terms here are "threatens" and "attacks".
+The key terms here are "threaten" and "attack".
 In contrast to the above rule, simply noting that a move attacks is not good enough.
 Instead, we need to know which square/piece is being attacked.
 Thus, the rule transforms sentences into "This move threatens Nb6" by taking the first move/piece mentioned after the key term.
 
-Lastly, when talk about offense we also need to mention defense.
-"Defends" and "protects" are the key phrases.
-Once again the square also has to be extracted so we end up with a rule similar to the above attach-rule.
+Lastly, when we talk about offense we also need to mention defense.
+"Defend" and "protect" are the key phrases.
+Once again the square also has to be extracted so we end up with a rule similar to the above attack-rule.
 
 I'm sure you could think of more concepts and keywords but as a simple example this shall suffice.
 Applying this ruleset on the commented games leaves us with 1572 moves.
@@ -146,7 +148,7 @@ So that's it.
 We ultimately failed?
 
 First off, our experiments up until this point worked great.
-Much more importantly, the available data is just not good enough fro training.
+Much more importantly, the available data is just not good enough for training.
 We have to few annotated games and most of the comments we have are unstructured, off-topic and very complex.
 
 ![tactical vs positional](../img/post_7_vis_1.PNG)
@@ -160,7 +162,7 @@ Getting these right is the long-term plan but not feasible right now.
 Comments on position are easier to generate.
 They simply look at the static board and mention the immediate impact of the last move.
 Explanations like "This move strengthens the e-file" or "This prevents the capture on f5".
-They can be formulated as simply statements containing a verb (describing the action) and a piece or square.
+They can be formulated as simple statements containing a verb (describing the action) and a piece or square.
 That is what I tried to generate in the previous chapter.
 Unfortunately our dataset only contains very few of these (and then not structured nicely).
 
