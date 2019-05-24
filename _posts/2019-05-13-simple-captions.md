@@ -4,7 +4,7 @@ title:  "Simple Captions"
 date:   2019-05-13 13:11:00 +0200
 tags: project encoding model caption
 ---
-In this post I train a neural network to say what the last move was by showing it the board state before and after the move.
+In this post I train a neural network to output what the last move was by showing it the board state before and after the move.
 This task can easily be done by traditional, non-neural chess engines.
 However, it showcases that our model can not just recite a chess board (see last post for more info about this) but also interpret it.
 That's critical for our last step, generating explanations for moves.
@@ -156,9 +156,12 @@ After all, to say "rook takes on e4 with check" you only need to know three thin
 All other pieces are irrelevant.
 Unfortunately, this limits the room for analysis.
 Explanations should factor in the whole board, not just three pieces.
-Thus I repeated the training freezing the encoding layer for the board state.
+The encoding layer did this during the Autoencoder.
+By simply freezing it the information about the last move has t be extracted in the decoder and is not lost during encoding.
 
-
+Running the updated model resulted in no change to the accuracy showcasing that the encoding can be used to describe the last move.
+With this test completed successfully we can now do what we actually came here to do: generate move explanations.
+Check out the next post for details.
 All the code from this post can be found [here](https://github.com/RobinWeitzel/nn-project/blob/master/simple_captions.ipynb).
 
 
